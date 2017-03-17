@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>música on adolfo ramírez corona</title>
-    <link>http://adolforamirez.com/tags/m%C3%BAsica/index.xml</link>
+    <link>/tags/m%C3%BAsica/index.xml</link>
     <description>Recent content in música on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="http://adolforamirez.com/tags/m%C3%BAsica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/m%C3%BAsica/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>La mejor música es la que se puede inhalar.</title>
-      <link>http://adolforamirez.com/la-mejor-m%C3%BAsica-es-la-que-se-puede-inhalar</link>
+      <link>/la-mejor-m%C3%BAsica-es-la-que-se-puede-inhalar</link>
       <pubDate>Tue, 14 Oct 2014 19:57:12 -0500</pubDate>
       
-      <guid>http://adolforamirez.com/la-mejor-m%C3%BAsica-es-la-que-se-puede-inhalar</guid>
+      <guid>/la-mejor-m%C3%BAsica-es-la-que-se-puede-inhalar</guid>
       <description>&lt;p&gt;La mejor música es la que se puede inhalar.&lt;/p&gt;
 </description>
     </item>

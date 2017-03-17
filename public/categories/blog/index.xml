@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on adolfo ramírez corona</title>
-    <link>http://adolforamirez.com/categories/blog/index.xml</link>
+    <link>/categories/blog/index.xml</link>
     <description>Recent content in blog on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="http://adolforamirez.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Podcast en MeditacionPsicoterapeutica.com</title>
-      <link>http://adolforamirez.com/podcast-en-meditacionpsicoterapeutica-com/</link>
+      <link>/podcast-en-meditacionpsicoterapeutica-com/</link>
       <pubDate>Thu, 27 Sep 2012 14:12:23 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/podcast-en-meditacionpsicoterapeutica-com/</guid>
+      <guid>/podcast-en-meditacionpsicoterapeutica-com/</guid>
       <description>&lt;p&gt;&lt;p style=&#34;text-align: left;&#34;&gt;Estamos muy contentos de anunciarles que los podcast de &lt;a href=&#34;https://itunes.apple.com/mx/podcast/meditacion-psicoterapeutica/id565283940&#34; target=&#34;_blank&#34;&gt;MeditacionPsicoterapeutica.com ya están disponibles en iTunes&lt;/a&gt; para reproducir, descargar y, lo más importante, para suscribirse.&lt;/p&gt;
 
 &lt;p&gt;&lt;p style=&#34;text-align: left;&#34;&gt;Ahora pueden disfrutar de las interesantes historias y reflexiones del psicoterapeuta Adolfo Ramírez Corona ahora en su PC, en el iPhone, iPad, iPod, o en la Mac.&lt;/p&gt;
@@ -26,11 +26,11 @@
     
     <item>
       <title>El amok según Stefan Zweig</title>
-      <link>http://adolforamirez.com/el-amok-segun-stefan-zweig/</link>
+      <link>/el-amok-segun-stefan-zweig/</link>
       <pubDate>Thu, 27 Sep 2012 00:42:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/el-amok-segun-stefan-zweig/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; style=&#34;border: 0px;&#34; src=&#34;http://adolforamirez.com/img/Amok_StefanZweig.jpg&#34; alt=&#34;&#34; width=&#34;131&#34; height=&#34;205&#34; border=&#34;0&#34; /&gt;
+      <guid>/el-amok-segun-stefan-zweig/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;aligncenter&#34; style=&#34;border: 0px;&#34; src=&#34;/img/Amok_StefanZweig.jpg&#34; alt=&#34;&#34; width=&#34;131&#34; height=&#34;205&#34; border=&#34;0&#34; /&gt;
 En el relato “Amok” de Stefan Zweig, el personaje que narra la historia en primera persona, explica en dos momentos lo que es el amok (y del cual les he platicado en “&lt;a href=&#34;http://www.adolforamirez.com/2012/09/el-espiritu-del-malvado-tigre-ante-la.html&#34;&gt;El espíritu del malvado tigre ante la neuroley&lt;/a&gt;”).&lt;/p&gt;
 
 &lt;p&gt;Vale la pena leerlo ya que su descripción es superior a la de cualquier &lt;a href=&#34;http://emedicine.medscape.com/article/294416-overview#a0101&#34; target=&#34;_blank&#34;&gt;manual&lt;/a&gt; o &lt;a href=&#34;http://en.wikipedia.org/wiki/Running_amok&#34; target=&#34;_blank&#34;&gt;enciclopedia&lt;/a&gt;. La literatura supera el lenguaje técnico:
@@ -49,11 +49,11 @@ La edición de Acantilado reúne siete relatos bajo el nombre de éste.&lt;/p&gt
     
     <item>
       <title>Hubo una vez un retiro de meditación…</title>
-      <link>http://adolforamirez.com/hubo-una-vez-un-retiro-de-meditacion/</link>
+      <link>/hubo-una-vez-un-retiro-de-meditacion/</link>
       <pubDate>Tue, 18 Sep 2012 17:03:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/hubo-una-vez-un-retiro-de-meditacion/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;Estupa en Chintamani by adolforamirez.com, on Flickr&#34; href=&#34;http://www.flickr.com/photos/adolforamirez/7997846579/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Estupa en Chintamani&#34; src=&#34;http://adolforamirez.com/img/7997846579_96515f6c06.jpg&#34; width=&#34;288&#34; height=&#34;178&#34; /&gt;&lt;/a&gt;
+      <guid>/hubo-una-vez-un-retiro-de-meditacion/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Estupa en Chintamani by adolforamirez.com, on Flickr&#34; href=&#34;http://www.flickr.com/photos/adolforamirez/7997846579/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Estupa en Chintamani&#34; src=&#34;/img/7997846579_96515f6c06.jpg&#34; width=&#34;288&#34; height=&#34;178&#34; /&gt;&lt;/a&gt;
 &lt;blockquote&gt;
 &lt;div&gt;&lt;i&gt;«No hay silencio verdadero
 sino el compartido»
@@ -80,11 +80,11 @@ Ahora, en este último retiro, mientras en una meditación me percataba del agua
     
     <item>
       <title>La neurociencia y el regreso de la hipnosis</title>
-      <link>http://adolforamirez.com/la-neurociencia-y-el-regreso-de-la-hipnosis/</link>
+      <link>/la-neurociencia-y-el-regreso-de-la-hipnosis/</link>
       <pubDate>Mon, 13 Aug 2012 14:36:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/la-neurociencia-y-el-regreso-de-la-hipnosis/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;upload by adolforamirez.com, on Flickr&#34; href=&#34;http://www.flickr.com/photos/adolforamirez/7770547544/&#34;&gt;&lt;img class=&#34;alignright&#34; alt=&#34;upload&#34; src=&#34;http://adolforamirez.com/img/7770547544_7d2ffb455d.jpg&#34; width=&#34;205&#34; height=&#34;205&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>/la-neurociencia-y-el-regreso-de-la-hipnosis/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;upload by adolforamirez.com, on Flickr&#34; href=&#34;http://www.flickr.com/photos/adolforamirez/7770547544/&#34;&gt;&lt;img class=&#34;alignright&#34; alt=&#34;upload&#34; src=&#34;/img/7770547544_7d2ffb455d.jpg&#34; width=&#34;205&#34; height=&#34;205&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;div&gt;«[Milton] Erickson se le fue encima al &lt;i&gt;establishment&lt;/i&gt; psiquiátrico él solo
@@ -106,11 +106,11 @@ y le dio una sacudida. Ellos todavía no se han dado cuenta…»&lt;/div&gt;
     
     <item>
       <title>Lecturas sobre plagio y mentiras: Poniatowska, Kapuscinski, Lehrer</title>
-      <link>http://adolforamirez.com/lecturas-sobre-plagio-y-mentiras-poniatowska-kapuscinski-lehrer/</link>
+      <link>/lecturas-sobre-plagio-y-mentiras-poniatowska-kapuscinski-lehrer/</link>
       <pubDate>Mon, 06 Aug 2012 21:37:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/lecturas-sobre-plagio-y-mentiras-poniatowska-kapuscinski-lehrer/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;Day 52/366: 2/21/12 - New Yorkers by memsphere, on Flickr&#34; href=&#34;http://www.flickr.com/photos/mempix/6919109605/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Day 52/366: 2/21/12 - New Yorkers&#34; src=&#34;http://adolforamirez.com/img/6919109605_0e9cb4bd0b.jpg&#34; width=&#34;400&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>/lecturas-sobre-plagio-y-mentiras-poniatowska-kapuscinski-lehrer/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Day 52/366: 2/21/12 - New Yorkers by memsphere, on Flickr&#34; href=&#34;http://www.flickr.com/photos/mempix/6919109605/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Day 52/366: 2/21/12 - New Yorkers&#34; src=&#34;/img/6919109605_0e9cb4bd0b.jpg&#34; width=&#34;400&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;El tema del plagio y la exageración de los hechos al grado de la mentira (ficción o periodismo literario para algunos) ha coincidido en algunas de mis lecturas esta semana en personajes y geografías muy diferentes.&lt;/p&gt;
 
@@ -126,11 +126,11 @@ y le dio una sacudida. Ellos todavía no se han dado cuenta…»&lt;/div&gt;
     
     <item>
       <title>Un pequeño comic sobre el efecto placebo</title>
-      <link>http://adolforamirez.com/un-pequeno-comic-sobre-el-efecto-placebo/</link>
+      <link>/un-pequeno-comic-sobre-el-efecto-placebo/</link>
       <pubDate>Mon, 06 Aug 2012 15:03:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/un-pequeno-comic-sobre-el-efecto-placebo/</guid>
-      <description>&lt;p&gt;&lt;div&gt;&lt;a href=&#34;http://3.bp.blogspot.com/-nRPwp7Ucyj4/UBywOzW5jgI/AAAAAAAAAJM/hCARwjoSU1I/s1600/HardToSwallow.jpg&#34;&gt;&lt;img class=&#34;alignright&#34; style=&#34;border: 0px;&#34; alt=&#34;&#34; src=&#34;http://adolforamirez.com/img/HardToSwallow.jpg&#34; width=&#34;253&#34; height=&#34;173&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+      <guid>/un-pequeno-comic-sobre-el-efecto-placebo/</guid>
+      <description>&lt;p&gt;&lt;div&gt;&lt;a href=&#34;http://3.bp.blogspot.com/-nRPwp7Ucyj4/UBywOzW5jgI/AAAAAAAAAJM/hCARwjoSU1I/s1600/HardToSwallow.jpg&#34;&gt;&lt;img class=&#34;alignright&#34; style=&#34;border: 0px;&#34; alt=&#34;&#34; src=&#34;/img/HardToSwallow.jpg&#34; width=&#34;253&#34; height=&#34;173&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 La revista Scientific American publica un pequeño comic sobre el efecto placebo. El guión es del neurocientífico Dwayne Godwiny el dibujo es de Jorge Cham.&lt;/p&gt;
 
 &lt;p&gt;Ya saben que el &lt;a href=&#34;http://www.adolforamirez.com/2012/07/lecturas-sobre-el-efecto-placebo.html&#34;&gt;efecto placebo&lt;/a&gt; es un tema de mi interés.&lt;/p&gt;
@@ -143,11 +143,11 @@ La revista Scientific American publica un pequeño comic sobre el efecto placebo
     
     <item>
       <title>Mente sana en ping-pong sano: Olímpicos y cerebro</title>
-      <link>http://adolforamirez.com/mente-sana-en-ping-pong-sano-olimpicos-y-cerebro/</link>
+      <link>/mente-sana-en-ping-pong-sano-olimpicos-y-cerebro/</link>
       <pubDate>Mon, 06 Aug 2012 00:45:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/mente-sana-en-ping-pong-sano-olimpicos-y-cerebro/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;balls by estherase, on Flickr&#34; href=&#34;http://www.flickr.com/photos/estherase/154138777/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;balls&#34; src=&#34;http://adolforamirez.com/img/154138777_5b9d70b198.jpg&#34; width=&#34;350&#34; height=&#34;258&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>/mente-sana-en-ping-pong-sano-olimpicos-y-cerebro/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;balls by estherase, on Flickr&#34; href=&#34;http://www.flickr.com/photos/estherase/154138777/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;balls&#34; src=&#34;/img/154138777_5b9d70b198.jpg&#34; width=&#34;350&#34; height=&#34;258&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Las redes neuronales son como los músculos que pueden ejercitarse para fortalecerse y mejorarse. Nuestro cerebro se modifica una y otra vez todos los días. Que mejor que hacerlo con el fin de crecer nuestras conexiones cerebrales.&lt;/p&gt;
 
@@ -163,11 +163,11 @@ La revista Scientific American publica un pequeño comic sobre el efecto placebo
     
     <item>
       <title>Bill Clinton ya tiene un monje que le enseña a meditar</title>
-      <link>http://adolforamirez.com/bill-clinton-ya-tiene-un-monje-que-le-ensena-a-meditar/</link>
+      <link>/bill-clinton-ya-tiene-un-monje-que-le-ensena-a-meditar/</link>
       <pubDate>Sun, 05 Aug 2012 03:44:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/bill-clinton-ya-tiene-un-monje-que-le-ensena-a-meditar/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;By Original photo by Bob McNeely, The White House [1] Square by Juan Pablo Arancibia Medina (Original source         SOURCE FROM COMMONS) [Public domain], via Wikimedia Commons&#34; href=&#34;http://commons.wikimedia.org/wiki/File%3ABill_Clinton_(square).jpg&#34;&gt;&lt;img class=&#34;alignright&#34; alt=&#34;Bill Clinton (square)&#34; src=&#34;http://adolforamirez.com/img/512px-Bill_Clinton_(square).jpg&#34; width=&#34;400&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>/bill-clinton-ya-tiene-un-monje-que-le-ensena-a-meditar/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;By Original photo by Bob McNeely, The White House [1] Square by Juan Pablo Arancibia Medina (Original source         SOURCE FROM COMMONS) [Public domain], via Wikimedia Commons&#34; href=&#34;http://commons.wikimedia.org/wiki/File%3ABill_Clinton_(square).jpg&#34;&gt;&lt;img class=&#34;alignright&#34; alt=&#34;Bill Clinton (square)&#34; src=&#34;/img/512px-Bill_Clinton_(square).jpg&#34; width=&#34;400&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Después de los problemas cardiacos que tuvo en 2004, Bill Clinton parece haber cambiado sustancialmente su modo de vida. Entre otras muchas cosas, ha dejado de comer carne y ahora lleva una dieta vegana.&lt;/p&gt;
 
@@ -181,11 +181,11 @@ La revista Scientific American publica un pequeño comic sobre el efecto placebo
     
     <item>
       <title>Tiro con arco: armonizar lo consciente con lo inconsciente</title>
-      <link>http://adolforamirez.com/tiro-con-arco-armonizar-lo-consciente-con-lo-inconsciente/</link>
+      <link>/tiro-con-arco-armonizar-lo-consciente-con-lo-inconsciente/</link>
       <pubDate>Fri, 03 Aug 2012 15:25:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/tiro-con-arco-armonizar-lo-consciente-con-lo-inconsciente/</guid>
-      <description>&lt;p&gt;&lt;div&gt;&lt;a title=&#34;Archery Leaders&#39; Course 2009 by Ferguson Jones, on Flickr&#34; href=&#34;http://www.flickr.com/photos/primeradiant/3319994601/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Archery Leaders&#39; Course 2009&#34; src=&#34;http://adolforamirez.com/img/3319994601_86efb76ecd.jpg&#34; width=&#34;400&#34; height=&#34;266&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+      <guid>/tiro-con-arco-armonizar-lo-consciente-con-lo-inconsciente/</guid>
+      <description>&lt;p&gt;&lt;div&gt;&lt;a title=&#34;Archery Leaders&#39; Course 2009 by Ferguson Jones, on Flickr&#34; href=&#34;http://www.flickr.com/photos/primeradiant/3319994601/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Archery Leaders&#39; Course 2009&#34; src=&#34;/img/3319994601_86efb76ecd.jpg&#34; width=&#34;400&#34; height=&#34;266&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 Oportuno recordar el siguiente fragmento sobre el zen y el tiro con arco escrito por Daisetz T. Suzuki, quien fue uno de los principales agentes de introducción del budismo zen a occidente.&lt;/p&gt;
 
 &lt;p&gt;(Por cierto, tengo en la cabeza la idea que Aida Román practica yoga y no recuerdo donde lo leí pero no lo he podido confirmar por ningún lado.)
@@ -202,11 +202,11 @@ Oportuno recordar el siguiente fragmento sobre el zen y el tiro con arco escrito
     
     <item>
       <title>¿Qué hace el cerebro cuando no hace nada?</title>
-      <link>http://adolforamirez.com/que-hace-el-cerebro-cuando-no-hace-nada/</link>
+      <link>/que-hace-el-cerebro-cuando-no-hace-nada/</link>
       <pubDate>Fri, 03 Aug 2012 14:35:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/que-hace-el-cerebro-cuando-no-hace-nada/</guid>
-      <description>&lt;p&gt;&lt;a title=&#34;Calm sea by vickip2, on Flickr&#34; href=&#34;http://www.flickr.com/photos/35599622@N07/3341256096/&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://adolforamirez.com/img/3341256096_d23ca82852.jpg&#34; alt=&#34;Calm sea&#34; width=&#34;320&#34; height=&#34;240&#34; /&gt;&lt;/a&gt;
+      <guid>/que-hace-el-cerebro-cuando-no-hace-nada/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Calm sea by vickip2, on Flickr&#34; href=&#34;http://www.flickr.com/photos/35599622@N07/3341256096/&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;/img/3341256096_d23ca82852.jpg&#34; alt=&#34;Calm sea&#34; width=&#34;320&#34; height=&#34;240&#34; /&gt;&lt;/a&gt;
 ¿Qué hace el cerebro cuando dejamos de prestar atención a lo que pasa a nuestro alrededor mientras estamos despiertos? En otras palabras, ¿qué hace el cerebro cuando no hace nada?
 El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo nada. Rastrea continuamente el entorno y el propio cuerpo por posibles amenazas. El murmullo de la atención lo mantiene siempre en vigilia.&lt;/p&gt;
 
@@ -222,11 +222,11 @@ El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo n
     
     <item>
       <title>Lecturas sobre el efecto placebo</title>
-      <link>http://adolforamirez.com/lecturas-sobre-el-efecto-placebo/</link>
+      <link>/lecturas-sobre-el-efecto-placebo/</link>
       <pubDate>Sun, 29 Jul 2012 21:36:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/lecturas-sobre-el-efecto-placebo/</guid>
-      <description>&lt;p&gt;&lt;div&gt;&lt;span&gt;&lt;a title=&#34;Pill Man by takgoti, on Flickr&#34; href=&#34;http://www.flickr.com/photos/takgoti/412281285/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Pill Man&#34; src=&#34;http://adolforamirez.com/img/412281285_cd867b1f84.jpg&#34; width=&#34;432&#34; height=&#34;289&#34; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+      <guid>/lecturas-sobre-el-efecto-placebo/</guid>
+      <description>&lt;p&gt;&lt;div&gt;&lt;span&gt;&lt;a title=&#34;Pill Man by takgoti, on Flickr&#34; href=&#34;http://www.flickr.com/photos/takgoti/412281285/&#34;&gt;&lt;img class=&#34;alignleft&#34; alt=&#34;Pill Man&#34; src=&#34;/img/412281285_cd867b1f84.jpg&#34; width=&#34;432&#34; height=&#34;289&#34; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;span&gt;Y luego se sorprenden de la psicoterapia y sus milagros.&lt;/span&gt;&lt;span&gt;
 &lt;/span&gt;
 &lt;span&gt;Desde hace unos tres años la noticia ha corrido como pólvora: los placebos están teniendo el mismo efecto que los medicamentos. El estudio de este fenómeno se está extendiendo a entender cómo funcionan algunos tratamientos alternativos. &lt;a href=&#34;http://www.wired.com/medtech/drugs/magazine/17-09/ff_placebo_effect?currentPage=all&#34;&gt;Placebos Are Getting More Effective. Drugmakers Are Desperate to Know Why.&lt;/a&gt; es un artículo que puso el tema en los medios.&lt;/span&gt;
@@ -239,10 +239,10 @@ El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo n
     
     <item>
       <title>Mis lecturas sobre la tragedia de Aurora, CO</title>
-      <link>http://adolforamirez.com/mis-lecturas-sobre-la-tragedia-de-aurora-co/</link>
+      <link>/mis-lecturas-sobre-la-tragedia-de-aurora-co/</link>
       <pubDate>Sat, 28 Jul 2012 03:43:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/mis-lecturas-sobre-la-tragedia-de-aurora-co/</guid>
+      <guid>/mis-lecturas-sobre-la-tragedia-de-aurora-co/</guid>
       <description>&lt;p&gt;Les comparto mis lecturas sobre el tema de la reciente tragedia en Aurora, Colorado, que como ustedes saben, para un psicoterapeuta es muy relevante acercarse a comprender. Todas están en inglés por la naturaleza del tema.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -257,10 +257,10 @@ El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo n
     
     <item>
       <title>¿Qué tienen en común seres queridos, celebridades y candidatos?</title>
-      <link>http://adolforamirez.com/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos/</link>
+      <link>/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos/</link>
       <pubDate>Sat, 07 Jul 2012 12:54:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos/</guid>
+      <guid>/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos/</guid>
       <description>&lt;p&gt;&lt;p style=&#34;text-align: left;&#34;&gt;Me encontré con un artículo científico que por primera vez hace un estudio de un tema que puede ser interesante para reflexionar en estos tiempos, y ahora van a ver a que tiempos me refiero.&lt;/p&gt;
 
 &lt;p&gt;Richard Harris, psicólogo cognitivo de la Universidad del Estado de Kansas y profesor de psicología, hizo un estudio de nuestra relación con celebridades y figuras públicas, llegando a la conclusión de lo importante que se vuelven éstas en nuestra vida diaria, y por lo tanto, el tipo de reacciones que provocan en nosotros de lo que va pasando en sus vidas.&lt;/p&gt;
@@ -288,10 +288,10 @@ El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo n
     
     <item>
       <title>Porque no veo el Super Bowl</title>
-      <link>http://adolforamirez.com/porque-no-veo-el-super-bowl/</link>
+      <link>/porque-no-veo-el-super-bowl/</link>
       <pubDate>Mon, 06 Feb 2012 00:30:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/porque-no-veo-el-super-bowl/</guid>
+      <guid>/porque-no-veo-el-super-bowl/</guid>
       <description>&lt;p&gt;&lt;p style=&#34;text-align: left;&#34;&gt;El jueves 4 de febrero de 1993 recibí una llamada telefónica a la editorial donde trabajaba entonces, en la que me comunicaban que Mauricio Hoyo Castanedo, uno de mis mejores amigos, había fallecido el día anterior. Teníamos veinticuatro años.
 &lt;p style=&#34;text-align: left;&#34;&gt;Lo había visto apenas el domingo previo a la llamada en el departamento de un amigo mutuo. La coartada fue ver el Super Bowl aunque en realidad disfruté mucho más las partidas de ajedrez antes de que comenzara el partido y todas las soluciones que discutimos para arreglar gran parte de los problemas de la humanidad (acompañados de unas cervezas, &lt;i&gt;of course&lt;/i&gt;).
 &lt;p style=&#34;text-align: left;&#34;&gt;Su muerte no fue sorpresiva. Estaba enfermo y ya había sido internado en varias ocasiones. Pero ya saben: duele igual.
@@ -302,10 +302,10 @@ El cerebro se mantiene en activo aún cuando aparentemente no estamos haciendo n
     
     <item>
       <title>Appendix philosophicus</title>
-      <link>http://adolforamirez.com/appendix-philosophicus/</link>
+      <link>/appendix-philosophicus/</link>
       <pubDate>Tue, 07 Jun 2011 02:43:00 +0000</pubDate>
       
-      <guid>http://adolforamirez.com/appendix-philosophicus/</guid>
+      <guid>/appendix-philosophicus/</guid>
       <description>&lt;p&gt;Dejemos los conceptos a un lado. Olvidémonos de la posibilidad de un ego. Ya no discutamos más el fantasma lacaniano. Ni siquiera nos atrevamos a explorar una metafísica del sueño. Hay una realidad innegable, una existencia incuestionable cuando se siente el dolor en las entrañas y el médico de guardia diagnostica apendicitis. La filosofía no tiene cabida en el cuerpo. Nunca la tuvo pero no nos quisimos dar cuenta.&lt;/p&gt;
 
 &lt;p&gt;Podemos debatir por días o semanas el ser o no ser de ese ego, fantasma o sueño. Pero basta un par de horas para que la apendicectomía termine con éxito y se nos aparezca la realidad más real de todas: una parte de nuestro ser físico se ha ido a la incineradora de desechos orgánicos hospitalarios.&lt;/p&gt;

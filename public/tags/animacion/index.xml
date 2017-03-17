@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>animacion on adolfo ramírez corona</title>
-    <link>http://adolforamirez.com/tags/animacion/index.xml</link>
+    <link>/tags/animacion/index.xml</link>
     <description>Recent content in animacion on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="http://adolforamirez.com/tags/animacion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/animacion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>¿Qué es meditar?</title>
-      <link>http://adolforamirez.com/que-es-meditar</link>
+      <link>/que-es-meditar</link>
       <pubDate>Thu, 21 May 2015 20:24:14 -0500</pubDate>
       
-      <guid>http://adolforamirez.com/que-es-meditar</guid>
+      <guid>/que-es-meditar</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/11JF_g2M7Ao&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
