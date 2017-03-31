@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on adolfo ramírez corona</title>
-    <link>/podcast/index.xml</link>
+    <link>https://adolforismos.com/podcast/index.xml</link>
     <description>Recent content in Podcasts on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adolforismos.com/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Podcasts</title>
-      <link>/podcast/podcast/</link>
+      <link>https://adolforismos.com/podcast/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/podcast/podcast/</guid>
+      <guid>https://adolforismos.com/podcast/podcast/</guid>
       <description>
 
 &lt;h2 id=&#34;podcast-de-el-apendiz-de-mago&#34;&gt;Podcast  de &lt;em&gt;el apendiz de mago&lt;/em&gt;&lt;/h2&gt;

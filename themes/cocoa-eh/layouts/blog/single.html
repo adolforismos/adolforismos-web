@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    {{ partial "page-heading" . }}
+                </div>
+                <div class="meta">
+                    <div class="date" title="{{ .Date.Format .Site.Params.dateformfull }}">{{ .Date.Format .Site.Params.dateform }}</div>
+                    <div class="reading-time"><div class="middot"></div>{{ if eq 1 .ReadingTime }}{{ .ReadingTime }} minute read{{ else }}{{ .ReadingTime }} minutes read{{ end }}</div>
+                </div>
+            </div>
+            <div class="markdown">
+                {{ .Content }}
+
+                <hr>
+                <form action="https://tinyletter.com/micromeditaciones" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/micromeditaciones', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+                <label for="tlemail"><strong>Suscríbete para recibir actualizaciones:</strong></label><br>
+                <input type="text" style="width:240px" name="email" id="tlemail" /><br>
+                <input type="hidden" value="1" name="embed"/>
+                <input type="submit" value="Suscribirse" />
+                </form>
+                <hr>
+                <a href="{{ .Section }}">Back to posts</a>
+            </div>
+            <br>
+            <div class="disqus">
+                {{ template "_internal/disqus.html" . }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

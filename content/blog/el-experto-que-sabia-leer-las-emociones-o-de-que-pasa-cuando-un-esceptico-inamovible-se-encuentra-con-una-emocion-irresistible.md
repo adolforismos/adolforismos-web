@@ -1,0 +1,50 @@
+---
+
+categories:
+- Meditaciones
+- Podcast
+date: 2012-09-24T14:08:00Z
+excerpt: ¿Recuerdan el experto en mentiras de la serie de televisión "Lie to me"?
+description: Cuando un escéptico inamovible se encuentra con una emoción irresistible
+published: true
+status: publish
+tags:
+- budismo
+- neurociencia
+- psicoterapia
+title: El experto que sabía leer las emociones
+type: blog
+url: /el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible/
+---
+
+<a href="http://amzn.to/1fNrDTJ"><img class="alignright wp-image-2103 size-medium" src="/img/emotional-awarness-cover-183x300.jpg" alt="Emotional Awareness http://amzn.to/1fNrDTJ" width="183" height="300" /></a>
+Creo que a todos nos ha dado tentación en algún momento de nuestra vida el poder combinar dos universos, dos mundos aparentemente separados el uno del otro, juntarlos. Por ejemplo, a mi siempre me gustaban esos episodios especiales de caricaturas donde podíamos ver al oso Yogi junto con Don Gato y su pandilla. O por supuesto, Los Súper Amigos o Salón de la justicia, con Supermán al lado de Batman. Y estas combinaciones pueden ser de muy diferentes tipos, ese es el fundamento de la creatividad. A George Lucas le gustaban los westerns con pistolas y los mosqueteros con espadas, y siempre quiso poder tener lo mejor de los dos en una misma película. No a pocos les pareció descabellada tal idea, y bueno, ya saben en que terminó eso, ¿no?
+A veces, dan ganas de poner algún personaje de ficción con uno real, por ejemplo. ¿Qué tal poner a platicar a Rambo con Gandhi y ver qué pasa?
+Y está la tecnología. Llevar a Julio Verne a una presentación de productos de Apple a ver qué cara pone o que ideas les da.
+
+Algo así ha pasado con los equipos de imagen de  resonancia magnética funcional. Estos aparatos que están revolucionando la manera en que entendemos cómo funciona el cerebro humano. Si el siglo pasado cerró con los grandes descubrimientos en genética y genoma humano, este inicio de siglo es de la neurociencia. Y a muchos les está interesando sacar resonancias magnéticas funcionales al cerebro de Supermán o cualquier superhéroe que se deje.
+
+En serio, se está estudiando el cerebro de personas con capacidades diferentes en múltiples campos, algunos tremendamente específicos. ¿Hay diferencias entre el cerebro de un percusionista y el de un bajista o tecladista? ¿Cómo funciona el lenguaje en el cerebro entre una persona bilingüe de nacimiento y una que se hizo bilingüe de adulto? ¿Cómo construye su mundo una persona con autismo en relación con quien no lo tiene? ¿Qué diferencia hay entre la memoria visual y espacial de un taxista londinense con la de un chofer de autobús en la misma ciudad?
+Y por supuesto, no faltó a quien ya se le antojó meter a resonancia magnética funcional el cerebro del Dalai Lama. Y bueno, esto es más difícil que meter el de Supermán, porque el Dalai Lama es Su Santidad el Dalai Lama, y Supermán, aceptémoslo, es un inmigrante ilegal venido a más.
+
+Pero vamos a otro universo y luego les revelo su conexión con este.
+
+¿Recuerdan el experto en mentiras de la serie de televisión "Lie to me"? Era el doctor Cal Lightman, que podía saber cuando una persona estaba mintiendo con solo ver las expresiones de su rostro, expresiones mínimas, casi imperceptibles, e inconcientes, llamadas microexpresiones. Es decir,su teoría dice que cuando una persona responde a una serie de preguntas con la verdad, va a mostrar un comportamiento con su cuerpo, su rostro, y cualquier expresión mínima de su cara. En el momento que responda a una pregunta con una mentira, algo va a cambiar, tal vez un pestañeo diferente, una mueca, un tic, por mínimo que sea. Y eso es lo que el doctor Lightman buscaba detectar en los criminales, terroristas o vendedores de hotdogs tramposos que le mentían.
+
+Pues por si no lo sabían, la teoría principal de esta serie de ficción, no es ficción. De hecho, el personaje del Dr. Cal Lightman está inspirado en el Dr. Paul Ekman, que es el que desarrolló todo este sistema que efectivamente usan muchas de las autoridades judiciales y militares en Estados Unidos. El personaje está inspirado en la persona sólo en lo profesional, claro, y se toma muchas licencias poéticas en la aplicación teórica. Para los interesados en el detalle de las diferencias, Ekman mantuvo un blog con sus comentarios a cada episodio de la serie, y el archivo se mantiene en su página personal.
+
+En el año 2000 Paul Ekman fue invitado a las conferencias que cada dos años realiza el Mind and Life Institute, y de las cuales el Dalai Lama ha sido el anfitrión. Estas conferencias se realizan desde 1987 y reúnen a eminentes budistas tibetanos y maestros de diferentes prácticas contemplativas, con no menos eminentes científicos occidentales. Es un intercambio que tuvo que realizarse en privado durante los primeros encuentros, principalmente por la reticencia de los científicos occidentales. Sin embargo, esta privacidad rindió frutos, ya que permitió que ahora se realicen en su mayor parte, públicamente. La labor del Mind and Life Institute ha sido de alta relevancia en los últimos años y vale la pena darle seguimiento también.
+
+Regresando a nuestra historia, ese año 2000 en Dharamsala, India, era la octava reunión organizada por el Mind and Life Institute y el tema fue Emociones Destructivas. Un escéptico aunque curioso Paul Ekman expuso sobre los estudios de Charles Darwin acerca de las emociones, tema en el que también es experto. La química entre Ekman y el Dalai fue inmediata, según relatarían ambos años después. Y a pesar de que la naturaleza de las reuniones no permitió mayor intercambio de ideas, la semilla de una nueva relación estaba sembrada.
+
+Las investigaciones sobre la manera en que la meditación impacta en el cerebro son muy viejas. Desde el siglo pasado, en la década de los ochenta Herbert Benson estudió cambios fisiológicos en temperatura corporal en meditadores himalayos que precisamente generaban calor con su cuerpo. Tal vez hayan visto documentales en la televisión al respecto. Y el mismo Paul Ekman descubrió como monjes y meditadores experimentados tienen un extraordinario nivel de exactitud para leer emociones en las expresiones faciales, mucho más hábiles, confiables y eficaces que todos los sujetos con los que había experimentado previamente. Mucho mejores tal vez, que los mismos personajes de la serie de televisión “Lie to me”.
+
+Ekman volvió a ver al Dalai Lama en otra de las conferencias de Mind and Life, esta vez en el 2004, en Vancuver, Canadá, pero solo como asistente y no como conferenciante. Sin embargo, escuchar los nuevos puntos de vista sobre emociones por parte del Dalai Lama, generó en Ekman más entusiasmo y un prontuario de temas y preguntas para profundizar sobre la manera en que las emociones nos unen y nos separan, nos hacen mejores personas, pero también nos pueden dañar. No sólo logró hacer llegar esas preguntas al Dalai Lama sino que éste le dio un espacio de tres días para tener un diálogo e intercambiar ideas. Claro, debido a la ocupadísima agenda de su santidad, esta cita se realizó catorce meses después, pero eso no importaba. Varios otros científicos aportaron al prontuario y a los temas, así como varios otros estudiosos tibetanos. El resultado de esas conversaciones está condensado en el libro «Sabiduria Emocional. Una conversacion entre S.S. El Dalai Lama y Paul Ekman».
+
+Más allá de todo ese intercambio de conocimientos e ideas, quiero hacer énfasis en algo mucho más humano y personal. Tiempo atrás, en el 2001, el Dalai Lama conoció de primera mano los equipos de resonancia magnética. Al menos los que había en aquel entonces, porque estos equipos se actualizan y mejoran a la velocidad que Apple saca nuevos modelos de iPhone. Y de hecho, pudo ver el resultado de unas imágenes obtenidas de un meditador experto, ante las que mostró gran interés. Sin embargo, subrayó lo esencial de la aplicación del método en primera persona, en vivir la experiencia fenomenológica de los propios estados cognitivos, emocionales y psicológicos.
+
+Y ahí es adonde quería yo llegar. Y llevarlos a ustedes conmigo, por supuesto. El primer encuentro que les platicaba entre el experto de la mentira, Cal Lightman, digo, Paul Ekman, y el Dalai Lama, que como todo budista es seguidor del Dharma, de la verdad, tuvo un momento fuera de las conferencias, en uno de los recesos. En ese receso, la hija de Ekman, Eve, pudo hacerle una pregunta informal al Dalai Lama, y mientras su santidad le respondía Paul Ekman vivió uno de esos momentos extraordinarios que cambian la vida. Sintió un par de sensaciones físicas, para las cuales no tuvo palabras que las definieran. Una, tal vez podría acercarse a calidez. La segunda es más difícil todavía de explicar. Vio a todos a su alrededor como a distancia. En sus palabras, “como si los estuviera viendo desde el lado opuesto de unos binoculares”. La bondad irradiaba todo a su alrededor. Sea lo que fuere, lo cambió. Hasta su esposa, con quien pasó unos días de vacaciones después de las conferencias, le dijo, sin saber nada de la experiencia específica, “no eres el hombre con el que me casé, es mucho más sencillo ahora estar contigo”.
+
+Y no se malentienda, no fue un milagro por haber estado con el Dalai Lama. Ni el mismo Dalai Lama cree eso. Ekman experimentó, según sus propias palabras, “una conciencia inusual que transformó íntimamente su vida emocional”. Lo cambió de ser un pesimista a un optimista, su impaciencia se fue, su frustración se fue, en los siguientes siete meses no tuvo ataques de ira, incluso se dio cuenta que había tenido ira todas las semanas de su vida desde que tenía dieciocho años y había vivido un pleito muy fuerte con su padre.
+
+Ese día en Dharamsala, el experto en emociones se encontró con una emoción que cambió su vida, y la cual, bajo su visión científica y occidental, sigue siendo un misterio. El experto en mentiras parece haber encontrado una verdad.

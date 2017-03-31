@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    {{ partial "page-heading" . }}
+                </div>
+
+            </div>
+
+
+                <div class="markdown">
+
+<h1>Contenido:</h1>
+</div>
+                  <ul>
+                        <li>{{ .TableOfContents }}</li>
+                      </ul>
+                      <!---
+
+--->
+
+
+            <div class="markdown">
+                {{ .Content }}
+                <br>
+                <a href="{{ .Section }}">Back to posts</a>
+            </div>
+            <br>
+            <div class="disqus">
+                {{ template "_internal/disqus.html" . }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

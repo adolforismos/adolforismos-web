@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>haiku on adolfo ramírez corona</title>
-    <link>/tags/haiku/index.xml</link>
+    <link>http://adolforamirez.com/tags/haiku/index.xml</link>
     <description>Recent content in haiku on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://adolforamirez.com/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Música</title>
-      <link>/musica/</link>
+      <link>http://adolforamirez.com/musica/</link>
       <pubDate>Sat, 07 Feb 2009 04:45:00 +0000</pubDate>
       
-      <guid>/musica/</guid>
+      <guid>http://adolforamirez.com/musica/</guid>
       <description>&lt;p&gt;música de viento&lt;br /&gt;
 el árbol baila&lt;br /&gt;
 sin mover los pies&lt;/p&gt;
@@ -22,10 +22,10 @@ sin mover los pies&lt;/p&gt;
     
     <item>
       <title>Sobre el pasto</title>
-      <link>/sobre-el-pasto/</link>
+      <link>http://adolforamirez.com/sobre-el-pasto/</link>
       <pubDate>Tue, 21 Oct 2008 23:08:00 +0000</pubDate>
       
-      <guid>/sobre-el-pasto/</guid>
+      <guid>http://adolforamirez.com/sobre-el-pasto/</guid>
       <description>&lt;p&gt;Sobre el pasto&lt;br /&gt;
 sombra de mí –de nadie&lt;br /&gt;
 medita&lt;/p&gt;
@@ -34,10 +34,10 @@ medita&lt;/p&gt;
     
     <item>
       <title>Calles de eucalipto</title>
-      <link>/calles-de-eucalipto/</link>
+      <link>http://adolforamirez.com/calles-de-eucalipto/</link>
       <pubDate>Wed, 15 Oct 2008 04:00:00 +0000</pubDate>
       
-      <guid>/calles-de-eucalipto/</guid>
+      <guid>http://adolforamirez.com/calles-de-eucalipto/</guid>
       <description>&lt;p&gt;Calles de eucalipto,&lt;br /&gt;
 olor a otoño&lt;br /&gt;
 en la basura&lt;/p&gt;
@@ -46,10 +46,10 @@ en la basura&lt;/p&gt;
     
     <item>
       <title>Bosque en el asfalto</title>
-      <link>/bosque-en-el-asfalto/</link>
+      <link>http://adolforamirez.com/bosque-en-el-asfalto/</link>
       <pubDate>Tue, 22 Jul 2008 13:04:00 +0000</pubDate>
       
-      <guid>/bosque-en-el-asfalto/</guid>
+      <guid>http://adolforamirez.com/bosque-en-el-asfalto/</guid>
       <description>&lt;p&gt;Humedad del bosque&lt;br /&gt;
 sobre el asfalto:&lt;br /&gt;
 ¡viento del sur!&lt;/p&gt;
@@ -58,10 +58,10 @@ sobre el asfalto:&lt;br /&gt;
     
     <item>
       <title>En meditación I</title>
-      <link>/en-meditacion-i/</link>
+      <link>http://adolforamirez.com/en-meditacion-i/</link>
       <pubDate>Fri, 27 Jun 2008 03:34:00 +0000</pubDate>
       
-      <guid>/en-meditacion-i/</guid>
+      <guid>http://adolforamirez.com/en-meditacion-i/</guid>
       <description>&lt;p&gt;Viento en mi piel,&lt;br /&gt;
 avión pájaro&lt;br /&gt;
 en mis oídos.&lt;/p&gt;
@@ -70,10 +70,10 @@ en mis oídos.&lt;/p&gt;
     
     <item>
       <title>Aire</title>
-      <link>/aire/</link>
+      <link>http://adolforamirez.com/aire/</link>
       <pubDate>Tue, 24 Jun 2008 22:45:00 +0000</pubDate>
       
-      <guid>/aire/</guid>
+      <guid>http://adolforamirez.com/aire/</guid>
       <description>&lt;p&gt;Sumerjo mi rostro en el aire&lt;br /&gt;
 Trago un buche de oxígeno&lt;br /&gt;
 ligero como agua en polvo&lt;/p&gt;
@@ -82,10 +82,10 @@ ligero como agua en polvo&lt;/p&gt;
     
     <item>
       <title>Primavera</title>
-      <link>/primavera/</link>
+      <link>http://adolforamirez.com/primavera/</link>
       <pubDate>Tue, 10 Apr 2007 16:00:00 +0000</pubDate>
       
-      <guid>/primavera/</guid>
+      <guid>http://adolforamirez.com/primavera/</guid>
       <description>&lt;p&gt;Oscuridad clara&lt;br&gt;
 el silencio canta&lt;br&gt;
 primavera extraña&lt;/p&gt;
@@ -94,10 +94,10 @@ primavera extraña&lt;/p&gt;
     
     <item>
       <title>Hoy</title>
-      <link>/hoy/</link>
+      <link>http://adolforamirez.com/hoy/</link>
       <pubDate>Mon, 09 Apr 2007 16:57:00 +0000</pubDate>
       
-      <guid>/hoy/</guid>
+      <guid>http://adolforamirez.com/hoy/</guid>
       <description>&lt;p&gt;Calor, viento fresco&lt;br&gt;
 hoy termina y empieza&lt;br&gt;
 la semana&lt;/p&gt;

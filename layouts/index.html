@@ -1,0 +1,70 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            {{ range where .Data.Pages "Title" "Home"}}
+                <div class="markdown">
+                {{ .Content }}
+                </div>
+            {{ end }}
+                <div class="markdown">
+                  <h2>Artículos destacados:</h2>
+            <ul>
+            {{ range first 5 .Site.Taxonomies.categories.Favoritos }}
+
+                <li class= "post-item"><span class="meta">{{ dateFormat "2006.01.02" .Page.Date }}</span> <a href="{{ .Page.Permalink }}"><span>{{ .Page.Title }}. {{ .Page.Description }}</span></a></li>
+
+<!---
+                <p>
+                  {{ .Page.Summary }}
+                </p>
+--->
+            {{ end }}
+
+            {{ $nbTotalGroup1 := (.Site.Taxonomies.categories.Favoritos)}}
+            {{ if gt $nbTotalGroup1 5}}
+                <h8><a href="./blog/">Ver más ...</a></h8>
+            {{ end }}
+          </ul>
+
+
+            </div>
+
+                      <div class="markdown">
+<h2>Posts recientes:</h2>
+</div>
+            <ul>
+            {{ range first 5 (.Data.Pages.GroupByDate "Jan, 2006" "desc")}}
+                {{ $nbPages := len (where .Pages "Section" "blog")}}
+                {{ if ne $nbPages 0}}
+                    <li class="groupby">{{ .Key }}</li>
+                {{ end }}
+                {{ range where .Pages.ByPublishDate "Section" "blog"}}
+                    {{ partial "li.html" . }}
+                {{ end }}
+            {{ end }}
+            </ul>
+
+
+
+
+            {{ $nbTotalGroup := len (.Data.Pages.GroupByDate "Jan, 2006" "desc")}}
+            {{ if gt $nbTotalGroup 5}}
+                <h8><a href="./blog/">Ver más ...</a></h8>
+            {{ end }}
+                <div class="markdown">
+            <h2>Contacto:</h2>
+
+            <form action="//formspree.io/info@adolforamirez.com" method="POST">
+            <input type="email" name="_replyto" placeholder="Tu correo" size="62"><br>
+            <textarea name="message" placeholder="Tu mensaje" rows="5" cols="60"></textarea><br />
+            <input type="hidden" name="_subject" value="Home!" />
+            <input type="hidden" name="_next" value="http://adolforamirez.com/index.html" />
+            <button type="submit">Enviar</button>
+            </form>
+          </div>
+
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
