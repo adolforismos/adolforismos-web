@@ -7,6 +7,12 @@
                 {{ .Content }}
                 </div>
             {{ end }}
+
+<!--<a class="twitter-timeline"  href="https://twitter.com/adolforismos" data-widget-id="425463896107794432"   data-height="200" data-width="800"  data-chrome="nofooter">Tweets recientes:</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+-->
+
+
                 <div class="markdown">
                   <h2>Artículos destacados:</h2>
             <ul>
@@ -29,12 +35,12 @@
 
 
             </div>
-
+<!--
                       <div class="markdown">
 <h2>Posts recientes:</h2>
 </div>
             <ul>
-            {{ range first 5 (.Data.Pages.GroupByDate "Jan, 2006" "desc")}}
+            {{ range first 2 (.Data.Pages.GroupByDate "Jan, 2006" "desc")}}
                 {{ $nbPages := len (where .Pages "Section" "blog")}}
                 {{ if ne $nbPages 0}}
                     <li class="groupby">{{ .Key }}</li>
@@ -63,6 +69,17 @@
             <button type="submit">Enviar</button>
             </form>
           </div>
+-->
+
+
+                <div class="markdown">
+                <form action="https://tinyletter.com/micromeditaciones" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/micromeditaciones', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+                <label for="tlemail"><h2>Suscríbete para recibir actualizaciones:</h2></label>
+                <input type="text" style="width:240px" name="email" id="tlemail" value="Tu correo"/>
+                <input type="hidden" value="1" name="embed"/>
+                <input type="submit" value="Suscribirse" />
+                </form>
+              </div>
 
         </div>
     </div>

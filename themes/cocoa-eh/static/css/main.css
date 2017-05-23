@@ -736,8 +736,11 @@ section.main .content .markdown blockquote p:last-child {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
-  section.main .content .markdown p {
+section.main .content .markdown p {
   font-size: 1.2em;
+}
+section.main .content .markdown strong {
+  font-weight: 700;
 }
 section.main .content .markdown img {
   margin: 1rem 0;
