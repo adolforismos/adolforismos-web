@@ -4,6 +4,7 @@ build:
     - koldovsky/hugo-build@1.16.5:
       version: "0.24.1"
       theme: "cocoa-eh"
+    - bigtruedata/install-node@2.1.1
 deploy:
   steps:
     - zbuttram/wercker-firebase-deploy@0.1.3:
