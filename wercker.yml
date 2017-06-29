@@ -6,6 +6,7 @@ build:
       theme: "cocoa-eh"
 deploy:
     steps:
+      - devillex/firebase-deploy@1.1.0
       - firebase-deploy:
           project: adolforismos-web
           token: $FIREBASE_TOKEN
