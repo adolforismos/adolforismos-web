@@ -1,5 +1,7 @@
 language: go
-install: go get -v github.com/gohugoio/hugo
+install: 
+  - go get -v github.com/gohugoio/hugo
+  - npm install -g firebase-tools
 script:
   - hugo
 deploy:
