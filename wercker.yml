@@ -2,9 +2,8 @@ box: debian
 build:
   steps:
     - koldovsky/hugo-build@1.16.5
-    - devillex/firebase-deploy@1.1.0
 deploy:
-    steps:
-      - firebase-deploy:
-          project: adolforismos-web
-          token: $FIREBASE_TOKEN
+  steps:
+    - devillex/firebase-deploy@1.1.0:
+        project: adolforismos-web
+        token: $FIREBASE_TOKEN
