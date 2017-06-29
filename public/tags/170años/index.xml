@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>170años on adolfo ramírez corona</title>
-    <link>https://adolforismos.com/tags/170a%C3%B1os/index.xml</link>
+    <link>https://adolforismos.com/tags/170a%C3%B1os/</link>
     <description>Recent content in 170años on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="https://adolforismos.com/tags/170a%C3%B1os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2014 09:50:53 -0500</lastBuildDate>
+    
+	<atom:link href="https://adolforismos.com/tags/170a%C3%B1os/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El lenguaje de las palomas: algunos nacen póstumos</title>
-      <link>https://adolforismos.com/el-lenguaje-de-las-palomas-algunos-nacen-postumos</link>
+      <link>https://adolforismos.com/el-lenguaje-de-las-palomas-algunos-nacen-postumos/</link>
       <pubDate>Wed, 15 Oct 2014 09:50:53 -0500</pubDate>
       
-      <guid>https://adolforismos.com/el-lenguaje-de-las-palomas-algunos-nacen-postumos</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.adolforamirez.com/el-lenguaje-de-las-palomas/&#34;&gt;El lenguaje de las palomas: algunos nacen póstumos&lt;/a&gt;&lt;br/&gt;Un texto sobre Nietzsche, que hoy cumple 170 años de haber nacido.&lt;/p&gt;
-</description>
+      <guid>https://adolforismos.com/el-lenguaje-de-las-palomas-algunos-nacen-postumos/</guid>
+      <description>El lenguaje de las palomas: algunos nacen póstumosUn texto sobre Nietzsche, que hoy cumple 170 años de haber nacido.</description>
     </item>
     
   </channel>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>haiku on adolfo ramírez corona</title>
-    <link>https://adolforismos.com/tags/haiku/index.xml</link>
-    <description>Recent content in haiku on adolfo ramírez corona</description>
+    <title>Haiku on adolfo ramírez corona</title>
+    <link>https://adolforismos.com/tags/haiku/</link>
+    <description>Recent content in Haiku on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="https://adolforismos.com/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2009 04:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adolforismos.com/tags/haiku/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Música</title>
@@ -14,10 +17,9 @@
       <pubDate>Sat, 07 Feb 2009 04:45:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/musica/</guid>
-      <description>&lt;p&gt;música de viento&lt;br /&gt;
-el árbol baila&lt;br /&gt;
-sin mover los pies&lt;/p&gt;
-</description>
+      <description>música de viento
+el árbol baila
+sin mover los pies</description>
     </item>
     
     <item>
@@ -26,10 +28,9 @@ sin mover los pies&lt;/p&gt;
       <pubDate>Tue, 21 Oct 2008 23:08:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/sobre-el-pasto/</guid>
-      <description>&lt;p&gt;Sobre el pasto&lt;br /&gt;
-sombra de mí –de nadie&lt;br /&gt;
-medita&lt;/p&gt;
-</description>
+      <description>Sobre el pasto
+sombra de mí –de nadie
+medita</description>
     </item>
     
     <item>
@@ -38,10 +39,9 @@ medita&lt;/p&gt;
       <pubDate>Wed, 15 Oct 2008 04:00:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/calles-de-eucalipto/</guid>
-      <description>&lt;p&gt;Calles de eucalipto,&lt;br /&gt;
-olor a otoño&lt;br /&gt;
-en la basura&lt;/p&gt;
-</description>
+      <description>Calles de eucalipto,
+olor a otoño
+en la basura</description>
     </item>
     
     <item>
@@ -50,10 +50,9 @@ en la basura&lt;/p&gt;
       <pubDate>Tue, 22 Jul 2008 13:04:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/bosque-en-el-asfalto/</guid>
-      <description>&lt;p&gt;Humedad del bosque&lt;br /&gt;
-sobre el asfalto:&lt;br /&gt;
-¡viento del sur!&lt;/p&gt;
-</description>
+      <description>Humedad del bosque
+sobre el asfalto:
+¡viento del sur!</description>
     </item>
     
     <item>
@@ -62,10 +61,9 @@ sobre el asfalto:&lt;br /&gt;
       <pubDate>Fri, 27 Jun 2008 03:34:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/en-meditacion-i/</guid>
-      <description>&lt;p&gt;Viento en mi piel,&lt;br /&gt;
-avión pájaro&lt;br /&gt;
-en mis oídos.&lt;/p&gt;
-</description>
+      <description>Viento en mi piel,
+avión pájaro
+en mis oídos.</description>
     </item>
     
     <item>
@@ -74,10 +72,9 @@ en mis oídos.&lt;/p&gt;
       <pubDate>Tue, 24 Jun 2008 22:45:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/aire/</guid>
-      <description>&lt;p&gt;Sumerjo mi rostro en el aire&lt;br /&gt;
-Trago un buche de oxígeno&lt;br /&gt;
-ligero como agua en polvo&lt;/p&gt;
-</description>
+      <description>Sumerjo mi rostro en el aire
+Trago un buche de oxígeno
+ligero como agua en polvo</description>
     </item>
     
     <item>
@@ -86,10 +83,9 @@ ligero como agua en polvo&lt;/p&gt;
       <pubDate>Tue, 10 Apr 2007 16:00:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/primavera/</guid>
-      <description>&lt;p&gt;Oscuridad clara&lt;br&gt;
-el silencio canta&lt;br&gt;
-primavera extraña&lt;/p&gt;
-</description>
+      <description>Oscuridad clara
+el silencio canta
+primavera extraña</description>
     </item>
     
     <item>
@@ -98,10 +94,9 @@ primavera extraña&lt;/p&gt;
       <pubDate>Mon, 09 Apr 2007 16:57:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/hoy/</guid>
-      <description>&lt;p&gt;Calor, viento fresco&lt;br&gt;
-hoy termina y empieza&lt;br&gt;
-la semana&lt;/p&gt;
-</description>
+      <description>Calor, viento fresco
+hoy termina y empieza
+la semana</description>
     </item>
     
   </channel>

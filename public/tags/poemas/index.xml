@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>poemas on adolfo ramírez corona</title>
-    <link>https://adolforismos.com/tags/poemas/index.xml</link>
-    <description>Recent content in poemas on adolfo ramírez corona</description>
+    <title>Poemas on adolfo ramírez corona</title>
+    <link>https://adolforismos.com/tags/poemas/</link>
+    <description>Recent content in Poemas on adolfo ramírez corona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <atom:link href="https://adolforismos.com/tags/poemas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jan 2002 03:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adolforismos.com/tags/poemas/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El veneno de la imagen</title>
@@ -14,8 +17,7 @@
       <pubDate>Wed, 23 Jan 2002 03:03:00 +0000</pubDate>
       
       <guid>https://adolforismos.com/el-veneno-de-la-imagen/</guid>
-      <description>&lt;p&gt;Tenemos que purgar con la palabra el veneno de la imagen que se cuela por nuestros ojos.&lt;/p&gt;
-</description>
+      <description>Tenemos que purgar con la palabra el veneno de la imagen que se cuela por nuestros ojos.</description>
     </item>
     
   </channel>
