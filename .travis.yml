@@ -1,9 +1,10 @@
+os: osx
 language: go
-install: go get -v github.com/gohugoio/hugo
+install: 
+  - brew install hugo
+  - npm install -g firebase-tools
 script:
   - hugo
-deploy:
-  provider: firebase
-  token:
-    secure: "5ArgHZfDg8nkk3VwHuDELVQvJE/hZ0o7n1RF96xsrd74xp1M0cca149B3XVeK90PMekKNCbQ61TOscDJxRLO6oUXnhkzWJAyGNYcaXbbG3hMyHp4ViLA06d4By5hU6BZRPGkrwDafS4OBfT+Dj/rXFIes8FAicb3JmD2aW7PkvPhc/lWziCDNZJaHJLVR1vFBFqr0+58CWC9FkgWIY3s8McAcuXU16h1uvG6kap7SlTuxmW6SEOq4WWSCUOgwCDEZboJdaDji/v17ZeJHB+t0MoJqnKIY0tU496/mVPHTwHRg8AhgjvevraOJjTzVGm9KtmNrYvigdZeSetLFRqt+jRuWk2TmoexqEuteBsTB8Itf8DotzIN7HwP+8RKYHVDQeemTBr7tUJGJ2X8K5rFdje/l6PLu5wVt+6FNDev8Pqo8hDkh89+B0o/0Cskn0xLE1Ply+Tf97CGv153ykzWYFJUI6Vn67d/9GGTZB/wyeCJxdzYpAgaQlgtTrUJ+5/tTDnatrCmGRkUzl8i6lv+m8L0f/HkiCIIB+Pz3KMOIodiZvFVWbHg/ICIV9gF72FzChMDT5trlRegLM5kM67HhMjYoO7F4hAplC6mpOa4bhtKgjnYjWVSkyYa8c2P3Ocatyb3v6Cfa4lc9wGkEs1aNcuFCG89cvbPA5oX0org+1M="
-  project: "adolforismos-web"
+after_script:
+  - firebase deploy --non-interactive --project "adolforismos-web" --token "5ArgHZfDg8nkk3VwHuDELVQvJE/hZ0o7n1RF96xsrd74xp1M0cca149B3XVeK90PMekKNCbQ61TOscDJxRLO6oUXnhkzWJAyGNYcaXbbG3hMyHp4ViLA06d4By5hU6BZRPGkrwDafS4OBfT+Dj/rXFIes8FAicb3JmD2aW7PkvPhc/lWziCDNZJaHJLVR1vFBFqr0+58CWC9FkgWIY3s8McAcuXU16h1uvG6kap7SlTuxmW6SEOq4WWSCUOgwCDEZboJdaDji/v17ZeJHB+t0MoJqnKIY0tU496/mVPHTwHRg8AhgjvevraOJjTzVGm9KtmNrYvigdZeSetLFRqt+jRuWk2TmoexqEuteBsTB8Itf8DotzIN7HwP+8RKYHVDQeemTBr7tUJGJ2X8K5rFdje/l6PLu5wVt+6FNDev8Pqo8hDkh89+B0o/0Cskn0xLE1Ply+Tf97CGv153ykzWYFJUI6Vn67d/9GGTZB/wyeCJxdzYpAgaQlgtTrUJ+5/tTDnatrCmGRkUzl8i6lv+m8L0f/HkiCIIB+Pz3KMOIodiZvFVWbHg/ICIV9gF72FzChMDT5trlRegLM5kM67HhMjYoO7F4hAplC6mpOa4bhtKgjnYjWVSkyYa8c2P3Ocatyb3v6Cfa4lc9wGkEs1aNcuFCG89cvbPA5oX0org+1M="
+   
