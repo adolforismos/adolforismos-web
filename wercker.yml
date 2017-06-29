@@ -5,10 +5,7 @@ build:
       version: "0.24.1"
       theme: "cocoa-eh"
 deploy:
-  steps:
-    - npm-install
-    - npm install -g firebase-tools
-    - script:
-            name: firebase deploy
-            code: |
-              firebase deploy --non-interactive --token --project "adolforismos-web" $FIREBASE_TOKEN
+    steps:
+      - firebase-deploy:
+          project: adolforismos-web
+          token: $FIREBASE_TOKEN
