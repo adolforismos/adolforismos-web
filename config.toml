@@ -1,4 +1,3 @@
-
 baseURL = "https://adolforismos.com/"
 # disablePathToLower = "true"
 languageCode = "es-mx"
@@ -6,6 +5,12 @@ title = "adolfo ramírez corona"
 theme = "cocoa-eh"
 preserveTaxonomyNames = true
 enableEmoji = true
+contentdir = "content"
+canonifyurls = true
+layoutdir = "layouts"
+publishdir = "public"
+author = "ARC"
+pluralizelisttitles = false
 
 [blackfriday]
 hrefTargetBlank = true
@@ -15,6 +20,7 @@ hrefTargetBlank = true
 
 [permalinks]
 #blog = "blog/:slug/"
+blog = "blog/:slug/"
 
 [taxonomies]
 category = "categories"
@@ -42,15 +48,15 @@ soundcloud = "adolforamirezcorona"
 
 
 
-canonifyurls = true
+#canonifyurls = true
 # contentdir = "content"
 # languageCode = "en-US"
 # layoutdir = "layouts"
-publishdir = "public"
-author = "Adolfo Ramírez Corona"
+#publishdir = "public"
+#author = "Adolfo Ramírez Corona"
 # title = "Cocoa Enhanced"
 # disqusshortname = ""
-pluralizelisttitles = false
+#pluralizelisttitles = false
 
 # [permalinks]
 # blog = "blog/:slug/"

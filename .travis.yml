@@ -1,4 +1,4 @@
 language: go
-install: go get -v github.com/gohugoio/hugo/tree/5e632833a6e490ddc220e0fa62263cce16296688
+install: go get -v github.com/gohugoio/hugo
 script:
   - hugo
