@@ -6,3 +6,9 @@ build:
         theme: cocoa-eh
         config: config.toml
         flags: --disableSitemap=true
+    - devillex/firebase-deploy@1.1.0
+deploy:
+    steps:
+      - firebase-deploy:
+          project: adolforismos-web
+          token: $FIREBASE_TOKEN
