@@ -8,6 +8,7 @@ build:
     - hugo
 deploy:
   steps:
+    - echo firebase version
     - devillex/firebase-deploy@1.1.0:
         project: adolforismos-web
         token: $FIREBASE_TOKEN
