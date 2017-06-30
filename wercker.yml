@@ -2,11 +2,12 @@ box: debian
 build:
   steps:
     - koldovsky/hugo-build@1.16.5:
-      version: "0.24.1"
-      theme: "cocoa-eh"
+        version: "0.24.1"
+        theme: "cocoa-eh"
+    - bigtruedata/npm-install@1.2.1:
+        packages: firebase
 deploy:
-    steps:
-      - pendo/npm-install@1.1.4
-      - zbuttram/wercker-firebase-deploy@0.1.3:
-          project: adolforismos-web
-          token: $FIREBASE_TOKEN
+  steps:
+    - zbuttram/wercker-firebase-deploy@0.1.3:
+        project: adolforismos-web
+        token: $FIREBASE_TOKEN
