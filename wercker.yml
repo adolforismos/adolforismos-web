@@ -1,18 +1,11 @@
 box: devillex/docker-firebase
 build:
   steps:
-    - npm-install
-    - script:
-        name: run npm build script
-        code: npm run build
-    - script:
-        name: echo nodejs information
-        code: |
-          echo "node version $(node -v) running"
-          echo "npm version $(npm -v) running"
     - koldovsky/hugo-build@1.16.5:
         version: "0.24.1"
         theme: "cocoa-eh"
+  script:
+    - hugo
 deploy:
   steps:
     - devillex/firebase-deploy@1.1.0:
