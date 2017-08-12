@@ -29,8 +29,6 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 **_Email:_** adolforamirez (en) gmail.com
 
-**_Teléfono:_** +52 55 41649191 en la Ciudad de México
-
 **_Agenda:_** En [mi cuenta en Freebusy.io ](https://freebusy.io/210ca1c7d8e92f19a4188054a27b2bf9/60min)
 
 **_Formulario:_** O envíame tu correo en este formulario:<br>
