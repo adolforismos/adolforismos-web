@@ -29,7 +29,7 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 **_Email:_** adolforamirez (en) gmail.com
 
-**_Agenda:_** En [mi cuenta en Freebusy.io ](https://freebusy.io/210ca1c7d8e92f19a4188054a27b2bf9/60min)
+**_Agenda:_** En [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
 
 **_Formulario:_** O envíame tu correo en este formulario:<br>
 <form method="POST" action="//formspree.io/info@adolforamirez.com">
