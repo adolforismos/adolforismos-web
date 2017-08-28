@@ -4,7 +4,7 @@ title = "CV"
 type = "cv"
 +++
 
-
+_[English version in pdf](https://adolforismos.com/img/ResumeAdolfoRamirezCorona2017.pdf)_
 
 # Resumen profesional
 
