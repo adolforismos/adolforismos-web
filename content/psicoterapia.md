@@ -24,6 +24,8 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 - Prueba una sesión **GRATIS** sin compromiso a través de Skype o FaceTime desde la comodidad de tu hogar
 - Toda información proporcionada está protegida por el privilegio de <a href="http://www.conamed.gob.mx/publicaciones/cartas/pdf/POSTER_PACIENTES_2014.pdf" target="_blank">**confidencialidad** paciente-psicoterapeuta</a>
 
+---
+
 ## Citas y Contacto
 
 
