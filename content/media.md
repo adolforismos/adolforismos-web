@@ -35,3 +35,6 @@ El espacio donde la sabiduría ancestral de la Meditación se une con los más r
 <div class="smashwords-widget" data-type="single" data-items="book:168883" data-font="sans" data-ribboncolor="#4181c3" data-headline="" data-body="Primera selección de cuentos breves, relatos, fragmentos, reflexiones y divagaciones que el autor ha publicado en su blog personal desde el año dos mil dos a la fecha.
 Ficciones, reflexiones, apuntes de diario, aforismos… a la variedad de las formas le acompañan la variedad en los temas: la escritura, la información, el mar, los cafés, los inventarios, las polillas, los pájaros, el todo…"></div>
 <script id="smashwords-widget-js" async="async" src="//www.smashwidgets.com/1/widgets.js"></script>
+
+---
+
