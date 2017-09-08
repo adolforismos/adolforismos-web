@@ -25,3 +25,4 @@
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .IsPage }}{{ .Description }}{{ end }}">
 <meta property="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .IsPage }}{{ .Description }}{{ end }}">
 <meta name="referrer" content="origin">
+{{ template "_internal/google_analytics.html" . }}
