@@ -1,8 +1,8 @@
 box: devillex/docker-firebase
 build:
   steps:
-    - koldovsky/hugo-build@1.16.5:
-        version: "0.24.1"
+    - arjen/hugo-build@1.19.0:
+        version: "0.26"
         theme: "cocoa-eh"
   script:
     - hugo
