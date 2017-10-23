@@ -248,7 +248,7 @@ section.header nav ul li:hover {
   }
   section.header-home .container .logo {
     max-width: 180px;
-    margin-left: 20px;
+    margin: 15px;
   }
   section.header-home .name-home {
     padding-top: 30px;
