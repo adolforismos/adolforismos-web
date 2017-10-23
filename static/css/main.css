@@ -187,6 +187,7 @@ section.header .container > a:first-child {
 }
 section.header .container .logo {
   max-width: 100px;
+  margin: 15px;
 }
 section.header .name {
   padding-top: 20px;
