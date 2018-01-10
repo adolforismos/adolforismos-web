@@ -24,17 +24,14 @@ El espacio donde la sabiduría ancestral de la Meditación se une con los más r
 
 ---
 
-## Libro
+## Libros
 
-### En Amazon:
-
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.com.mx/kp/card?asin=B007JCRVBS&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_IbuNyb8NPEPKX&tag=adolforamir0d-20" ></iframe>
-
-### En Smashwords
-
-<div class="smashwords-widget" data-type="single" data-items="book:168883" data-font="sans" data-ribboncolor="#4181c3" data-headline="" data-body="Primera selección de cuentos breves, relatos, fragmentos, reflexiones y divagaciones que el autor ha publicado en su blog personal desde el año dos mil dos a la fecha.
-Ficciones, reflexiones, apuntes de diario, aforismos… a la variedad de las formas le acompañan la variedad en los temas: la escritura, la información, el mar, los cafés, los inventarios, las polillas, los pájaros, el todo…"></div>
+<div class="smashwords-widget" data-type="single" data-items="book:778246" data-font="sans" data-ribboncolor="#4181c3" data-bgcolor="#fafafa" data-buttoncolor="#ffc801" data-width="300" data-height="250" data-headline="Cómo cambiar tu realidad" style="width: 300px; height: 250px;"></div>
 <script id="smashwords-widget-js" async="async" src="//www.smashwidgets.com/1/widgets.js"></script>
+
+<div class="smashwords-widget" data-type="single" data-items="book:168883" data-font="sans" data-ribboncolor="#4181c3" data-bgcolor="#fafafa" data-buttoncolor="#ffc801" data-width="300" data-height="250" data-headline="La Carta Dialéctica" style="width: 300px; height: 250px;"></div>
+<script id="smashwords-widget-js" async="async" src="//www.smashwidgets.com/1/widgets.js"></script>
+
 
 ---
 
