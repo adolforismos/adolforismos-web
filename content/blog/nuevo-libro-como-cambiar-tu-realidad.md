@@ -1,7 +1,7 @@
 ---
 
 title: Nuevo libro: Cómo cambiar tu realidad
-date: date: 2018-01-12T21:16:06
+date: 2018-01-12
 layout: blog
 author: adolforismos
 permalink: /nuevo-libro-como-cambiar-tu-realidad/
