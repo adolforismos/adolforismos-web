@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build@1.19.0:
         version: "0.26"
-        theme: "hugo-initio"
+        theme: "cocoa-eh"
   script:
     - hugo
 deploy:
