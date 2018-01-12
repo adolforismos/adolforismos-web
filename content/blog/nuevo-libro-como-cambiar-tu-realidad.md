@@ -7,9 +7,18 @@ draft: "true"
 source-id: 1xJO0NeGMueRlwIQWaS82bwFZo-q-dxJuE0iA8k7MVkk
 published: true
 ---
+
 Les presento el libro de mi autoría, _Cómo cambiar tu realidad_, recién publicado en formato electrónico. 
 
-Los textos reunidos en este ejemplar fueron escritos originalmente mientras asistía a tomar mis clases de maestría, a conferencias, talleres y pláticas, o durante la lectura de libros relacionados con la psicoterapia, la meditación, el budismo, neurociencias, hipnosis, y otros tantos temas que caían en mis manos.Otros son materiales que he usado para dar talleres y cursos principalmente sobre meditación.Como toda selección, recopilación o antología, no busco ser exhaustivo ni mucho menos coherente. Cada título dentro de este libro tiene vida propia y se puede incluso leer en desorden o por separado.La meditación, el yoga, la psicoterapia, el budismo, cambiaron mi vida, me han hecho mejor persona e incluso me han permitido dedicarme a ayudar a otras personas a transformar su realidad a través de mi práctica profesional como psicoterapeuta.La principal razón de que estos textos hayan sido reunidos y los presente en forma de libro es que encuentro recursos, reflexiones, herramientas, que han sido valiosos para otros y pueden serlo para los posibles lectores.
+Los textos reunidos en este ejemplar fueron escritos originalmente mientras asistía a tomar mis clases de maestría, a conferencias, talleres y pláticas, o durante la lectura de libros relacionados con la psicoterapia, la meditación, el budismo, neurociencias, hipnosis, y otros tantos temas que caían en mis manos.
+
+Otros son materiales que he usado para dar talleres y cursos principalmente sobre meditación.
+
+Como toda selección, recopilación o antología, no busco ser exhaustivo ni mucho menos coherente. Cada título dentro de este libro tiene vida propia y se puede incluso leer en desorden o por separado.
+
+La meditación, el yoga, la psicoterapia, el budismo, cambiaron mi vida, me han hecho mejor persona e incluso me han permitido dedicarme a ayudar a otras personas a transformar su realidad a través de mi práctica profesional como psicoterapeuta.
+
+La principal razón de que estos textos hayan sido reunidos y los presente en forma de libro es que encuentro recursos, reflexiones, herramientas, que han sido valiosos para otros y pueden serlo para los posibles lectores.
 
 En más de una ocasión me he preguntado cuál es el objetivo último de la sesión psicoterapéutica.
 
