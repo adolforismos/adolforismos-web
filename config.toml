@@ -1,12 +1,13 @@
 baseURL = "https://adolforismos.com/"
 # disablePathToLower = "true"
 languageCode = "es-mx"
-title = "adolfo ramírez corona"
-theme = "cocoa-eh"
-preserveTaxonomyNames = true
+#title = "adolfo ramírez corona"
+#theme = "cocoa-eh"
+theme = "hugo-initio"
+#preserveTaxonomyNames = true
 enableEmoji = true
 contentdir = "content"
-canonifyurls = true
+#canonifyurls = true
 layoutdir = "layouts"
 publishdir = "public"
 author = "ARC"
@@ -29,45 +30,135 @@ tag = "tags"
 [params]
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "adolfo ramírez corona"
+description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios"
 #logofile = "img/IMG_6988.png"
-logofile = "img/adolforamirezcorona.png"
+#logofile = "img/adolforamirezcorona.png"
 #logofile = "img/arc.png"
-faviconfile = "img/adolforamirezcorona.png"
+#faviconfile = "img/adolforamirezcorona.png"
 highlightjs = true
-lang = "es"
-github = "adolforismos"
-email = "contacto@adolforamirez.com"
+#lang = "es"
+#github = "adolforismos"
+#email = "contacto@adolforamirez.com"
 # linkedin = "john-example-aa80ue8è"
-twitter = "adolforismos"
-instagram = "adolforamirez"
-youtube = "adolforamirezcorona"
-soundcloud = "adolforamirezcorona"
-googleAnalytics = "UA-6029436-1"
+#twitter = "adolforismos"
+#instagram = "adolforamirez"
+#youtube = "adolforamirezcorona"
+#soundcloud = "adolforamirezcorona"
+#googleAnalytics = "UA-6029436-1"
+name = "Adolfo Ramírez Corona"
+address = "Ciudad de México, México"
+year = "2018"
+background = "img/adolforamirezcorona.png"
+favicon = "img/adolforamirezcorona.png"
 
+showSubheader = true
+showServices = true
+showRecentWorks = true
+showDownload = false
+showClients = false
 
-#canonifyurls = true
-# contentdir = "content"
-# languageCode = "en-US"
-# layoutdir = "layouts"
-#publishdir = "public"
-#author = "Adolfo Ramírez Corona"
-# title = "Cocoa Enhanced"
-# disqusshortname = ""
-#pluralizelisttitles = false
+footerEnableContact = false
+footerEnableFollowme = true
+footerEnableTextWidget = true
+footerEnableFormWidget = true
 
-# [permalinks]
-# blog = "blog/:slug/"
+[[menu.main]]
+    name = "inicio"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/blog/"
+    weight = 5
+[[menu.main]]
+    name = "acerca de…"
+    url = "/acerca-de/"
+    weight = 10
 
-# [params]
-# dateform = "Jan 2, 2006"
-# dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-# description = "Example blog"
-# logofile = "img/logo.png"
-# faviconfile = "img/logo.png"
-# highlightjs = true
-# lang = "en"
-# github = "example"
-# email = "you@example.com"
-# linkedin = "john-example-aa80ue8è"
-# twitter = "@example"
+#[params.disqus]
+#    site = "hugo-initio-site.disqus.com"
+
+#[params.sharethis]
+#    property = "123456789012345678901234"
+#    custom = true
+
+[params.google.analytics]
+    trackerID = "UA-6029436-1"
+
+#[[params.social]]
+#	title = "facebook"
+#	url = "https://www.facebook.com/nickname"
+#    icon = "fa-facebook-square"
+#    footer = true
+#    sharethis = true
+#    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/adolforismos"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/adolforamirez"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+#[[params.social]]
+#	title = "google+"
+#	url = "https://plus.google.com/+nickname"
+#    icon = "fa-google-plus-square"
+#    footer = false
+#    sharethis = true
+#    network = "googleplus"
+#[[params.social]]
+#	title = "linkedin"
+#	url = "https://www.linkedin.com/in/nickname"
+#    icon = "fa-linkedin-square"
+#    footer = false
+#    sharethis = true
+#    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://adolforismos.tumblr.com"
+    icon = "fa-tumblr-square"
+    footer = true
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/adolforismos"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:adolforamirez@gmail.com"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"
+[[params.social]]
+	title = "youtube"
+	url = "https://www.youtube.com/user/adolforamirezcorona"
+    icon = "fa-youtube"
+    footer = true
+    sharethis = true
+    network = "youtube"
+[[params.social]]
+	title = "rss"
+	url = "https://adolforismos.com/index.xml"
+    icon = "fa-rss"
+    footer = true
+    sharethis = true
+    network = "rss"
+[[params.social]]
+	title = "soundcloud"
+	url = "https://soundcloud.com/adolforamirezcorona"
+    icon = "fa-cloud"
+    footer = true
+    sharethis = true
+    network = ""
