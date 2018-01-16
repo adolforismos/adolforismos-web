@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Acerca de..."
 +++
 
 ## Hola…
@@ -13,3 +13,6 @@ Como psicoterapeuta atiendo muy diferentes temas, pero siempre encaminados a la 
 A ratos constante, a ratos volátil, desde 2002 escribo en esta bitácora sobre temas de filosofía, literatura, arte, medios y psicología.
 
 Bienvenido.
+
+
+([Curriculum Vitae o _Resume_ completo](/cv/))

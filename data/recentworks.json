@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Cómo cambiar la realidad",
+        "image": "img/como-cambiar-tu-realidad.png",
+        "url": "/nuevo-libro-como-cambiar-tu-realidad/",
+        "items": [
+            {
+                "name": "Libro",
+                "url": "/nuevo-libro-como-cambiar-tu-realidad/"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Meditación psicoterapéutica",
+        "image": "img/MPlogo-1.jpg",
+        "url": "http://meditacionpsicoterapeutica.com",
+        "items": [
+            {
+                "name": "Podcast",
+                "url": "http://meditacionpsicoterapeutica.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "La carta dialéctica",
+        "image": "img/la-carta-dialectica.jpg",
+        "url": "libro-la-carta-dialectica",
+        "items": [
+            {
+                "name": "Libro",
+                "url": "libro-la-carta-dialectica"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "El rating según Shakespeare",
+        "image": "img/William_Shakespeare.jpg",
+        "url": "cursos/medicion-de-audiencia/",
+        "items": [
+            {
+                "name": "Curso",
+                "url": "cursos/medicion-de-audiencia/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "HN Consultores",
+        "image": "img/HNConsultoresLogo.png",
+        "url": "http://hnconsultores.com",
+        "items": [
+            {
+                "name": "Diseño y desarrollo web",
+                "url": "http://hnconsultores.com"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Universidad Innova",
+        "image": "img/LogoInnovaCuadrado.png",
+        "url": "http://innova.edu.mx",
+        "items": [
+            {
+                "name": "Marketing digital, Diseño y desarrollo web",
+                "url": "http://innova.edu.mx"
+            }
+        ]
+    }
+]
