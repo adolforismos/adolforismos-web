@@ -41,3 +41,6 @@ Hay algunas apariciones y menciones especiales a otras ideas y personajes pero e
 
 Espero lo disfruten.
 
+Dsiponible en:
+[Amazon.com](https://www.amazon.com/dp/B079F2KBNT), [Amazon.com.mx](https://www.amazon.com.mx/dp/B079F2KBNT), [Amazon.es](https://www.amazon.es/dp/B079F2KBNT), [Kobo](https://www.kobo.com/mx/es/ebook/como-cambiar-tu-realidad), [Gandhi](http://www.gandhi.com.mx/como-cambiar-tu-realidad), [Apple iBooks](https://itunes.apple.com/pa/book/c%C3%B3mo-cambiar-tu-realidad/id1340623823), [Smashwords](https://www.smashwords.com/books/view/778246)
+
