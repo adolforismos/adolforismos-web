@@ -2,7 +2,7 @@
 title = "Trabajo Remoto"
 +++
 
-El trabajo vía remota de la a a la z.
+El trabajo vía remota de la A a la Z.
 
 <!--more-->
 

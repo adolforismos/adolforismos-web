@@ -24,7 +24,19 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
+        "name": "Micromeditaciones",
+        "image": "img/mailing.jpg",
+        "url": "https://tinyletter.com/micromeditaciones",
+        "items": [
+            {
+                "name": "Lista de correo",
+                "url": "https://tinyletter.com/micromeditaciones"
+            }
+        ]
+    },
+    {
+        "id": 7,
         "name": "La carta dialéctica",
         "image": "img/la-carta-dialectica.jpg",
         "url": "libro-la-carta-dialectica",
@@ -68,6 +80,18 @@
             {
                 "name": "Marketing digital, Diseño y desarrollo web",
                 "url": "http://innova.edu.mx"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Meditaciones en Video",
+        "image": "img/Que-es-meditar.jpg",
+        "url": "https://www.youtube.com/channel/UCdnijz8hqfio0kvnnYKQLyQ",
+        "items": [
+            {
+                "name": "Producción audiovisual",
+                "url": "https://www.youtube.com/channel/UCdnijz8hqfio0kvnnYKQLyQ"
             }
         ]
     }
