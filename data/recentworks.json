@@ -94,5 +94,29 @@
                 "url": "https://www.youtube.com/channel/UCdnijz8hqfio0kvnnYKQLyQ"
             }
         ]
+    },
+    {
+        "id": 7,
+        "name": "Magia y Neurociencia",
+        "image": "img/CursoMagia.jpg",
+        "url": "/cursos/magia-y-neurociencia/",
+        "items": [
+            {
+                "name": "Curso",
+                "url": "cursos/magia-y-neurociencia/"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Cómo puede ayudarte la meditación",
+        "image": "img/CursoMeditacion.jpg",
+        "url": "cursos/como-puede-ayudarte-la-meditacion/",
+        "items": [
+            {
+                "name": "Curso",
+                "url": "cursos/magia-y-neurociencia.html"
+            }
+        ]
     }
 ]
