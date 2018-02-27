@@ -15,7 +15,8 @@
 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
 					<div class="entry-content">
-						{{ .Summary }}
+						<p>{{ .Summary }}<br /><a href="{{ .Permalink }}" rel="bookmark">Leer más...</a></p>
+						
 					</div>
 				</article>
                 {{ end }}
