@@ -1,7 +1,7 @@
 ---
 author: adolforismos
 type: blog
-date: '2018-02-27 16:11 -0600'
+date: '2018-02-27'
 draft: false
 published: false
 title: Fast news o La muerte de una celebridad
