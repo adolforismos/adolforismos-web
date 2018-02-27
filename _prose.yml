@@ -31,9 +31,4 @@ prose:
         field:
           element: "text"
           label: "date"
-          value: "CURRENT_DATETIME"
-      - name: "draft"
-        field:
-          element: "checkbox"
-          label: "draft?"
-          value: "true"
+          placeholder: "2018-00-00"
