@@ -1,6 +1,6 @@
 prose:
   siteurl: 'https://adolforismos.com'
-  media: 'static/img'
+  media: 'img'
   ignore:
     - .DS_Store
   metadata:
