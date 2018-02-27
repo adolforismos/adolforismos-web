@@ -2,7 +2,7 @@
 author: adolforismos
 type: blog
 date: '2018-02-27 16:11 -0600'
-draft: true
+draft: false
 published: false
 title: Fast news o La muerte de una celebridad
 url: fast-news-o-la-muerte-de-una-celebridad
@@ -18,6 +18,8 @@ Sus muy cercanos sabían que el último año había sido muy difícil para Willi
 Para los conocidos y fans, la muerte de Robin Williams era la culminación de una vida que había luchado contra la depresión, la drogadicción y el alcoholismo. Una culminación terminada en derrota.
 
 Para algunos seguidores fieles, aquellos que se veían inspirados por la manera en que el actor había superado la depresión y tentación del suicidio, aquellos que escuchaban sus palabras inspiradoras y llenas de ánimo, para ellos, su muerte fue devastadora. Una pérdida de esperanza. Si él no había podido vencer la depresión, ¿qué se podía esperar del resto que la padecían?
+
+![Robin_Williams_Walk_of_Fame.jpg]({{site.baseurl}}/static/img/Robin_Williams_Walk_of_Fame.jpg)
 
 ## La historia: en _slow motion_
 
