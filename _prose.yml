@@ -1,0 +1,39 @@
+prose:
+  siteurl: 'https://adolforismos.com'
+  media: 'static/img'
+  ignore:
+    - .DS_Store
+  metadata:
+    content/blog:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "author"
+        field:
+          element: "text"
+          label: "author"
+          value: "adolforismos"
+      - name: "url"
+        field:
+          element: "text"
+          label: "url"
+      - name: "type"
+        field:
+          element: "select"
+          label: "type"
+          options:
+            - name: "blog"
+              value: "blog"
+            - name: "mninipost"
+              value: "minipost"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: "CURRENT_DATETIME"
+      - name: "draft"
+        field:
+          element: "checkbox"
+          label: "draft?"
+          value: "true"
