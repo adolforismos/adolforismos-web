@@ -18,7 +18,7 @@ Para los conocidos y fans, la muerte de Robin Williams era la culminación de un
 
 Para algunos seguidores fieles, aquellos que se veían inspirados por la manera en que el actor había superado la depresión y tentación del suicidio, aquellos que escuchaban sus palabras inspiradoras y llenas de ánimo, para ellos, su muerte fue devastadora. Una pérdida de esperanza. Si él no había podido vencer la depresión, ¿qué se podía esperar del resto que la padecían?
 
-![Robin_Williams_Walk_of_Fame.jpg]({{site.baseurl}}/img/Robin_Williams_Walk_of_Fame.jpg)
+![Robin_Williams_Walk_of_Fame.jpg](/img/Robin_Williams_Walk_of_Fame.jpg)
 
 ## La historia: en _slow motion_
 
