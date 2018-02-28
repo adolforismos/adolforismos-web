@@ -1,5 +1,6 @@
 prose:
   siteurl: 'https://adolforismos.com'
+  site: 'https://adolforismos.com'
   media: 'img'
   ignore:
     - .DS_Store
