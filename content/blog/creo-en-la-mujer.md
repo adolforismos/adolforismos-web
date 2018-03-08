@@ -1,9 +1,11 @@
 ---
-
 title: Creo en la mujer
 date: '2014-10-21T11:58:21-05:00'
 tags: []
 url: /creo-en-la-mujer
+published: true
+author: adolforismos
+type: blog
 ---
 Creo en la mujer porque es ella la que es el ser humano a secas. Los mitos desconocen lo que la biología y ciencia cuentan: primero mujer, luego costilla, finalmente un hombre. Es un secreto a voces en los laboratorios mas sofisticados: los hombres somos un recurso genético y evolutivo de fines muy precisos. La testosterona nos ha llevado demasiado lejos. Pregúntenle a la luna que conoció nuestro ego.
 
@@ -21,3 +23,5 @@ Sólo una religión es posible: eres tú mujer la única creadora de todo ser hu
 
 -
 (Autor: @adolforismos)
+
+![](http://68.media.tumblr.com/c77de1eed3f0d5b36f03092deb203c2c/tumblr_ndeubnH7Oi1qz9pjho1_1280.jpg)
