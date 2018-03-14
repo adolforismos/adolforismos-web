@@ -4,6 +4,8 @@ type: blog
 published: false
 title: Consciencia e Inteligencia
 ---
+
+![](https://unsplash.com/photos/pZ6y4zxuoXs)
 ### Dolor
 
 Contrario a lo que suele pensarse, la consciencia tiene muy poco que ver con la inteligencia o la razón y, en cambio, tiene mucho más que ver con el cuerpo, la respiración, las emociones...
