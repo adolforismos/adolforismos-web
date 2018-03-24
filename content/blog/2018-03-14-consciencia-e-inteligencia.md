@@ -1,7 +1,7 @@
 ---
 author: adolforismos
 type: blog
-published: false
+published: true
 title: Consciencia e Inteligencia
 ---
 
@@ -109,4 +109,3 @@ En los recién nacidos es claro este proceso de nacimiento de la consciencia. La
 Un bebé tiene consciencia sin necesidad de haber desarrollado la razón o inteligencia. Su experiencia nace del impulso natural del ser humano (sí, desde bebés) a atreverse a perder la homeóstasis con tal de poder explorar un lugar nuevo, tomar ese juguete nunca antes visto, tocar esa sustancia que se ve extraña, todo para sentir, vivir la experiencia, de algo totalmente diferente y nuevo hasta ese momento. 
 
 Esto es, atreverse a sentir malestar, dolor, sufrir un poco, aventurarse a vivir, y experimentar el mundo.
-
