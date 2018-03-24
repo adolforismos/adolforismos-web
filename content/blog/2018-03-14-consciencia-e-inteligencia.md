@@ -3,6 +3,7 @@ author: adolforismos
 type: blog
 published: true
 title: Consciencia e Inteligencia
+date: '2018-03-24'
 ---
 
 ![Photo by Jennifer Martin on Unsplash]({{ Site.BaseURL }}/img/jennifer-martin-511791-unsplash_small.jpg)
