@@ -3,6 +3,7 @@ pages:
 - gracias.md
 - blog/conocer-y-reconocer.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

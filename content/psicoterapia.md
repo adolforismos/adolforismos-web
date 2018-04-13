@@ -27,11 +27,27 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ## Citas y Contacto
 
-**_Email:_** adolforamirez (en) gmail.com
+##### Escríbeme a adolforamirez (en) gmail.com
 
-**_Agenda:_** En [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
+---
 
-**_Formulario:_** O envíame tu correo en este formulario:<br>
+##### Agenda en [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
+
+---
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+
+##### <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/adolforismos/consultas');return false;">Agenda una consulta en mi cuenta de Calendly</a>
+
+<!-- Calendly link widget end -->
+
+---
+
+
+##### O envíame tu correo en este formulario:<br>
+
 <form method="POST" action="//formspree.io/adolforismos@icloud.com">
 <input type="email" name="_replyto" placeholder="Tu correo" size="62"><br>
 <textarea name="message" placeholder="Tu mensaje" rows="5" cols="60"></textarea>
