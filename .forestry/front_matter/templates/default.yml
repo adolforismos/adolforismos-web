@@ -30,3 +30,6 @@ fields:
   label: date
   config:
     date_format: YYYY-MM-DD
+- type: text
+  name: author
+  label: author
