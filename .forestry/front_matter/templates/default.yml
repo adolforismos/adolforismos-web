@@ -6,16 +6,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: 
-- name: description
-  label: Description
-  type: text
-  hidden: false
-  default: ''
 - name: draft
   label: Draft
   type: boolean
@@ -35,3 +25,8 @@ fields:
     - blog
     - minipost
   label: type
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
