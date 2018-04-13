@@ -1,5 +1,5 @@
 ---
-hide_body: false
+hide_body: true
 fields:
 - name: title
   label: Title
@@ -30,6 +30,7 @@ fields:
   label: date
   config:
     date_format: YYYY-MM-DD
+  default: Invalid date
 - type: text
   name: author
   label: author
