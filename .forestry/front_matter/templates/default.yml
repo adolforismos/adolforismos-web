@@ -1,4 +1,6 @@
 ---
+pages:
+- blog/conocer-y-reconocer.md
 hide_body: false
 fields:
 - name: title
