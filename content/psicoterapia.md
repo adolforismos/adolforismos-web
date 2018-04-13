@@ -10,7 +10,7 @@ type = "page"
 
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KXjcaT9dY0A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXjcaT9dY0A?rel=0&controls=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Características de las consultas
 
@@ -32,10 +32,10 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 **_Agenda:_** En [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
 
 **_Formulario:_** O envíame tu correo en este formulario:<br>
-<form method="POST" action="//formspree.io/info@adolforamirez.com">
+<form method="POST" action="//formspree.io/adolforismos@icloud.com">
 <input type="email" name="_replyto" placeholder="Tu correo" size="62"><br>
 <textarea name="message" placeholder="Tu mensaje" rows="5" cols="60"></textarea>
 <input type="hidden" name="_subject" value="Consulta!" />
-<input type="hidden" name="_next" value="https://adolforismos.com/index.html" />
+<input type="hidden" name="_next" value="https://adolforismos.com/gracias" />
 <br><button type="submit">Enviar</button>
 </form>
