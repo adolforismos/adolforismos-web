@@ -1,12 +1,10 @@
 +++
 date = "2015-08-19T20:29:37-07:00"
-title = "Terapia"
+title = "Psicoterapia, meditación y coaching"
 type = "page"
 
 +++
-## Psicoterapia, meditación y coaching
-
-**_«Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias»_**
+> Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias
 
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
 
@@ -45,12 +43,11 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ---
 
-
 ##### O envíame tu correo en este formulario:<br>
 
 <form method="POST" action="//formspree.io/adolforismos@icloud.com">
-<input type="email" name="_replyto" placeholder="Tu correo" size="62"><br>
-<textarea name="message" placeholder="Tu mensaje" rows="5" cols="60"></textarea>
+<input type="email" name="_replyto" placeholder="Tu correo" size="51"><br>
+<textarea name="message" placeholder="Tu mensaje" rows="5" cols="50"></textarea>
 <input type="hidden" name="_subject" value="Consulta!" />
 <input type="hidden" name="_next" value="https://adolforismos.com/gracias" />
 <br><button type="submit">Enviar</button>
