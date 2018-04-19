@@ -6,6 +6,8 @@ title = "Psicoterapia, meditación y coaching"
 
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
 
+<!---more--->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXjcaT9dY0A?rel=0&controls=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Características de las consultas
