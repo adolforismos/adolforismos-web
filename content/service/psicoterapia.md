@@ -2,9 +2,9 @@
 title = "Psicoterapia, meditación y coaching"
 
 +++
-> Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias
-
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
+
+> Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias
 
 <!--more-->
 
