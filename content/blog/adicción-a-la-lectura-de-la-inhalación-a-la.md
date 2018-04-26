@@ -1,9 +1,12 @@
 ---
-
 title: 'Adicción a la lectura: de la inhalación a la intravenosa'
-date: '2014-11-02T13:13:31-06:00'
+date: 2014-11-02 13:13:31 -0600
 tags: []
-url: /adiccion-a-la-lectura-de-la-inhalacion-a-la
+url: "/adiccion-a-la-lectura-de-la-inhalacion-a-la"
+author: adolforismos
+description: Nunca en mi vida he leído tanto y tan variado como ahora
+lastmod: ''
+
 ---
 La droga es la lectura (¡ah, cómo disfruto leer!). La vía habían sido los periódicos, revistas, libros. Los objetos físicos, quiero decir. Los de papel.
 
