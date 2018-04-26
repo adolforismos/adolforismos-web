@@ -19,7 +19,7 @@ highlights:
     moleskine de alto precio
   quote2: ''
   quote3: ''
-lastmod: ''
+lastmod: 2014-06-16 00:15:58 +0000
 
 ---
 Y por otra parte, contrario a la facilidad de las redes sociales, creo que publicar un blog se ha vuelto muy complejo. Me refiero a publicar tu propio blog, no usar el servicio o plataforma de alguien más, que se vuelve lo mismo que publicar en Youtube o Twitter. Es cierto que los actuales sistemas de publicación, con los que uno es dueño y señor real del proceso, se han vuelto muy eficientes y cada día cuentan con más características. Y por supuesto que tener una mejor administración de un sitio y mejores herramientas de presentación es algo con lo que soñaba uno como bloguero cuando todo esto iniciaba hace más de diez años. Pero como todo, esto tiene su lado negativo.
