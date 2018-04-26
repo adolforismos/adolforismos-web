@@ -67,20 +67,6 @@ fields:
   name: evergreen
   label: evergreen
   default: false
-- type: textarea
-  name: highlight1
-  label: highlight1
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
-- type: textarea
-  name: highlight2
-  label: highlight2
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: field_group
   name: highlights
   label: highlights
