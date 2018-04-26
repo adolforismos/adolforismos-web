@@ -66,6 +66,7 @@ fields:
 - type: boolean
   name: evergreen
   label: evergreen
+  default: false
 - type: textarea
   name: highlight1
   label: highlight1
@@ -80,3 +81,16 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: field_group
+  name: highlights
+  label: highlights
+  fields:
+  - type: textarea
+    name: quote1
+    label: quote1
+  - type: textarea
+    name: quote2
+    label: quote2
+  - type: textarea
+    name: quote3
+    label: quote3
