@@ -11,16 +11,21 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: 'true'
-- name: url
-  label: Url
-  type: text
-  hidden: false
-  default: ''
+- type: tag_list
+  name: keywords
+  label: keywords
+- type: textarea
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
+  default: Invalid date
+- type: datetime
+  name: lastmod
+  label: lastmod
 - type: select
   name: type
   config:
@@ -30,21 +35,19 @@ fields:
     - blog
     - minipost
   label: type
-- type: datetime
-  name: date
-  label: date
-  config:
-    date_format: YYYY-MM-DD
-  default: Invalid date
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: ''
 - type: text
   name: author
   label: author
-- type: datetime
-  name: lastmod
-  label: lastmod
-- type: textarea
-  name: description
-  label: description
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: 'true'
 - type: select
   name: form
   config:
@@ -60,3 +63,20 @@ fields:
     - reference
     - picture
   label: form
+- type: boolean
+  name: evergreen
+  label: evergreen
+- type: textarea
+  name: highlight1
+  label: highlight1
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: highlight2
+  label: highlight2
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
