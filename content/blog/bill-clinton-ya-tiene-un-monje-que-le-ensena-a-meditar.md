@@ -13,7 +13,7 @@ keywords:
 description: Bill Clinton se relaja on meditación
 author: adolforismos
 form: reference
-lastmod: ''
+lastmod: 2012-08-05 03:44:00 +0000
 evergreen: false
 highlights:
   quote1: ''
