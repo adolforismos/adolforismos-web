@@ -9,7 +9,7 @@ keywords:
 author: adolforismos
 form: reference
 description: Jonathan Ive, productor
-lastmod: ''
+lastmod: 2009-11-10 05:49:00 +0000
 evergreen: false
 highlights:
   quote1: ''
