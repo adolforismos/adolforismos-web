@@ -20,7 +20,7 @@ highlights:
     algo. Nunca en mi vida adulta había dejado de escribir tanto.
   quote3: Pero tal vez, como el ejercicio y el deporte ayudan al adicto a las drogas,
     escribir sea el remedio a tantas dosis de lectura.
-evergreen: false
+evergreen: true
 
 ---
 La droga es la lectura (¡ah, cómo disfruto leer!). La vía habían sido los periódicos, revistas, libros. Los objetos físicos, quiero decir. Los de papel.
