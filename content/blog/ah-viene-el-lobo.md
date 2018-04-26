@@ -1,10 +1,22 @@
 ---
-date: 2008-10-17T20:04:00Z
-tags: null
+date: 2008-10-17 20:04:00 +0000
+tags: []
 title: Ahí viene el lobo...
-url: /ah-viene-el-lobo/
----
+url: "/ah-viene-el-lobo/"
+keywords:
+- hci
+- audiencia
+description: Consumo de internet vs consumo de radio
+author: adolforismos
+form: reference
+lastmod: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Si bien no en todos los países de habla hispana el consumo de Internet es comparable, la tendencia es sin duda hacia un alto uso de la red. Y como no podemos aumentar las horas del día, lo que nos queda es distribuir las que ya tenemos.
 
 En aquellos países en donde todavía la penetración de computadoras y/o Internet no es tan alta, no es necesario esperar para saber que va a pasar cuando estas condiciones cambien. España es ya una muestra:
