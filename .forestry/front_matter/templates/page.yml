@@ -44,3 +44,4 @@ fields:
 - type: text
   name: author
   label: author
+  default: adolforismos
