@@ -18,7 +18,7 @@ highlights:
   quote2: La filosofía no tiene cabida en el cuerpo
   quote3: ''
 keywords: []
-lastmod: ''
+lastmod: 2011-06-07 02:43:00 +0000
 
 ---
 Dejemos los conceptos a un lado. Olvidémonos de la posibilidad de un ego. Ya no discutamos más el fantasma lacaniano. Ni siquiera nos atrevamos a explorar una metafísica del sueño. Hay una realidad innegable, una existencia incuestionable cuando se siente el dolor en las entrañas y el médico de guardia diagnostica apendicitis. La filosofía no tiene cabida en el cuerpo. Nunca la tuvo pero no nos quisimos dar cuenta.
