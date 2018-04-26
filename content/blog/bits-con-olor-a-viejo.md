@@ -21,7 +21,7 @@ highlights:
     es determinante para empezar a ver el mundo distinto."
   quote2: cuando reviso los cuadernos viejos hasta la caligrafía cambia entre ellos
   quote3: ''
-lastmod: ''
+lastmod: 2002-08-08 05:35:00 +0000
 
 ---
 Quienes escribimos, coleccionamos, o de algún modo llevamos registro de nuestras actividades, podemos dividir nuestra vida en etapas de acuerdo a la interfaz o dispositivo que usamos para mantener nuestros registros.
