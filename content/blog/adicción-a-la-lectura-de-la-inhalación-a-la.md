@@ -6,6 +6,21 @@ url: "/adiccion-a-la-lectura-de-la-inhalacion-a-la"
 author: adolforismos
 description: Nunca en mi vida he leído tanto y tan variado como ahora
 lastmod: ''
+keywords:
+- lectura
+- escritura
+- tecnología
+- ux
+- hci
+form: essay
+highlights:
+  quote1: he pasado de simplemente fumarme un cigarrillo de lecturas a inyectarme
+    vía intravenosa la sustancia activa de las palabras
+  quote2: Nunca en mi vida he leído tanto y tan variado como ahora. Y he descubierto
+    algo. Nunca en mi vida adulta había dejado de escribir tanto.
+  quote3: Pero tal vez, como el ejercicio y el deporte ayudan al adicto a las drogas,
+    escribir sea el remedio a tantas dosis de lectura.
+evergreen: false
 
 ---
 La droga es la lectura (¡ah, cómo disfruto leer!). La vía habían sido los periódicos, revistas, libros. Los objetos físicos, quiero decir. Los de papel.
