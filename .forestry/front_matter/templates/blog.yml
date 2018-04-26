@@ -38,3 +38,6 @@ fields:
 - type: text
   name: author
   label: author
+- type: datetime
+  name: updated
+  label: updated
