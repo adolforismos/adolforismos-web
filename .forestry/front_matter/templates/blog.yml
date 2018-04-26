@@ -24,6 +24,9 @@ fields:
 - type: datetime
   name: lastmod
   label: lastmod
+  config:
+    required: true
+    date_format: YYYY-MM-DD
 - type: select
   name: type
   config:
