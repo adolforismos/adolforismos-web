@@ -45,3 +45,18 @@ fields:
 - type: textarea
   name: description
   label: description
+- type: select
+  name: form
+  config:
+    source:
+      type: simple
+    options:
+    - fiction
+    - opinion
+    - essay
+    - article
+    - aphorism
+    - poem
+    - reference
+    - picture
+  label: form
