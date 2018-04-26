@@ -1,21 +1,30 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-07-14T11:23:00Z
+date: 2012-07-14 11:23:00 +0000
 description: El cambio generacional en un click
-published: true
 status: publish
 tags:
 - neurociencia
 - psicoterapia
 title: Adios a la familia Kodak; bienvenida la familia Photoshop
-type: blog
-url: /adios-a-la-familia-kodak-bienvenida-la-familia-photoshop/
----
+url: "/adios-a-la-familia-kodak-bienvenida-la-familia-photoshop/"
+keywords:
+- audiencia
+- psicoterapia
+author: adolforismos
+form: article
+evergreen: true
+highlights:
+  quote1: en los últimos cincuenta años pasamos del paradigma de la "familia Kodak"
+    al de la "familia Photoshop"
+  quote2: ''
+  quote3: ''
+lastmod: ''
 
+---
 Todavía hace cincuenta años o menos, la familia mexicana era una familia nuclear, abuelos, papá, mamá, hijos e hijas, que se iba extendiendo con los matrimonios de estos últimos, y la nueva generación de nietos.
 
 Este paradigma de familia lo podemos ver muy claro más allá de las estadísticas, al revisar el típico cuadro fotográfico en casa de los abuelos, ya sea en alguna mesa o en el álbum familiar.
