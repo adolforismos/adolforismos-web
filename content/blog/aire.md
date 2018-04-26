@@ -13,7 +13,7 @@ author: adolforismos
 form: poem
 evergreen: true
 keywords: []
-lastmod: ''
+lastmod: 2008-06-24 22:45:00 +0000
 highlights:
   quote1: ''
   quote2: ''
