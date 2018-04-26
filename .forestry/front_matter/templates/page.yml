@@ -41,3 +41,6 @@ fields:
 - type: textarea
   name: description
   label: description
+- type: text
+  name: author
+  label: author
