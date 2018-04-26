@@ -39,5 +39,8 @@ fields:
   name: author
   label: author
 - type: datetime
-  name: updated
-  label: updated
+  name: lastmod
+  label: lastmod
+- type: textarea
+  name: description
+  label: description
