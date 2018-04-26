@@ -19,7 +19,7 @@ highlights:
   quote1: Los recuerdos son una forma de olvido
   quote2: La memoria es un Babel que no termina
   quote3: ''
-lastmod: ''
+lastmod: 2007-03-09 04:12:00 +0000
 
 ---
 Los recuerdos son una forma de olvido. Recordamos, construimos historias de nuestro pasado para darles una forma definitiva con la cual podamos archivarlas.
