@@ -22,7 +22,7 @@ highlights:
     al de la "familia Photoshop"
   quote2: ''
   quote3: ''
-lastmod: ''
+lastmod: 2012-07-14 11:23:00 +0000
 
 ---
 Todavía hace cincuenta años o menos, la familia mexicana era una familia nuclear, abuelos, papá, mamá, hijos e hijas, que se iba extendiendo con los matrimonios de estos últimos, y la nueva generación de nietos.
