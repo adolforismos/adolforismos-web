@@ -15,7 +15,7 @@ description: En los últimos cincuenta años pasamos del paradigma de la "famili
   al de la "familia Photoshop".
 author: adolforismos
 form: opinion
-lastmod: ''
+lastmod: 2011-04-09 00:10:00 +0000
 evergreen: false
 highlights:
   quote1: ''
