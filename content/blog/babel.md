@@ -1,17 +1,27 @@
 ---
-
 categories:
 - adolforismos
-date: 2007-03-09T04:12:00Z
-published: true
+date: 2007-03-09 04:12:00 +0000
 status: publish
 tags:
 - divagaciones
 title: Babel
-type: blog
-url: /babel/
----
+url: "/babel/"
+keywords:
+- neurociencia
+- psicoterapia
+description: Los recuerdos son una forma de olvido. Recordamos, construimos historias
+  de nuestro pasado para darles una forma definitiva con la cual podamos archivarlas.
+author: adolforismos
+form: essay
+evergreen: true
+highlights:
+  quote1: Los recuerdos son una forma de olvido
+  quote2: La memoria es un Babel que no termina
+  quote3: ''
+lastmod: ''
 
+---
 Los recuerdos son una forma de olvido. Recordamos, construimos historias de nuestro pasado para darles una forma definitiva con la cual podamos archivarlas.
 
 La verdadera memoria es caótica, dinámica, un proceso continuo de significaciones, resignificaciones y contra significaciones. La memoria es como un mercado, bazar o tianguis en la calle de una gran ciudad frontera: decenas de comerciantes y marchantes hablando al mismo tiempo sobre miles de mercancías, debatiendo sobre valores y precios, en diferentes idiomas, dialectos o caló. La memoria es un Babel que no termina.
