@@ -26,7 +26,7 @@ prose:
           options:
             - name: "blog"
               value: "blog"
-            - name: "mninipost"
+            - name: "minipost"
               value: "minipost"
       - name: "date"
         field:
