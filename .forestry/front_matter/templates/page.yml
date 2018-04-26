@@ -1,0 +1,43 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - page
+    - service
+  label: type
+- type: boolean
+  name: draft
+  label: draft
+  default: true
+- type: text
+  name: url
+  label: url
+  config:
+    required: true
+- type: number
+  name: weight
+  label: weight
+  config:
+    step: '1'
+- type: textarea
+  name: description
+  label: description
