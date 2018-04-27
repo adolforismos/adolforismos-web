@@ -1,24 +1,36 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2013-02-25T02:07:03Z
-excerpt: ¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te
+date: 2013-02-24 20:07:03 -0600
+excerpt: "¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te
   parece que el poder controlar lo que pasa dentro de un sueño es sólo posible en
-  películas de ciencia ficción como Inception?
+  películas de ciencia ficción como Inception?"
 description: La lucidez onírica en manos de la ciencia
-published: true
 status: publish
 tags:
 - budismo
 - neurociencia
 - psicoterapia
 title: El acechador de sueños
-type: blog
-url: /el-acechador-de-suenos/
----
+url: "/el-acechador-de-suenos/"
+lastmod: 2013-02-24 20:07:00 -0600
+keywords:
+- psicoterapia
+- meditación
+- neurociencia
+- sueño
+author: adolforismos
+form: article
+evergreen: true
+highlights:
+  quote1: En las culturas mágicas o primitivas, quien tiene esta capacidad es muy
+    probable que este destinado o haya sido elegido para ser un mago, brujo o chamán.
+  quote2: A veces, la ciencia ha negado tanto a la magia, que cuando se demuestra
+    alguno de sus fenómenos, prefiere guardar silencio.
+  quote3: ''
 
+---
 <img class=" wp-image-401 alignleft" src="/img/Inception_ver3-202x300.jpg" alt="Inception Poster" width="162" height="240" />¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te parece que el poder controlar lo que pasa dentro de un sueño es sólo posible en películas de ciencia ficción como Inception?
 
 Los sueños siempre han causado fascinación a los seres humanos en todas las culturas y todos los tiempos. Tanto a nivel personal como a nivel social. Los sueños nos presentan una realidad que parece tan real como la realidad misma, al menos para nuestros sentidos, y por lo que se ha ido revelando en múltiples estudios al respecto, tan real también para nuestro cerebro. Algo o alguien con una gran capacidad para elaborar un mundo completo lleno de escenas y personajes nos presenta esta realidad aparte. Para algunas culturas o personas, este algo o alguien tiene que provenir de algo ajeno a nosotros. Para la ciencia, el cerebro es capaz de hacerlo sin ningún problema, por lo que si es algo, está en el cerebro, y si es alguien, somos nosotros mismos. De hecho, la neurociencia actual considera que toda realidad, tanto la que vivimos dormidos como la que vivimos despiertos, está elaborada o construida por nuestro propio cerebro. De cualquier modo, esta capacidad es sorprendente.
