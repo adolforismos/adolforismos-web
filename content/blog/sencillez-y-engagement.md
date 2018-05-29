@@ -16,15 +16,17 @@ quote3 = ""
 +++
 Se puede ser tan complicado como se quiera, pero hay que **iniciar con la sencillez**.
 
+![Unsplash/@samuelseller](https://source.unsplash.com/MLtcpbwQT7I/600x400)
+
 Eso que llamamos observar, probar, usar, interactuar, es en realidad un aprender. Y **para aprender es necesario empezar con sencillez**.
 
-Aún el más grande *engagement* o compromiso de nuestra atención inicia con algo sencillo. 
+Aún el más grande _engagement_ o compromiso de nuestra atención inicia con algo sencillo.
 
 Lo complejo es **abrumador por definición**. El cerebro rechaza lo abrumador.
 
-Veo, por ejemplo, la gran complejidad de tramas y personajes en que se ha convertido *Star Wars*, la saga completa, y es claro que entrarle de lleno a su complejidad es casi imposible. O al menos requiere un gran esfuerzo.
+Veo, por ejemplo, la gran complejidad de tramas y personajes en que se ha convertido _Star Wars_, la saga completa, y es claro que entrarle de lleno a su complejidad es casi imposible. O al menos requiere un gran esfuerzo.
 
-Pero si vemos la primera película, ahora llamada *Episodio IV*, es posible reconocer una trama muy básica y una narrativa muy sencilla.
+Pero si vemos la primera película, ahora llamada _Episodio IV_, es posible reconocer una trama muy básica y una narrativa muy sencilla.
 
 Pero lo veo más en la bebé. Su curiosidad la puede llevar a cosas muy complicadas y complejas, pero para que llame su atención inicial y empiece a interactuar, **requiere algo sencillo**.
 
@@ -40,5 +42,4 @@ No creo que nuestro cerebro cambie mucho después de eso: **requerimos la sencil
 
 A ella y a todos, aplica la fórmula “para resolver un problema hay que dividirlo en partes”.
 
-Aquello que se presenta complejo y requiere atención o solución, es necesario simplificarlo, encontrarle el lado sencillo, ahí donde la atención pueda anclarse, engancharse, crear *engagement*.
-
+Aquello que se presenta complejo y requiere atención o solución, es necesario simplificarlo, encontrarle el lado sencillo, ahí donde la atención pueda anclarse, engancharse, crear _engagement_.
