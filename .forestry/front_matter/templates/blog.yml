@@ -1,6 +1,4 @@
 ---
-pages:
-- gracias.md
 hide_body: false
 is_partial: false
 fields:
@@ -82,3 +80,5 @@ fields:
   - type: textarea
     name: quote3
     label: quote3
+pages:
+- gracias.md
