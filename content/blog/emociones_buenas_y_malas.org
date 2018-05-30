@@ -2,10 +2,10 @@
 #+AUTHOR:    adolforismos
 #+KEYWORDS: 
 #+URL: 
-#+DATE: <2018-05-29 Tue>
+#+DATE: 2018-05-29
 #+EVERGREEN:
 #+FORM: 
-#+LASTMOD: <2018-05-29 Tue>
+#+LASTMOD: 2018-05-29
 #+HIGHLIGHTS:
 #+OPTIONS: num:nil
 #+OPTIONS: toc:nil
