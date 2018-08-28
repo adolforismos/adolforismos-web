@@ -1,4 +1,5 @@
 ---
+label: page
 hide_body: false
 is_partial: false
 fields:
@@ -45,3 +46,10 @@ fields:
   name: author
   label: author
   default: adolforismos
+pages:
+- content/media.md
+- content/acerca-de.md
+- content/libros.md
+- content/libro-la-carta-dialectica.md
+- content/psicoterapia.md
+- content/about.md
