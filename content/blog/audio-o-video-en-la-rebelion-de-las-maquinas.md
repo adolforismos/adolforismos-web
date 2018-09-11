@@ -14,7 +14,7 @@ quote2 = ""
 quote3 = ""
 
 +++
-[1600x900](https://source.unsplash.com/mp_FNJYcjBM/1600x900 "1600x900")
+![1600x900](https://source.unsplash.com/mp_FNJYcjBM/1600x900 "1600x900")
 
 Twitter acaba de lanzar una función para publicar un tipo de mini podcast a través de su plataforma Periscope (incrustable en Twitter, de todos modos). Al igual que publicar un video en vivo, pero en modo de solo audio.
 
