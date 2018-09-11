@@ -1,7 +1,7 @@
 +++
 author = "adolforismos"
 date = "2018-09-11T00:00:00-05:00"
-description = ""
+description = "La reciente polémica sobre el futuro del video y el audio como formas de contenido para Internet"
 evergreen = false
 form = "opinion"
 keywords = []
