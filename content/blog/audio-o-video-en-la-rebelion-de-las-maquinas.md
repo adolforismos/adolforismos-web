@@ -1,7 +1,7 @@
 +++
 author = "adolforismos"
 date = "2018-09-11T00:00:00-05:00"
-description = "La reciente polémica sobre el futuro del video y el audio como formas de contenido para Internet"
+description = ""
 evergreen = false
 form = "opinion"
 keywords = []
@@ -14,7 +14,7 @@ quote2 = ""
 quote3 = ""
 
 +++
-[1600x900](https://source.unsplash.com/mp_FNJYcjBM/1600x900)
+[1600x900](https://source.unsplash.com/mp_FNJYcjBM/1600x900 "1600x900")
 
 Twitter acaba de lanzar una función para publicar un tipo de mini podcast a través de su plataforma Periscope (incrustable en Twitter, de todos modos). Al igual que publicar un video en vivo, pero en modo de solo audio.
 
