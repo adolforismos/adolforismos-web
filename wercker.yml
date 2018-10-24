@@ -1,4 +1,4 @@
-box: docker-firebase
+box: devillex/docker-firebase
 build:
   steps:
     - arjen/hugo-build@2.5.0:
