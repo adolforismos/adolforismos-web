@@ -1,4 +1,4 @@
-box: debian
+box: docker-firebase
 build:
   steps:
     - arjen/hugo-build@2.5.0:
@@ -6,8 +6,6 @@ build:
         theme: hugo-initio
 deploy:
   steps:
-    - install-packages:
-        packages: firebase
     - dandehavilland/firebase-deploy@1.2.2:
         project: blog-1455c
         token: $FIREBASE_TOKEN
