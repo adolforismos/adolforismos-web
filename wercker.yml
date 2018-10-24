@@ -1,13 +1,11 @@
-box: devillex/docker-firebase
+box: debian
 build:
   steps:
-    - arjen/hugo-build@1.19.0:
-        version: "0.26"
-        theme: "hugo-initio"
-  script:
-    - hugo
+    - arjen/hugo-build@2.5.0:
+        version: "0.48"
+        theme: hugo-initio
 deploy:
   steps:
-    - devillex/firebase-deploy@1.1.0:
+    - dandehavilland/firebase-deploy@1.2.2:
         project: blog-1455c
         token: $FIREBASE_TOKEN
