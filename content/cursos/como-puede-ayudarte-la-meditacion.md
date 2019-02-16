@@ -15,5 +15,7 @@ Una plática con ejercicios muy prácticos del potencial terapéutico de la medi
 
 >Estrés · Depresión · Ansiedad Trastornos de alimentación Creatividad · Relaciones de Pareja Duelos y separaciones   Productividad · Insomnio · Dolor
 
+Hoy, hay un webinar en línea más actualizado en * [Cómo encontrar tu propia meditación – Innova En Línea](https://enlinea.innova.edu.mx/programas/webinar/como-encontrar-tu-propia-meditacion/).
+
 
 ![Curso meditación](/img/CursoMeditacion.jpg)
