@@ -1,6 +1,18 @@
 [
     {
         "id": 0,
+        "name": "Cómo encontrar tu propia meditación",
+        "image": "img/photo-1528319725582-ddc096101511.jpeg",
+        "url": "https://enlinea.innova.edu.mx/programas/webinar/como-encontrar-tu-propia-meditacion/?adolforismos",
+        "items": [
+            {
+                "name": "Curso",
+                "url": "https://enlinea.innova.edu.mx/programas/webinar/como-encontrar-tu-propia-meditacion/?adolforismos"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "Cómo cambiar la realidad",
         "image": "img/como-cambiar-tu-realidad.png",
         "url": "/nuevo-libro-como-cambiar-tu-realidad/",
@@ -12,7 +24,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Meditación psicoterapéutica",
         "image": "img/MPlogo-1.jpg",
         "url": "http://meditacionpsicoterapeutica.com",
