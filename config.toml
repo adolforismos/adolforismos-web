@@ -12,6 +12,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "ARC"
 pluralizelisttitles = false
+paginate = 600
 
 [blackfriday]
 hrefTargetBlank = true
