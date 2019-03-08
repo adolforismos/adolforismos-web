@@ -40,9 +40,14 @@
 
 			{{ if .Site.Params.footerEnableFormWidget }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Sígueme</h3>
+				<h3 class="widget-title">Suscríbete</h3>
 				<div class="widget-body">
-					<a href="https://micromeditaciones.substack.com/welcome">Micromeditaciones</a>
+					<form method="POST" action="//formspree.io/adolforismos@icloud.com">
+<input type="email" name="_replyto" placeholder="Tu correo" size="16"><br>
+<input type="hidden" name="_subject" value="Micromeditaciones!" />
+<input type="hidden" name="_next" value="https://adolforismos.com/" />
+<br><button type="submit">Enviar</button>
+</form>
 				</div>
 			</div>
 			{{ end }}
