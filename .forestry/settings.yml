@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: Config
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
@@ -29,4 +33,19 @@ public_path: "/img"
 front_matter_path: "/uploads"
 use_front_matter_path: true
 file_template: ":filename:"
+build:
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.26
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.26
+  preview_output_directory: public
+  output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
 version: '0.26'
