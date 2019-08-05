@@ -39,11 +39,11 @@
         "id": 3,
         "name": "Micromeditaciones",
         "image": "img/mailing.jpg",
-        "url": "https://tinyletter.com/micromeditaciones",
+        "url": "https://micromeditaciones.substack.com/",
         "items": [
             {
                 "name": "Lista de correo",
-                "url": "https://tinyletter.com/micromeditaciones"
+                "url": "https://micromeditaciones.substack.com/"
             }
         ]
     },
