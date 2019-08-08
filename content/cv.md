@@ -4,7 +4,7 @@ date = "2017-02-01"
 description = ""
 lastmod = ""
 title = "CV"
-type = ""
+type = "page"
 url = "cv"
 weight = nil
 
