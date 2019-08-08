@@ -14,8 +14,7 @@
 			<h3>{{ .Content }}</h3>
 		</div>
 		<div class="post-header">
-		<div class="meta">Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}</div>
-		</div>
+				<div class="meta">Publicado &mdash; {{ dateFormat "Jan 2, 2006" .Date }} por {{ .Site.Params.author }}</div>
 		{{- $.Scratch.Set "isDisqus" true -}}
 
 		{{- if and (isset .Params "type") (in (.Site.Params.disableDisqusTypes | default (slice "page")) .Params.type) -}}
