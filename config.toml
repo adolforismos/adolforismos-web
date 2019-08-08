@@ -125,7 +125,7 @@ footerEnableFormWidget = true
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/adolforamirez"
-    icon = "fa-instagram"
+    icon = "instagram"
 #    footer = true
 #    sharethis = false
 #    network = ""
@@ -160,7 +160,7 @@ footerEnableFormWidget = true
 [[params.social]]
 	title = "email"
 	url = "mailto:adolforamirez@gmail.com"
-    icon = "envelope"
+    icon = "mail"
 #    footer = true
 #    sharethis = true
 #    network = "email"
