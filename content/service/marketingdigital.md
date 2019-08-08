@@ -6,7 +6,7 @@ lastmod = ""
 title = "Marketing digital"
 type = "page"
 url = "marketingdigital"
-weight = nil
+weight = 0
 
 +++
 Adiós a los zapperos: es la era de los youtuberos, googleadores, facebookeros, twitteros...
