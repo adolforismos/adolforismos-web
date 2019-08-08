@@ -5,7 +5,7 @@ description = ""
 lastmod = ""
 title = "Consultoría en Administración de Proyectos"
 type = "page"
-url = "consultoria"
+url = "service/consultoria"
 weight = 0
 
 +++
