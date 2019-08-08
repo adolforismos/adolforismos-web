@@ -6,7 +6,7 @@ lastmod = ""
 title = "Consultoría en Administración de Proyectos"
 type = "page"
 url = "consultoria"
-weight = nil
+weight = 0
 
 +++
 Planeación, desarrollo y ejecución de proyectos y formación de equipos de trabajo desde cero en áreas de investigación y operativas.
