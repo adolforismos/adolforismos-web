@@ -1,7 +1,14 @@
 +++
+author = "adolforismos"
+date = "2017-01-21T00:00:00-06:00"
+description = ""
+lastmod = ""
 title = "Cursos y talleres"
-+++
+type = ""
+url = "cursos"
+weight = nil
 
++++
 Cursos, talleres, diplomados... de todo tipo y de múltiples temas.
 
 <!--more-->
