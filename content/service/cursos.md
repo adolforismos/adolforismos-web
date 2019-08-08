@@ -6,7 +6,7 @@ lastmod = ""
 title = "Cursos y talleres"
 type = "page"
 url = "cursos"
-weight = nil
+weight = 0
 
 +++
 Cursos, talleres, diplomados... de todo tipo y de múltiples temas.
