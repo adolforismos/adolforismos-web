@@ -6,7 +6,7 @@ lastmod = ""
 title = "CV"
 type = "page"
 url = "cv"
-weight = nil
+weight = 0
 
 +++
 _[English version in pdf](https://adolforismos.com/img/ResumeAdolfoRamirezCorona2017.pdf)_
