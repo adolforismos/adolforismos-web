@@ -47,6 +47,7 @@ fields:
   label: author
   default: adolforismos
 pages:
+- content/psicoterapia.md
 - content/libro-la-carta-dialectica.md
 - content/cv.md
 - content/proyectos.md
@@ -57,5 +58,4 @@ pages:
 - content/service/marketingdigital.md
 - content/acerca-de.md
 - content/media.md
-- content/psicoterapia.md
 - content/about.md
