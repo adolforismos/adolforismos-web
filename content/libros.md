@@ -1,9 +1,14 @@
 ---
-date: 2018-02-02T20:04:00Z
+date: 2018-02-02T20:04:00.000+00:00
 title: Libros
-url: /libros/
----
+url: "/libros/"
+lastmod: 
+type: page
+weight: 0
+description: ''
+author: ''
 
+---
 # Libros
 
 
