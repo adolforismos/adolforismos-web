@@ -4,7 +4,7 @@ date = "2017-01-21T00:00:00-06:00"
 description = ""
 lastmod = ""
 title = "Cursos y talleres"
-type = ""
+type = "page"
 url = "cursos"
 weight = nil
 

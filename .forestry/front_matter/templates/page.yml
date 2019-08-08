@@ -46,8 +46,8 @@ fields:
   label: author
   default: adolforismos
 pages:
-- content/service/marketingdigital.md
 - content/service/cursos.md
+- content/service/marketingdigital.md
 - content/cv.md
 - content/acerca-de.md
 - content/libro-la-carta-dialectica.md
