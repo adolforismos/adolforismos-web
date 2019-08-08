@@ -5,7 +5,7 @@ description = ""
 lastmod = ""
 title = "Psicoterapia"
 type = "page"
-url = "service/psicoterapia"
+url = "/service/psicoterapia/"
 weight = 0
 
 +++
