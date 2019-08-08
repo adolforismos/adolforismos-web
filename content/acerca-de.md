@@ -1,7 +1,14 @@
 +++
+author = ""
+date = "2017-01-21T00:00:00-06:00"
+description = ""
+lastmod = ""
 title = "Acerca de..."
-+++
+type = "page"
+url = "acerca-de"
+weight = nil
 
++++
 ## Hola…
 
 …soy Adolfo, escritor, pensador, psicoterapeuta, especialista en medios y audiencias, pero sobre todo, padre, esposo, meditador, yogui, amante del presente, del aquí y ahora.
