@@ -1,7 +1,14 @@
 +++
+author = "adolforismos"
+date = "2017-01-21T00:00:00-06:00"
+description = ""
+lastmod = ""
 title = "Marketing digital"
-+++
+type = "page"
+url = "marketingdigital"
+weight = nil
 
++++
 Adiós a los zapperos: es la era de los youtuberos, googleadores, facebookeros, twitteros...
 
 <!--more-->
