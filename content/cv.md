@@ -1,9 +1,14 @@
 +++
+author = "adolforismos"
 date = "2017-02-01"
+description = ""
+lastmod = ""
 title = "CV"
-type = "cv"
-+++
+type = ""
+url = "cv"
+weight = nil
 
++++
 _[English version in pdf](https://adolforismos.com/img/ResumeAdolfoRamirezCorona2017.pdf)_
 
 # Resumen profesional
