@@ -1,5 +1,12 @@
 +++
-title = "Psicoterapia, meditación y coaching"
+author = "adolforismos"
+date = "2017-01-21T00:00:00-06:00"
+description = ""
+lastmod = ""
+title = "Psicoterapia"
+type = "page"
+url = "psicoterapia"
+weight = nil
 
 +++
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
