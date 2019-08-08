@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: La claraboya
-type: blog
+type: minipost
 url: /la-claraboya/
 ---
 

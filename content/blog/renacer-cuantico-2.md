@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: Renacer cuántico
-type: blog
+type: minipost
 url: /renacer-cuantico-2/
 ---
 

@@ -9,7 +9,7 @@ tags:
 - aforismos
 - citas
 title: Corazón y razón
-type: blog
+type: minipost
 url: /corazon-y-razon/
 ---
 

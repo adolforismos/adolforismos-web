@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: El mendigo que se creía dios
-type: blog
+type: minipost
 url: /el-mendigo-que-se-creia-dios/
 ---
 

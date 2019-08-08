@@ -1,6 +1,6 @@
 ---
 
-type: blog
+type: minipost
 title: Era inevitable…
 date: '2008-03-17T15:33:22-06:00'
 tags: []

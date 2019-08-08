@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: La excepción de la regla
-type: blog
+type: minipost
 url: /la-excepcion-de-la-regla/
 ---
 

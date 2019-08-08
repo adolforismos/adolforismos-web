@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Hoy
-type: blog
+type: minipost
 url: /hoy/
 ---
 

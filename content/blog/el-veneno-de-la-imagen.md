@@ -8,7 +8,7 @@ status: publish
 tags:
 - poemas
 title: El veneno de la imagen
-type: blog
+type: minipost
 url: /el-veneno-de-la-imagen/
 ---
 

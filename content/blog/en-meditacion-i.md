@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: En meditación I
-type: blog
+type: minipost
 url: /en-meditacion-i/
 ---
 

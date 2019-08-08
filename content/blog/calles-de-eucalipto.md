@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Calles de eucalipto
-type: blog
+type: minipost
 url: /calles-de-eucalipto/
 ---
 

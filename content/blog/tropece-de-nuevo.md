@@ -9,7 +9,7 @@ tags:
 - aforismos
 - psicoterapia
 title: Tropecé de nuevo
-type: blog
+type: minipost
 url: /tropece-de-nuevo/
 ---
 

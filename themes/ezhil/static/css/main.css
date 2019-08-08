@@ -284,6 +284,21 @@ ul {
     margin-right: 15px;
 }
 
+.alert {
+    background-color: #ccffcc;
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 30px;
+}
+
+.alert .section-header {
+	font-size: 0.75rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #999;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
 @media (max-width: 767px) {
 	body {
 		padding: 20px;

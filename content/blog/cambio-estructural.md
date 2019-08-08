@@ -8,7 +8,7 @@ status: publish
 tags:
 - divagaciones
 title: Cambio estructural
-type: blog
+type: minipost
 url: /cambio-estructural/
 ---
 

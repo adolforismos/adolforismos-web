@@ -9,7 +9,7 @@ tags:
 - aforismos
 - psicoterapia
 title: La solución
-type: blog
+type: minipost
 url: /la-solucion/
 ---
 

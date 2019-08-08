@@ -11,7 +11,7 @@ contentdir = "content"
 #canonifyurls = true
 layoutdir = "layouts"
 publishdir = "public"
-author = "ARC"
+# author = "ARC"
 pluralizelisttitles = false
 paginate = 600
 
@@ -53,6 +53,7 @@ highlightjs = true
 #soundcloud = "adolforamirezcorona"
 googleAnalytics = "UA-6029436-1"
 name = "Adolfo Ramírez Corona"
+author = "adolforismos"
 address = "Ciudad de México, México"
 year = "2018"
 background = "img/adolforamirezcorona.png"
@@ -150,10 +151,10 @@ footerEnableFormWidget = true
 #    footer = true
 #    sharethis = false
 #    network = "tumblr"
-[[params.social]]
-	title = "github"
-	url = "https://github.com/adolforismos"
-    icon = "github"
+# [[params.social]]
+#	title = "github"
+#	url = "https://github.com/adolforismos"
+#    icon = "github"
 #    footer = true
 #    sharethis = false
 #    network = ""
@@ -164,10 +165,10 @@ footerEnableFormWidget = true
 #    footer = true
 #    sharethis = true
 #    network = "email"
-[[params.social]]
-	title = "youtube"
-	url = "https://www.youtube.com/user/adolforamirezcorona"
-    icon = "youtube"
+# [[params.social]]
+#	title = "youtube"
+#	url = "https://www.youtube.com/user/adolforamirezcorona"
+#    icon = "youtube"
 #    footer = true
 #    sharethis = true
 #    network = "youtube"
@@ -178,10 +179,10 @@ footerEnableFormWidget = true
 #    footer = true
 #    sharethis = true
 #    network = "rss"
-[[params.social]]
-	title = "soundcloud"
-	url = "https://soundcloud.com/adolforamirezcorona"
-    icon = "cloud"
+#[[params.social]]
+#	title = "soundcloud"
+#	url = "https://soundcloud.com/adolforamirezcorona"
+#    icon = "cloud"
 #    footer = true
 #    sharethis = true
 #    network = ""

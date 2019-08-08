@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Bosque en el asfalto
-type: blog
+type: minipost
 url: /bosque-en-el-asfalto/
 ---
 

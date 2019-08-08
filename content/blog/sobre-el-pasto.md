@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Sobre el pasto
-type: blog
+type: minipost
 url: /sobre-el-pasto/
 ---
 

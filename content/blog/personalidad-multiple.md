@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: Personalidad múltiple
-type: blog
+type: minipost
 url: /personalidad-multiple/
 ---
 

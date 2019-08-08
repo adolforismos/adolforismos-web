@@ -6,7 +6,7 @@ status: publish
 tags:
 - haiku
 title: Aire
-type: blog
+type: minipost
 url: "/aire/"
 description: Haiku
 author: adolforismos

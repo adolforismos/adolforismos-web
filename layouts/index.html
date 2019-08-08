@@ -5,15 +5,17 @@
 	<div class="container wrapper">
 		 {{ partial "head.html" . }}
 		 <!----<iframe width="100%" height="120" src="https://micromeditaciones.substack.com/embed" frameborder="0" scrolling="no"></iframe>--->
-		 <div>
-		 <strong>Recibe <a href="https://micromeditaciones.substack.com"></a>Micromeditaciones</a> en tu correo:</strong>
-    <p>Textos breves, reflexiones sencillas, en dosis pequeñas, con contenidos exclusivos y originales; te puedes dar de baja cuando quieras.</p>
+		 <div class="alert">
+			<h2 class="section-header">
+				Proyectos recientes
+			</h2>
+			<p>• Escribo y envío por correo <a href="https://micromeditaciones.substack.com">Micromeditaciones</a> con contenidos exclusivos y originales; te puedes dar de baja cuando quieras.</p>
 		 <p><form class="form " action="https://micromeditaciones.substack.com/api/v1/free?nojs=true" method="post" novalidate="true"><input type="hidden" name="first_url" value="https://micromeditaciones.substack.com/embed"><input type="hidden" name="first_referrer" value="https://adolforismos.com/"><input type="hidden" name="current_url" value="https://micromeditaciones.substack.com/embed"><input type="hidden" name="current_referrer" value="https://adolforismos.com/"><input type="hidden" name="referral_code"><input type="hidden" name="source" value="embed"><div class="sideBySideWrap"><input type="email" name="email" placeholder="Escribe tu correo…"><button class="button rightButton primary" type="submit" style=""><b>Suscríbete</b></button></div><div id="error-container"></div><div class="subtle-help-text below-input"></div></form></p>
+		 <p>• Escribo y produzco el podcast <a href="https://anchor.fm/meditacionpsicoterapeutica">Meditación Psicoterapéutica.</a></p>
 		</div>
-		<hr />
 		 <div class="recent-posts section">
 			<h2 class="section-header">
-				Textos recientes en el blog
+				Textos recientes en este blog
 			</h2>
 			<div class="posts">
 				{{- $.Scratch.Set "counter" 0 -}}
@@ -39,7 +41,7 @@
 				{{- end -}}
 				{{- end -}}
 
-				<a href="/blog/">Archivo completo →</a>
+				<a href="/blog/">Archivo completo de este blog →</a>
 			</div>
 		</div>
 	</div>

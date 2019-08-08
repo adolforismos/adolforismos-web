@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: El perseguidor
-type: blog
+type: minipost
 url: /el-perseguidor/
 ---
 

@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: Los piratas del tiempo
-type: blog
+type: minipost
 url: /los-piratas-del-tiempo/
 ---
 

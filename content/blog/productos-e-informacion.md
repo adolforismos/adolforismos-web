@@ -10,7 +10,7 @@ tags:
 - medios
 - microensayos
 title: Productos e información
-type: blog
+type: minipost
 url: /productos-e-informacion/
 ---
 

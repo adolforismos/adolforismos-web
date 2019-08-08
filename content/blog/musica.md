@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Música
-type: blog
+type: minipost
 url: /musica/
 ---
 

@@ -15,7 +15,7 @@ published: true
 status: publish
 tags: []
 title: La soledad de los cafés
-type: blog
+type: minipost
 url: /la-soledad-de-los-cafes/
 ---
 

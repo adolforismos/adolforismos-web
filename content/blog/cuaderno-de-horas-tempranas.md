@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: Cuaderno de horas tempranas
-type: blog
+type: minipost
 url: /cuaderno-de-horas-tempranas/
 ---
 

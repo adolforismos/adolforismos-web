@@ -8,7 +8,7 @@ status: publish
 tags:
 - divagaciones
 title: El duelo de los amantes
-type: blog
+type: minipost
 url: /el-duelo-de-los-amantes/
 ---
 
