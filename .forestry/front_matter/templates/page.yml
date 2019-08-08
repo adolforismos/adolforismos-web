@@ -38,6 +38,7 @@ fields:
   label: weight
   config:
     step: '1'
+  default: '0'
 - type: textarea
   name: description
   label: description
