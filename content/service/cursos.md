@@ -5,7 +5,7 @@ description = ""
 lastmod = ""
 title = "Cursos y talleres"
 type = "page"
-url = "service/cursos"
+url = "/service/cursos/"
 weight = 0
 
 +++
