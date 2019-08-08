@@ -2,12 +2,11 @@
 author = "adolforismos"
 date = "2019-08-07T00:00:00-05:00"
 description = ""
-draft = true
 lastmod = ""
 title = "Proyectos"
 type = "page"
 url = "proyectos"
-weight = nil
+weight = 0
 
 +++
 
