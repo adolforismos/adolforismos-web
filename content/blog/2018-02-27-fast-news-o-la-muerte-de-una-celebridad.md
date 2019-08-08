@@ -1,6 +1,7 @@
 ---
 author: adolforismos
 type: blog
+description: Para los conocidos y fans, la muerte de Robin Williams era la culminación de una vida que había luchado contra la depresión, la drogadicción y el alcoholismo. Una culminación terminada en derrota.
 date: '2018-02-27'
 published: true
 title: Fast news o La muerte de una celebridad

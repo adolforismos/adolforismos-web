@@ -3,7 +3,7 @@
 type = "blog"
 author = "adolforismos"
 date = "2018-04-13T09:20:50+00:00"
-description = ""
+description = "El sabio conoce, el ignorante, reconoce."
 title = "Conocer y reconocer"
 url = "conocer-y-reconocer"
 

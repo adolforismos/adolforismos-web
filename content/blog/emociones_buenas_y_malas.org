@@ -1,6 +1,7 @@
 #+TITLE:     Emociones positivas y negativas
 #+AUTHOR:    adolforismos
 #+KEYWORDS: 
+#+DESCRIPTION: Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
 #+URL: 
 #+TYPE: blog
 #+DATE: 2018-05-29T19:51:00-06:00
@@ -13,9 +14,9 @@
 
 
 ** Tipos de emociones
- No estoy seguro de hasta donde poder etiquetar, clasificar, diferenciar emociones o grupos de emociones sin que cualquier distinción pueda sonar moralista. Las emociones no son ni buenas ni malas, solo emociones. Pero lo cierto es que hay distinciones. Hay ciertas emociones que en ciertas circustancias nos hacer actuar de un modo u otro. Hay combinaciones de emociones. Hay circunstancias en donde es mejor reaccionar de una manera que otra.
+No estoy seguro de hasta donde poder etiquetar, clasificar, diferenciar emociones o grupos de emociones sin que cualquier distinción pueda sonar moralista. Las emociones no son ni buenas ni malas, solo emociones. Pero lo cierto es que hay distinciones. Hay ciertas emociones que en ciertas circustancias nos hacer actuar de un modo u otro. Hay combinaciones de emociones. Hay circunstancias en donde es mejor reaccionar de una manera que otra.
 
- Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
+Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
 
 ** Acción y pasividad
 

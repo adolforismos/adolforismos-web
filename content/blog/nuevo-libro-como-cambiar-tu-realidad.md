@@ -1,6 +1,7 @@
 ---
 type: blog
 title: "Nuevo libro: Cómo cambiar tu realidad"
+description: La principal razón de que estos textos hayan sido reunidos y los presente en forma de libro electrónico es que encuentro recursos, reflexiones, herramientas que han sido valiosos para otros y pueden serlo para los posibles lectores.
 date: 2018-01-12
 author: adolforismos
 url: /nuevo-libro-como-cambiar-tu-realidad/
@@ -16,7 +17,7 @@ Escribí el libro _Cómo cambiar tu realidad_, mientras asistía a tomar mis cla
 
 <!--more-->
 
-La principal razón de que estos textos hayan sido reunidos y los presente en forma de libro electrónico es que encuentro recursos, reflexiones, herramientas, que han sido valiosos para otros y pueden serlo para los posibles lectores
+La principal razón de que estos textos hayan sido reunidos y los presente en forma de libro electrónico es que encuentro recursos, reflexiones, herramientas que han sido valiosos para otros y pueden serlo para los posibles lectores.
 
 Como toda selección, recopilación o antología, no busco ser exhaustivo ni mucho menos coherente. Cada título dentro de este libro tiene vida propia y se puede incluso leer en desorden o por separado.
 
