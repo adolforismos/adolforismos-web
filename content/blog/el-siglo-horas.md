@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: El siglo 24 horas
-type: minipost
+type: blog
 url: /el-siglo-24-horas/
 ---
 

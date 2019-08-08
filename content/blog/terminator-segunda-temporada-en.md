@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2008-10-20T15:55:00Z
 tags: null
 title: 'Terminator: segunda temporada en televisión'

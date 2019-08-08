@@ -8,7 +8,7 @@ status: publish
 tags:
 - psicoterapia
 title: Castillos de arena
-type: minipost
+type: blog
 url: /castillos-de-arena/
 ---
 

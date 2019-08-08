@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2002-12-01T20:16:00.000Z
 tags:
   - dios rating

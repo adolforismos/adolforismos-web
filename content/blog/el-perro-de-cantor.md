@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: El perro de Cantor
 date: '2014-10-14T19:48:57-05:00'
 tags: []

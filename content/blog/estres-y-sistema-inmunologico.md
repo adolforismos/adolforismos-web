@@ -1,4 +1,5 @@
 +++
+type = "blog"
 author = "adolforismos"
 date = "2018-05-29T00:00:00-05:00"
 description = "No sé que tan posible sea para nuestra mente cuerpo activar el sistema inmunológico. Pero casi estoy seguro que lo que sí puede hacer es contenerlo, suspenderlo."

@@ -1,4 +1,6 @@
 +++
+
+type = "blog"
 author = "adolforismos"
 date = "2018-04-13T09:20:50+00:00"
 description = ""

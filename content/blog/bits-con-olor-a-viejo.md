@@ -1,4 +1,5 @@
 ---
+type: blog
 categories:
 - Artículos
 date: 2002-08-08 05:35:00 +0000

@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: Si el texto es tela…
-type: minipost
+type: blog
 url: /si-el-texto-es-tela/
 ---
 

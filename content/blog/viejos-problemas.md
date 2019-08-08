@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: Viejos problemas
-type: minipost
+type: blog
 url: /viejos-problemas/
 ---
 

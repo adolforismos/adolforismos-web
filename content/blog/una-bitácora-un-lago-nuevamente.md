@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: Una bitácora, un lago (nuevamente)
 date: '2014-10-12T14:23:31-05:00'
 tags: []

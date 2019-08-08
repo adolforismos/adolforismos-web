@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: La lógica de Diótima
-type: minipost
+type: blog
 url: /la-logica-de-diotima/
 ---
 

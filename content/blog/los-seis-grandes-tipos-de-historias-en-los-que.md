@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: Los seis grandes tipos de historias en los que puedes meter todas las novelas - Librópatas
 date: '2016-07-26T02:21:06-05:00'
 tags:

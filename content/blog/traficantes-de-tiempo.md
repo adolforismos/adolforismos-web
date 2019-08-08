@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: traficantes de tiempo
 date: '2014-10-13T14:00:47-05:00'
 tags: []

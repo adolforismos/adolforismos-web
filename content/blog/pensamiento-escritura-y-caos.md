@@ -8,7 +8,7 @@ status: publish
 tags:
 - divagaciones
 title: Pensamiento, escritura y caos
-type: minipost
+type: blog
 url: /pensamiento-escritura-y-caos/
 ---
 

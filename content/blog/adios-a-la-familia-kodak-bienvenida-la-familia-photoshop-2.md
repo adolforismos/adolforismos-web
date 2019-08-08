@@ -1,4 +1,5 @@
 ---
+type: blog
 categories:
 - Blog
 date: 2011-04-09 00:10:00 +0000

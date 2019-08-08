@@ -6,7 +6,7 @@ status: publish
 tags:
 - aforismos
 title: Bitácora de navegación
-type: minipost
+type: blog
 url: "/bitacora-de-navegacion/"
 description: Las sirenas del navegante
 lastmod: 2005-06-06 23:12:00 -0500

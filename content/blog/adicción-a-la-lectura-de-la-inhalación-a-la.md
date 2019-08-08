@@ -1,6 +1,7 @@
 ---
 title: 'Adicción a la lectura: de la inhalación a la intravenosa'
 date: 2014-11-02 13:13:31 -0600
+type: blog
 tags: []
 url: "/adiccion-a-la-lectura-de-la-inhalacion-a-la"
 author: adolforismos

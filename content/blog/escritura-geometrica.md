@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: Escritura geométrica
-type: minipost
+type: blog
 url: /escritura-geometrica/
 ---
 

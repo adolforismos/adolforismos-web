@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: Es cuando necesitamos una palabra
 date: '2014-10-15T18:02:37-05:00'
 tags: []

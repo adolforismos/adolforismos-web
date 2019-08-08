@@ -1,4 +1,5 @@
 ---
+type: blog
 categories:
 - Artículos
 date: 2014-06-16 00:15:58 +0000

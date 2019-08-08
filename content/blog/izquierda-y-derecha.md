@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: Izquierda y derecha
-type: minipost
+type: blog
 url: /izquierda-y-derecha/
 ---
 

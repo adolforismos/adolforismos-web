@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: El pensamiento es viajero y nómada
-type: minipost
+type: blog
 url: /el-pensamiento-es-viajero-y-nomada/
 ---
 

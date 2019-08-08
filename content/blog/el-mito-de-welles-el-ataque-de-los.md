@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2008-10-22T10:40:00Z
 tags: null
 title: 'El mito de Welles: el ataque de los marcianos'

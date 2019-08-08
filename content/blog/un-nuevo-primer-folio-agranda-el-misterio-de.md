@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: Un nuevo Primer Folio agranda el misterio de Shakespeare
 date: '2014-12-05T18:30:39-06:00'
 tags: []

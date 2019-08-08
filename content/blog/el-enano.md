@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: El enano
-type: minipost
+type: blog
 url: /el-enano/
 ---
 

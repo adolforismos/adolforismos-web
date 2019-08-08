@@ -8,7 +8,7 @@ status: publish
 tags:
 - divagaciones
 title: Ser escritura
-type: minipost
+type: blog
 url: /ser-escritura/
 ---
 

@@ -1,4 +1,5 @@
 ---
+type: blog
 categories:
 - adolforismos
 date: 2007-03-09 04:12:00 +0000

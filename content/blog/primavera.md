@@ -8,7 +8,7 @@ status: publish
 tags:
 - haiku
 title: Primavera
-type: minipost
+type: blog
 url: /primavera/
 ---
 

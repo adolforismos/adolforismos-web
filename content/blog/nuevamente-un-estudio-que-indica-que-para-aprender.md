@@ -1,4 +1,5 @@
 ---
+type: blog
 title: "Para aprender algo nuevo…"
 date: '2015-06-29T11:50:02-05:00'
 tags: []

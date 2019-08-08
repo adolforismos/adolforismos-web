@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2008-10-17 20:04:00 +0000
 tags: []
 title: Ahí viene el lobo...

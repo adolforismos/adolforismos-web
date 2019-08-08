@@ -9,13 +9,14 @@ tags:
 - aforismos
 - citas
 title: Corazón y razón
-type: minipost
+type: blog
 url: /corazon-y-razon/
 ---
 
 >“El corazón tiene razones que la razón desconoce.”
 
 _**Blaise Pascal**_
->Y la razón tiene corazonadas que el corazón desconoce.
+
+>Y la razón tiene corazonadas que el corazón desconoce.
 
 _**<a href="http://twitter.com/adolforismos">@adolforismos</a>**_

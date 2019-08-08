@@ -7,7 +7,7 @@ published: true
 status: publish
 tags: []
 title: Palabrería
-type: minipost
+type: blog
 url: /palabreria/
 ---
 

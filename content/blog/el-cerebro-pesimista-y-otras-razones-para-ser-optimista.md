@@ -1,4 +1,5 @@
 ---
+type: blog
 categories:
 - Meditaciones
 - Podcast

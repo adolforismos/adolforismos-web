@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2008-11-03T15:43:00Z
 tags: null
 title: Los Simpsons siguen dando batalla

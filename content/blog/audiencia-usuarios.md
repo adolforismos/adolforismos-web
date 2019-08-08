@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2009-11-10 05:49:00 +0000
 tags: []
 title: Audiencia = Usuarios

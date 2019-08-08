@@ -1,4 +1,5 @@
 ---
+type: blog
 title: "Nuevo libro: Cómo cambiar tu realidad"
 date: 2018-01-12
 author: adolforismos

@@ -10,7 +10,7 @@ tags:
 - budismo
 - psicoterapia
 title: El más allá
-type: minipost
+type: blog
 url: /el-mas-alla/
 ---
 

@@ -1,4 +1,5 @@
 +++
+type = "blog"
 author = "adolforismos"
 date = "2018-05-31T00:00:00-05:00"
 description = "Hemos hecho de la espera una actividad odiada y despreciada. Esperar es malo."

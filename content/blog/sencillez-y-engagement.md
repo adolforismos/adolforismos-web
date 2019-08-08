@@ -1,4 +1,5 @@
 +++
+type = "blog"
 author = "adolforismos"
 date = "2018-05-29T00:00:00-05:00"
 description = "Se puede ser tan complicado como se quiera, pero hay que iniciar con la sencillez."

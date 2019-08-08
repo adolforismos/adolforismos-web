@@ -1,5 +1,6 @@
 ---
 
+type: blog
 title: 'El lenguaje de las palomas: algunos nacen póstumos'
 date: '2014-10-15T09:50:53-05:00'
 tags:

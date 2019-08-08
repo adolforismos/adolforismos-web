@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2009-10-21T19:35:00Z
 tags: null
 title: Fotos

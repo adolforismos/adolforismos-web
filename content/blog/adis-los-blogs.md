@@ -1,4 +1,5 @@
 ---
+type: blog
 date: 2008-10-30T13:04:00Z
 tags: null
 title: ¿Adiós a los blogs?

@@ -8,7 +8,7 @@ status: publish
 tags:
 - aforismos
 title: La memoria y el reloj de arena
-type: minipost
+type: blog
 url: /la-memoria-y-el-reloj-de-arena/
 ---
 
