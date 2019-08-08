@@ -5,7 +5,7 @@ description = ""
 lastmod = ""
 title = "Marketing digital"
 type = "page"
-url = "service/marketingdigital"
+url = "/service/marketingdigital/"
 weight = 0
 
 +++
