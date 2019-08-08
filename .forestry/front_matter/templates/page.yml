@@ -46,6 +46,7 @@ fields:
   label: author
   default: adolforismos
 pages:
+- content/service/consultoria.md
 - content/service/cursos.md
 - content/service/marketingdigital.md
 - content/cv.md

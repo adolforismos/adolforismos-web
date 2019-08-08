@@ -1,7 +1,14 @@
 +++
+author = "adolforismos"
+date = "2017-01-21T00:00:00-06:00"
+description = ""
+lastmod = ""
 title = "Consultoría en Administración de Proyectos"
-+++
+type = "page"
+url = "consultoria"
+weight = nil
 
++++
 Planeación, desarrollo y ejecución de proyectos y formación de equipos de trabajo desde cero en áreas de investigación y operativas.
 
 <!--more-->
