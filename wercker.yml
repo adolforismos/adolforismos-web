@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build@2.5.0:
         version: "0.48"
-        theme: hugo-initio
+        theme: ezhil
 deploy:
   steps:
     - dandehavilland/firebase-deploy@1.2.2:
