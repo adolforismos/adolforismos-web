@@ -6,7 +6,7 @@ lastmod = ""
 title = "Acerca de..."
 type = "page"
 url = "acerca-de"
-weight = nil
+weight = 10
 
 +++
 ## Hola…
