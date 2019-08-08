@@ -6,7 +6,7 @@ lastmod = ""
 title = "Psicoterapia"
 type = "page"
 url = "psicoterapia"
-weight = nil
+weight = 0
 
 +++
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
