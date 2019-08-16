@@ -38,7 +38,7 @@ Insisto, estos son sólo tres conceptos que me parecen más originales en este c
 
 ![¿En qué consiste el proceso?](http://www.designthinking.es/includes/skins/default/img/contenido/consiste-1.png)
 
-
+![¿En qué consiste el proceso?](http://www.designthinking.es/includes/skins/default/img/contenido/consiste-1.png)
 
 
 Ahora bien, a lo que iba. ¿Es  posible aprovechar este método o proceso para escribir?
@@ -121,5 +121,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERlc2lnbiB0aGlua2luZy
 BwYXJhIGVzY3JpYmlyXG5hdXRob3I6IGFkb2xmb3Jpc21vc1xu
 ZHJhZnQ6IHRydWVcbmRhdGU6IFlZWVktTU0tRERcbmRlc2NyaX
 B0aW9uOiBcbnVybDpcbnR5cGU6IGJsb2dcbiIsImhpc3Rvcnki
-Ols2NzU5NzA5MTQsLTExOTI4NTY0MjNdfQ==
+OlstMTkwNzEzNDU2Miw2NzU5NzA5MTQsLTExOTI4NTY0MjNdfQ
+==
 -->
