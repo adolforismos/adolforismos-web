@@ -47,15 +47,15 @@ fields:
   label: author
   default: adolforismos
 pages:
-- content/service/consultoria.md
-- content/service/cursos.md
+- content/proyectos.md
 - content/service/psicoterapia.md
+- content/service/cursos.md
 - content/service/marketingdigital.md
+- content/service/consultoria.md
 - content/psicoterapia.md
 - content/libro-la-carta-dialectica.md
-- content/cv.md
-- content/proyectos.md
 - content/libros.md
+- content/cv.md
 - content/acerca-de.md
 - content/media.md
 - content/about.md
