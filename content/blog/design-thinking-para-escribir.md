@@ -117,7 +117,9 @@ Entonces, a inspirarse, retorcer, *freethinking*, prototipar, e iterar.
 
 
 <!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiYXV0aG9yOiBhZG9sZm9yaXNtb3Ncbn
-B1Ymxpc2hlZDogdHJ1ZVxuIiwiaGlzdG9yeSI6WzYyNTk3MDI4
-MSwtMTE5Mjg1NjQyM119
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERlc2lnbiB0aGlua2luZy
+BwYXJhIGVzY3JpYmlyXG5hdXRob3I6IGFkb2xmb3Jpc21vc1xu
+ZHJhZnQ6IHRydWVcbmRhdGU6IFlZWVktTU0tRERcbmRlc2NyaX
+B0aW9uOiBcbnVybDpcbnR5cGU6IGJsb2dcbiIsImhpc3Rvcnki
+Ols2NzU5NzA5MTQsLTExOTI4NTY0MjNdfQ==
 -->
