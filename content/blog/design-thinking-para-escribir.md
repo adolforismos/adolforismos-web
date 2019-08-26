@@ -72,7 +72,7 @@ Para este texto, tenía por un lado, el hábito de desarrollar productos técnic
 
 ## Idear, explorar, *freewriting*
 
-Pensar con los dedos o la escritura que piensa. Así le suelo llamar, pero básicamente es la parte de escribir para pensar, escribir para descubrir. A diferencia de escribir lo que pensamos o lo que hemos descubierto.
+Pensar con los dedos o la escritura que piensa. Así le suelo llamar, pero básicamente es la parte de escribir para pensar, escribir para descubrir. A diferencia de escribir lo que pensamos o lo que hemos descubierto..
 
 Es una escritura que debe fluir como si fuera *brainstoriming,* como si estuviéramos en la zona, sin preocuparnos por redacción, gramática o faltas de ortografía, pero incluso, sin importar si estamos de acuerdo o no con lo que escribimos. 
 
@@ -118,6 +118,7 @@ Entonces, a inspirarse, retorcer, *freethinking*, prototipar, e iterar.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERlc2lnbiB0aGlua2luZy
 BwYXJhIGVzY3JpYmlyXG5hdXRob3I6IGFkb2xmb3Jpc21vc1xu
 ZHJhZnQ6IHRydWVcbmRhdGU6IFlZWVktTU0tRERcbmRlc2NyaX
-B0aW9uOiBcbnVybDpcbnR5cGU6IGJsb2dcbiIsImhpc3Rvcnki
-OlstMTgyMjUyOTIxOF19
+B0aW9uOiBudWxsXG51cmw6IG51bGxcbnR5cGU6IGJsb2dcbmV4
+dGVuc2lvbnM6XG4gIHByZXNldDogZ2ZtXG4iLCJoaXN0b3J5Ij
+pbLTIwNzczNTQ3NzEsLTE4MjI1MjkyMThdfQ==
 -->
