@@ -47,8 +47,8 @@ fields:
   label: author
   default: adolforismos
 pages:
-- content/proyectos.md
 - content/service/psicoterapia.md
+- content/proyectos.md
 - content/service/cursos.md
 - content/service/marketingdigital.md
 - content/service/consultoria.md

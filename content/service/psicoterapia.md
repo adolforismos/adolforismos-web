@@ -6,7 +6,7 @@ lastmod = ""
 title = "Psicoterapia"
 type = "page"
 url = "/service/psicoterapia/"
-weight = 0
+weight = nil
 
 +++
 Soy orientador, educador y psicoterapeuta certificado además de haber dedicado los últimos ocho años al estudio, práctica y enseñanza de diferentes prácticas meditativas. Puedes leerme, escucharme o verme a través de mis [publicaciones](https://adolforismos.com/blog), [podcast](http://meditacionpsicoterapeutica.com) y [videos](https://www.youtube.com/user/adolforamirezcorona).
@@ -14,7 +14,6 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 <!--more-->
 
 > Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXjcaT9dY0A?rel=0&controls=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -24,32 +23,16 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 * Tan sencillo como la **meditación**, tan eficaz como la **psicoterapia, tan práctico como el coaching**
 * **Tu eres tu propio experto**, en ti está la capacidad de cambio
 * **Breve**: 4 sesiones recomendadas, rara vez se llega a las diez para un tema o problema
-* Sesiones a distancia a través de **Skype o FaceTime** desde la comodidad de tu hogar y flexibilidad de horario
-* Costo de **$600 pesos/mx por sesión** o $1,600 pesos/mx ($99 USD) por 4 sesiones (sesiones de una hora c/u)
-* Prueba una sesión **GRATIS** sin compromiso a través de Skype, FaceTime o Hangouts desde la comodidad de tu hogar
+* Sesiones a distancia a través de **Skype o FaceTime** (o similar) desde la comodidad de tu hogar y flexibilidad de horario
 * Toda información proporcionada está protegida por el privilegio de <a href="http://www.conamed.gob.mx/publicaciones/cartas/pdf/POSTER_PACIENTES_2014.pdf" target="_blank">**confidencialidad** paciente-psicoterapeuta</a>
 
----
+***
 
 ## Citas y Contacto
 
-##### Escríbeme a adolforamirez (en) gmail.com
+##### Escríbeme a adolforamirez (en) gmail.com para mayor información
 
----
-
-##### Agenda en [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
-
----
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-
-##### <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/adolforismos/consultas');return false;">Agenda una consulta en mi cuenta de Calendly</a>
-
-<!-- Calendly link widget end -->
-
----
+***
 
 ##### O envíame tu correo en este formulario:<br>
 
