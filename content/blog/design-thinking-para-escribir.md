@@ -6,6 +6,7 @@ date: 2019-08-26
 description:  Con la idea de usar un modelo de diseño aplicado a  procesos, pero para la escritura. Cosas que se me ocurren.
 url:  design-thinking-para-escribir  
 type: blog
+
 ---
 
 Cada vez en cuando, algún método o técnica de solución de problemas o de pensamiento creativo se pone de moda (me viene a la memoria *Seis sombreros para pensar* de Edward de Bono, muy ochentas).  
@@ -130,6 +131,6 @@ BwYXJhIGVzY3JpYmlyXG5hdXRob3I6IGFkb2xmb3Jpc21vc1xu
 ZHJhZnQ6IHRydWVcbmRhdGU6IFlZWVktTU0tRERcbmRlc2NyaX
 B0aW9uOiBudWxsXG51cmw6IG51bGxcbnR5cGU6IGJsb2dcbmV4
 dGVuc2lvbnM6XG4gIHByZXNldDogZ2ZtXG4iLCJoaXN0b3J5Ij
-pbMTg1OTg2NjE4MSwtMjA3NzM1NDc3MSwtMTgyMjUyOTIxOF19
+pbMTExMDkxMzExMSwtMjA3NzM1NDc3MSwtMTgyMjUyOTIxOF19
 
 -->
