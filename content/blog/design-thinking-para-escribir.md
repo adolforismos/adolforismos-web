@@ -1,3 +1,13 @@
+---
+title: Design thinking para escribir  
+author: adolforismos  
+draft:  true  
+date: 2019-08-26  
+description:  null  
+url:  null  
+type: blog
+---
+
 Cada vez en cuando, algún método o técnica de solución de problemas o de pensamiento creativo se pone de moda (me viene a la memoria *Seis sombreros para pensar* de Edward de Bono, muy ochentas).  
 
 Ahora está muy de moda el *Design Thinking*, básicamente, extender los métodos y técnicas que se usan en el diseño actual (principalmente digital y de aplicaciones) a otras áreas de negocios.
@@ -120,5 +130,6 @@ BwYXJhIGVzY3JpYmlyXG5hdXRob3I6IGFkb2xmb3Jpc21vc1xu
 ZHJhZnQ6IHRydWVcbmRhdGU6IFlZWVktTU0tRERcbmRlc2NyaX
 B0aW9uOiBudWxsXG51cmw6IG51bGxcbnR5cGU6IGJsb2dcbmV4
 dGVuc2lvbnM6XG4gIHByZXNldDogZ2ZtXG4iLCJoaXN0b3J5Ij
-pbLTIwNzczNTQ3NzEsLTE4MjI1MjkyMThdfQ==
+pbMzUyMDA0MjA5LC0yMDc3MzU0NzcxLC0xODIyNTI5MjE4XX0=
+
 -->
