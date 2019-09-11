@@ -1,21 +1,31 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-08-11T12:21:00Z
+date: 2012-08-11T12:21:00.000+00:00
 published: true
 status: publish
 tags:
 - neurociencia
 - psicoterapia
 title: Ulises y el arte de resistir tentaciones
-type: blog
-url: /ulises-y-el-arte-de-resistir-tentaciones/
----
+url: "/ulises-y-el-arte-de-resistir-tentaciones/"
+keywords: []
+description: ''
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Como ya se ha dicho, los Juegos Olímpicos en Londres terminan mañana con la ceremonia de clausura. Una de las secuelas que traen consigo este tipo de eventos, es el entusiasmo de la audiencia por practicar los diferentes deportes que estuvieron admirando. El fin de semana pasado, por ejemplo, mi esposa y yo veíamos a un par de jovencitas practicar el tiro con arco en el parque de la colonia, seguramente alentadas por el desempeño de las mexicanas Aída Román y Mariana Avitia.
+
+![](https://source.unsplash.com/gqpkafqLTwk)
 
 Pero este entusiasmo que nos queda por practicar algún deporte casi siempre tiene el mismo destino que los propósitos de principio de año que solemos nunca cumplir del todo. Es lo que pone en evidencia la complejidad de nuestro sistema mental. O mejor dicho, de nuestros sistemas mentales, porque como nos lo explica el neurocientífico David Eagleman, autor de <a href="http://www.amazon.com/gp/product/0307389928/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307389928&amp;linkCode=as2&amp;tag=adolforamir0d-20">Incognito: The Secret Lives of the Brain</a>, todavía sin traducción al español pero que será seguramente “Incógnito: Las vidas secretas de nuestro cerebro”, nuestra mente está hecha de muchos y variados sistemas, incluso compitiendo entre sí. Y si alguien duda, recuerden el día en que se prometieron comer solo un par de galletas y cuando se dieron cuenta ya se habián terminado media caja. A veces gana el yo racional y precavido que está cuidando la línea, pero a veces gana el yo viceral, tal vez estresado, que solo piensa en el presente, y que además le gusta mucho el azúcar.
 

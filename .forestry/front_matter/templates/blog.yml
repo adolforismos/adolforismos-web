@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/ulises-y-el-arte-de-resistir-tentaciones.md
 - content/blog/un-experimento-contra-el-tiempo.md
 - content/blog/el-cerebro-de-los-taxistas-de-londres.md
 - content/blog/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son.md
@@ -231,7 +232,6 @@ pages:
 - content/blog/personalidades-geometricas-2.md
 - content/blog/poder-y-palabra.md
 - content/blog/reescribir-la-historia-del-mundo.md
-- content/blog/ulises-y-el-arte-de-resistir-tentaciones.md
 - content/blog/meditacion-todo-lo-que-has-deseado.md
 - content/blog/el-bibliomante.md
 - content/blog/el-traje-nuevo-del-emperador-cuento-o-falacia.md
