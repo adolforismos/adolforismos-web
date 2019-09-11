@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos.md
 - content/blog/tiempos-muertos-tiempos-vivos.md
 - content/blog/del-juego-la-sintactica-gongora.md
 - content/blog/el-siglo-horas.md
@@ -287,7 +288,6 @@ pages:
 - content/blog/noche-cero-fragmento-de-una-novela-que-no-fue-ii.md
 - content/blog/el-paraguas-olvidado-de-nietzsche.md
 - content/blog/generacion-zapping-generacion-copy-paste.md
-- content/blog/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos.md
 - content/blog/el-superdotado.md
 - content/blog/la-gran-peste.md
 - content/blog/que-es-la-red-de-redes.md
