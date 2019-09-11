@@ -15,7 +15,7 @@ title: 'El rostro de los otros: marcianos que no lo parecen y americanos que no 
   son'
 url: "/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son/"
 keywords: []
-lastmod: 
+lastmod: 2019-09-11T00:00:00-05:00
 author: ''
 form: ''
 evergreen: false
