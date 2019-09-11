@@ -1,24 +1,18 @@
-#+TITLE:     Emociones positivas y negativas
-#+AUTHOR:    adolforismos
-#+KEYWORDS: 
-#+DESCRIPTION: Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
-#+URL: 
-#+TYPE: blog
-#+DATE: 2018-05-29T19:51:00-06:00
-#+EVERGREEN:
-#+FORM: 
-#+LASTMOD: 2018-05-29T19:51:00-06:00
-#+HIGHLIGHTS:
-#+OPTIONS: num:nil
-#+OPTIONS: toc:nil
+---
+Title: Emociones positivas y negativas
+Description: Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
+Type: blog
+Date: 2018-05-29
+Lastmod: 2018-05-29
+url: emociones-positivas-y-negativas
+---
 
-
-** Tipos de emociones
+## Tipos de emociones
 No estoy seguro de hasta donde poder etiquetar, clasificar, diferenciar emociones o grupos de emociones sin que cualquier distinción pueda sonar moralista. Las emociones no son ni buenas ni malas, solo emociones. Pero lo cierto es que hay distinciones. Hay ciertas emociones que en ciertas circustancias nos hacer actuar de un modo u otro. Hay combinaciones de emociones. Hay circunstancias en donde es mejor reaccionar de una manera que otra.
 
 Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
 
-** Acción y pasividad
+## Acción y pasividad
 
 Una clasificación inicial que me viene a la mente es la de las emociones que nos hacen actuar y aquellas que nos hacen qudarnos quietos. Pero la verdad es que no es una distinción adecuada. Estos atributos no se les puede adjudicar a la emoción misma.
 
@@ -28,11 +22,11 @@ La alegría no se queda atrás. Hay alegrías que nos hacer armar una fiesta, pe
 
 ¿Qué hace que una persona con miedo actúe con un ímpetu descomunal y otra (o esa misma persona, pero diferente circunstancia) se paralice o huya corriendo?
 
-** La pasividad de la  actividad
+## La pasividad de la  actividad
 
 Y más aún, ¿cómo definir lo que es activo o pasivo? ¿Huir es pasivo o activo? Pelear se ve muy activo pero, ¿no es la violencia la pasividad del control, de la mesura, de la voluntad de buscar otras soluciones?
 
-** Tierra, fuego, agua, aire...
+## Tierra, fuego, agua, aire...
 
 Tal vez la mejor comparación de las emociones son los elementos naturales. Ni buenos ni malos. Ni positivos ni negativos. Simplemente son. 
 
