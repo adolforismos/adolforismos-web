@@ -1,11 +1,11 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-07-21T11:43:00Z
-description: Nuestra relación con el país del norte ha cambiado en lo más íntimo y cercano
+date: 2012-07-21T11:43:00.000+00:00
+description: Nuestra relación con el país del norte ha cambiado en lo más íntimo y
+  cercano
 published: true
 status: publish
 tags:
@@ -13,18 +13,25 @@ tags:
 - psicoterapia
 title: 'El rostro de los otros: marcianos que no lo parecen y americanos que no lo
   son'
-type: blog
-url: /el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son/
+url: "/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son/"
+keywords: []
+lastmod: 
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
+
 ---
-
-
 Estados Unidos amanece de luto otra vez. Y por más que se antoja una reflexión al hecho que lo provoca, dejaremos eso para cuando la distancia de los días permita un análisis más profundo. Sin embargo, hay dos mitos altamente relacionados con el país del norte que vale la pena recordar. Mitos con los que nuestra generación creció, la tuya y la mía, nacidos por ahí de finales de los sesenta y principios de los setenta. Digamos, la generación post sesenta y ocho. Dos mitos con los que crecimos. Hubo muchos otros, pero hoy quiero recordar dos mitos y como han venido a transformarse de modo radical en la época actual.
 
 El primer mito nace de los viajes a la luna y al espacio en general. Nuestra infancia creció con la carrera espacial entre soviéticos y norteamericanos, chimpancés héroes y perritas de muerte dramática, hombres mirando un planeta azul a través de una claraboya y astronautas pisando la luna. Eran días en que la tecnología y los avances científicos no estaban al alcance de la mano, en un teléfono inteligente o una computadora de última generación. Nuestra manera de vivir esos avances era por esas historias. Pero también eran días en que cuando te preguntaban de niño qué ibas a ser de grande, la respuesta de quiero ser astronauta no sonaba tan descabellada. Era algo posible. A nuestra generación le hicieron esa promesa que nunca se cumplió. El progreso, la promesa de lo moderno, el futuro. En esa decepción generacional se fundamenta esto que los estudiosos llamaron post-modernidad: las grandes promesas incumplidas. Pero como dicen, esa es otra historia que dejaremos para otro momento.
 
 Junto con esos viajes a la luna con los que seguiremos soñando, estaba el maravilloso mundo de los marcianos y extraterrestres. ¡Uf, cuántas teorías, cuánta ciencia, real y de ficción sobre los marcianos y extraterrestres! Bradbury me viene a la mente. Pero hoy quiero recordar un momento clave de aquel imaginario de infancia y adolescencia. Mientras soñaba con la posibilidad de que nosotros, los terrícolas, humanos, nos encontráramos con otros seres diferentes a nosotros, con diferentes modos de pensar y diferentes costumbres, mientras soñaba con eso, un día leía el ya clásico libro de Cosmos del finado Carl Sagan, maestro de la divulgación científica moderna. Libro que como saben los de nuestra generación se basaba en una serie documental de televisión. El capítulo en especial que recuerdo se llama “Blues para un planeta rojo” y se dedica a analizar con detalle y prodigio narrativo las posibilidades reales de la vida en Marte. Es en ese capítulo donde un día descubrí una posibilidad nunca antes imaginada ni por mí ni por ningún autor de ciencia ficción. Carl Sagan explica que el clima de Marte permitiría que en algún futuro sembráramos algún tipo de alga en los polos marcianos para que generaran oxígeno y por lo tanto una atmósfera, con el tiempo, habitable para los seres humanos. Con esto, Carl Sagan cierra el capítulo diciendo que de ser así nos enfrentaríamos a un escenario inusual, inesperado, porque después de especular tanto sobre los marcianos, en este caso “los marcianos seríamos nosotros mismos”. ¡Cómo me ha dado vueltas esa frase, esa idea! Algo que entendería después en mis clases de filosofía, o más recientemente, en mis clases como psicoterapeuta: ese al que vemos como otro, no es sino yo mismo; el otro siempre es un otro yo.
 
-<a title="Mars &amp; Phobos [1680x1050] by DUCKofD3ATH, on Flickr" href="http://www.flickr.com/photos/toptechwriter/2406913018/"><img class="alignnone" src="/img/2406913018_ffff490ebd_n.jpg" alt="Mars &amp; Phobos [1680x1050]" width="320" height="200" /></a>
+![](https://source.unsplash.com/t3KYQUUvfsc)
 
 
 El otro mito de nuestra generación, muy post-sesenta y ocho es el que nos hizo tan anti-yankees por muchos años. En una combinación de diferentes factores que van desde una ideología pseudo socialista-comunista, tanto en nuestros gobernantes de aquella época, como en muchos de nuestros maestros en preparatoria y universidad, hasta un resentimiento antiquísimo por la invasión norteamericana de 1914, o la expropiación petrolera con Lázaro Cárdenas, las presiones macarthystas contra movimientos sociales, y ve tu a saber porque otras tantas razones, lo cierto es que nuestra generación creció con un odio-resentimiento-repudio a todo lo que tenía que ver con los Estados Unidos. Un repudio solo en lo políticamente correcto porque la dependencia, siendo vecinos, siempre fue inevitable.

@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son.md
 - content/blog/adios-a-la-familia-kodak-bienvenida-la-familia-photoshop.md
 - content/blog/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos.md
 - content/blog/tiempos-muertos-tiempos-vivos.md
@@ -235,7 +236,6 @@ pages:
 - content/blog/el-traje-nuevo-del-emperador-cuento-o-falacia.md
 - content/blog/la-escritura-invisible.md
 - content/blog/el-poder-de-los-placebos-y-las-palabras-que-los-acompanan.md
-- content/blog/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son.md
 - content/blog/ontogenia-del-texto.md
 - content/blog/podcast-en-meditacionpsicoterapeutica-com.md
 - content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
