@@ -1,9 +1,8 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-09-24T14:08:00Z
+date: 2012-09-24T14:08:00.000+00:00
 excerpt: ¿Recuerdan el experto en mentiras de la serie de televisión "Lie to me"?
 description: Cuando un escéptico inamovible se encuentra con una emoción irresistible
 published: true
@@ -13,11 +12,20 @@ tags:
 - neurociencia
 - psicoterapia
 title: El experto que sabía leer las emociones
-type: blog
-url: /el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible/
----
+url: "/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
-<a href="http://amzn.to/1fNrDTJ"><img class="alignright wp-image-2103 size-medium" src="/img/emotional-awarness-cover-183x300.jpg" alt="Emotional Awareness http://amzn.to/1fNrDTJ" width="183" height="300" /></a>
+---
+![Dalai Lama y Dr. Paul Ekman](/img/dr-paul-ekman-and-dalai-lama.jpg "Dalai Lama y Dr. Paul Ekman")
+
 Creo que a todos nos ha dado tentación en algún momento de nuestra vida el poder combinar dos universos, dos mundos aparentemente separados el uno del otro, juntarlos. Por ejemplo, a mi siempre me gustaban esos episodios especiales de caricaturas donde podíamos ver al oso Yogi junto con Don Gato y su pandilla. O por supuesto, Los Súper Amigos o Salón de la justicia, con Supermán al lado de Batman. Y estas combinaciones pueden ser de muy diferentes tipos, ese es el fundamento de la creatividad. A George Lucas le gustaban los westerns con pistolas y los mosqueteros con espadas, y siempre quiso poder tener lo mejor de los dos en una misma película. No a pocos les pareció descabellada tal idea, y bueno, ya saben en que terminó eso, ¿no?
 A veces, dan ganas de poner algún personaje de ficción con uno real, por ejemplo. ¿Qué tal poner a platicar a Rambo con Gandhi y ver qué pasa?
 Y está la tecnología. Llevar a Julio Verne a una presentación de productos de Apple a ver qué cara pone o que ideas les da.

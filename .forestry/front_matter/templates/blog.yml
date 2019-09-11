@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/el-buda-necesitaba-psicoterapia-divagaciones-despues-de-un-retiro.md
 - content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
 - content/blog/el-poder-de-los-placebos-y-las-palabras-que-los-acompanan.md
@@ -268,7 +269,6 @@ pages:
 - content/blog/lectura-en-voz-alta-interpretar-es.md
 - content/blog/porque-no-veo-el-super-bowl.md
 - content/blog/un-angel-en-el-cafe-de-la-calle-doce.md
-- content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/un-pequeno-comic-sobre-el-efecto-placebo.md
 - content/blog/creo-en-la-mujer.md
 - content/blog/el-extraterrestre.md
