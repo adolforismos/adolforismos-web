@@ -1,20 +1,29 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2014-10-05T20:19:10Z
+date: 2014-10-05T20:19:10.000+00:00
 description: Dos parábolas sobre el duelo
 published: true
 status: publish
 tags: []
 title: Las pérdidas de Lázaro y Kisa
-type: blog
-url: /las-perdidas-de-lazaro-y-kisa-3/
----
+url: "/las-perdidas-de-lazaro-y-kisa-3/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Jesús de Nazaret devuelve a la vida a Lázaro diciéndole "¡Lázaro, ven afuera!". En una primera lectura del evangelio parece una simple historia cuyo objetivo es mostrar la capacidad de hacer milagros del llamado hijo de dios. Revivir a un muerto parece la mejor señal de que este hombre es la palabra, el verbo o el logos, encarnado. En una primera lectura, la resurrección de los muertos es tomada de un modo demasiado literal. Parece la descripción de un hecho y no una mera metáfora.
+
+![](https://source.unsplash.com/fvl4b1gjpbk)
 
 El misterio sobre este pasaje se acentúa en el hecho de que lo encontramos en el Evangelio más singular del resto, el de Juan. Cómo mero registro, sería extraño que un evento de tal importancia no hubiera sido documentado por el resto de los evangelistas. Juan presenta una narrativa que parece fuera de toda interpretación: la muerte, el sepulcro, la descomposición del cuerpo. Sin embargo, estamos hablando de Juan, el filósofo, que siempre nos sorprende con su narrativa, sus alegorías, y con la posibilidad de múltiples lecturas de sus textos.
 

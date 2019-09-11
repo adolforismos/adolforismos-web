@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/las-perdidas-de-lazaro-y-kisa-3.md
 - content/blog/el-extraterrestre.md
 - content/blog/el-acechador-de-suenos.md
 - content/blog/el-hacedor-de-lluvia.md
@@ -264,7 +265,6 @@ pages:
 - content/blog/sobre-el-aforismo.md
 - content/blog/subrayar.md
 - content/blog/que-hace-el-cerebro-cuando-no-hace-nada.md
-- content/blog/las-perdidas-de-lazaro-y-kisa-3.md
 - content/blog/lecturas-sobre-plagio-y-mentiras-poniatowska-kapuscinski-lehrer.md
 - content/blog/la-termita.md
 - content/blog/lectura-en-voz-alta-interpretar-es.md
