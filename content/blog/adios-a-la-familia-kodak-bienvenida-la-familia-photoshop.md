@@ -1,10 +1,9 @@
 ---
-type: blog
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-07-14 11:23:00 +0000
+date: 2012-07-14T11:23:00.000+00:00
 description: El cambio generacional en un click
 status: publish
 tags:
@@ -23,12 +22,14 @@ highlights:
     al de la "familia Photoshop"
   quote2: ''
   quote3: ''
-lastmod: 2012-07-14 11:23:00 +0000
+lastmod: 2012-07-14T11:23:00.000+00:00
 
 ---
 Todavía hace cincuenta años o menos, la familia mexicana era una familia nuclear, abuelos, papá, mamá, hijos e hijas, que se iba extendiendo con los matrimonios de estos últimos, y la nueva generación de nietos.
 
 Este paradigma de familia lo podemos ver muy claro más allá de las estadísticas, al revisar el típico cuadro fotográfico en casa de los abuelos, ya sea en alguna mesa o en el álbum familiar.
+
+![](https://source.unsplash.com/erUc3pSRzhY)
 
 Pero también lo podemos encontrar en muchos libros. Parte de lo que he estudiado en los últimos años en mi formación como psicoterapeuta, es la descripción de las etapas familiares. Te estoy hablando de libros que se publicaron hace apenas un par de décadas, con base en estudios de por lo menos otro par de décadas. Es decir, estamos leyendo libros sobre la familia que son una fotografía de hace cuarenta o cincuenta años. Una familia que la cultura popular pasó a definir tomando prestado el concepto de una vieja campaña de marketing: la familia Kodak. Es decir, la familia perfecta, cada miembro de la familia en su lugar, guardando su posición y sus funciones. La familia que evolucionaba de ser una pareja heterosexual a ser una familia con hijos, para luego que los hijos se casaran y dejaran a los padres solos, y etcétera, etcétera.
 

@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/adios-a-la-familia-kodak-bienvenida-la-familia-photoshop.md
 - content/blog/que-tienen-en-comun-seres-queridos-celebridades-y-candidatos.md
 - content/blog/tiempos-muertos-tiempos-vivos.md
 - content/blog/del-juego-la-sintactica-gongora.md
@@ -158,7 +159,6 @@ pages:
 - content/blog/medalla-de-oro-al-rating-olimpico.md
 - content/blog/ms-sobre-el-uso-del-cerebro-en-internet.md
 - content/blog/quien-es-el-autor-del-gol.md
-- content/blog/adios-a-la-familia-kodak-bienvenida-la-familia-photoshop.md
 - content/blog/audio-o-video-en-la-rebelion-de-las-maquinas.md
 - content/blog/las-minorias-y-sus-limites.md
 - content/blog/reality-shows-o-voyeurity-shows.md
