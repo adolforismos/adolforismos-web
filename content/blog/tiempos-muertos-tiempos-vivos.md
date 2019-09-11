@@ -1,21 +1,31 @@
 ---
-
 categories:
 - Artículos
-date: 2012-06-30T11:37:00Z
+date: 2012-06-30T11:37:00.000+00:00
 published: true
 status: publish
 tags:
 - neurociencia
 - psicoterapia
 title: Tiempos muertos, tiempos vivos
-type: blog
-url: /tiempos-muertos-tiempos-vivos/
----
+url: "/tiempos-muertos-tiempos-vivos/"
+keywords: []
+description: ''
+lastmod: 
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Cómo explicarnos que hace no mucho tiempo había momentos durante el día en que no había nada que hacer. Absolutamente nada. Esos que llamábamos tiempos muertos.
 
 Recordemos, muchas veces esos momentos nos sucedían esperando en la cola del banco, o en una esquina, en el cruce de una calle, mientras llegaba nuestra cita, que a diferencia de ahora, no tenía celular para avisarnos que venía retrasada, por lo que había que esperar y esperar, no fuera a ser que se le hubiera hecho tarde. O esos tiempos muertos afuera del consultorio médico, esperando turno, una vez que agotábamos las revistas viejas para leer que hay en toda sala de espera de consultorio médico.  O esos momentos mientras íbamos sentados en el autobús, microbús o metro sin nada que hacer, la mirada perdida por la ventana.
+
+[BXOXnQ26B7o](https://source.unsplash.com/BXOXnQ26B7o "BXOXnQ26B7o")
 
 Esos momentos son difíciles de explicar porque ahora son casi nulos. Y si no lo creen, fíjense bien. Cada que tenemos un momento así, ¿qué es lo que hacemos en automático? Sacamos el celular (si no es que ya lo teníamos afuera) y revisamos algo. Llamadas perdidas, mensajes de texto sin contestar, facebook, twitter, un juego pendiente, o hasta una página de internet o artículo que estamos leyendo ahí.
 

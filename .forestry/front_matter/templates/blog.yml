@@ -81,6 +81,8 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/tiempos-muertos-tiempos-vivos.md
+- content/blog/del-juego-la-sintactica-gongora.md
 - content/blog/el-siglo-horas.md
 - content/blog/99955658651.md
 - content/blog/pensamiento-escritura-y-caos.md
@@ -225,10 +227,8 @@ pages:
 - content/blog/personalidades-geometricas-2.md
 - content/blog/poder-y-palabra.md
 - content/blog/reescribir-la-historia-del-mundo.md
-- content/blog/tiempos-muertos-tiempos-vivos.md
 - content/blog/ulises-y-el-arte-de-resistir-tentaciones.md
 - content/blog/el-cerebro-de-los-taxistas-de-londres.md
-- content/blog/del-juego-la-sintactica-gongora.md
 - content/blog/meditacion-todo-lo-que-has-deseado.md
 - content/blog/el-bibliomante.md
 - content/blog/el-traje-nuevo-del-emperador-cuento-o-falacia.md
