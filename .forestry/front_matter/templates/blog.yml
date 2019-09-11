@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-buda-necesitaba-psicoterapia-divagaciones-despues-de-un-retiro.md
 - content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
 - content/blog/el-poder-de-los-placebos-y-las-palabras-que-los-acompanan.md
 - content/blog/estres-post-vacaciones-no-te-lo-tomes-personal.md
@@ -204,7 +205,6 @@ pages:
 - content/blog/los-7-pecados-del-candidato-campanas.md
 - content/blog/appendix-philosophicus.md
 - content/blog/la-diva-y-la-audiencia.md
-- content/blog/el-buda-necesitaba-psicoterapia-divagaciones-despues-de-un-retiro.md
 - content/blog/joseph-conrad-la-paradoja-del-marino-sedentario.md
 - content/blog/el-superestres-de-superman.md
 - content/blog/hubo-una-vez-un-retiro-de-meditacion.md
