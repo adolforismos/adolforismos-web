@@ -1,9 +1,8 @@
 ---
-
 categories:
 - Artículos
 - Meditaciones
-date: 2012-08-25T11:58:00Z
+date: 2012-08-25T11:58:00.000+00:00
 description: Las nuevas drogas del emperador
 published: true
 status: publish
@@ -11,13 +10,23 @@ tags:
 - neurociencia
 - psicoterapia
 title: El poder de los placebos y las palabras que los acompañan
-type: blog
-url: /el-poder-de-los-placebos-y-las-palabras-que-los-acompanan/
----
+url: "/el-poder-de-los-placebos-y-las-palabras-que-los-acompanan/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
-<img class="alignright size-medium wp-image-646" src="/img/Plenamente-300x224.jpg" alt="Plenamente" width="300" height="224" />Desde hace tres años la noticia ha corrido como pólvora y lejos de apagar su fuego está empezando a tomar la proporción de fuegos artificiales en día de la independencia: <strong>los placebos están teniendo el mismo efecto que los medicamentos</strong>.
+---
+Desde hace tres años la noticia ha corrido como pólvora y lejos de apagar su fuego está empezando a tomar la proporción de fuegos artificiales en día de la independencia: <strong>los placebos están teniendo el mismo efecto que los medicamentos</strong>.
 
 Los placebos, para quien no lo recuerde, son medicamentos falsos, medicamentos sin sustancias activas, de “mentiritas” decíamos de niños. Tienen diferentes usos, pero el más importante y el que inició el escándalo, es el que se les da para contrastarlos en pruebas de laboratorio con los medicamentos normales. Esto es, cuando se quiere probar un medicamento nuevo antes de sacarlo al mercado, éste se le da a probar a voluntarios. Los voluntarios se dividen en dos grupos, un grupo de prueba que recibirán el medicamento, y un grupo testigo, que recibirá el placebo. De lo que se trata es de <strong>comprobar que la efectividad de las sustancias activas se debe al medicamento mismo y no a la influencia de otros factores</strong>.
+
+![](https://source.unsplash.com/V8U4zraWnbg)
 
 Es, en otras palabras, como la prueba del añejo. O como darle a probar a alguien con los ojos vendados, dos refrescos de cola diferentes, <strong>a ver si es realmente capaz de percibir la diferencia</strong>. Lo que me recuerda por cierto la vez que le di a un invitado cerveza sin alcohol sin avisarle y ya se le estaba subiendo.
 
