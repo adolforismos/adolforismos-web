@@ -1,23 +1,33 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-07-28T12:50:00Z
+date: 2012-07-28T12:50:00.000+00:00
 published: true
 status: publish
 tags:
 - neurociencia
 - psicoterapia
 title: El cerebro de los taxistas de Londres
-type: blog
-url: /el-cerebro-de-los-taxistas-de-londres/
----
+url: "/el-cerebro-de-los-taxistas-de-londres/"
+keywords: []
+description: ''
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Mucho se está hablando, y mucho más se hablará en los días siguientes, sobre la ciudad de Londres. Hoy les voy a contar una historia sobre uno de los atractivos de esta hoy sede olímpica, que más ha llamado la atención de los científicos en los últimos seis años, entre otras cosas, porque está ligado a uno de los descubrimientos quizás más importantes en la historia de la humanidad. Les voy a platicar del cerebro de los taxistas londinenses. Y que por cierto, pese a su importancia, no vimos presentes en la inauguración. Al menos no de modo explícito.
 
 Pero para platicarte del cerebro de los taxistas londinenses, tengo primero que ponerlos al tanto de uno de los inventos más poderosos y que más están cambiando y cambiarán nuestra vida como la hemos conocido hasta ahora. Y no, no es una tableta o teléfono inteligente.
+
+![](https://source.unsplash.com/N4tg9a4b8ho)
 
 Recordemos que los grandes descubrimientos tienen detrás grandes inventos. Pensemos, por ejemplo, en el microscopio que permitió el descubrimiento de los microorganismos y el gran avance en salud que esto trajo a nuestras vidas.
 
