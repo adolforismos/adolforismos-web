@@ -1,10 +1,12 @@
 ---
-Title: Emociones positivas y negativas
-Description: Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
-Type: blog
-Date: 2018-05-29
-Lastmod: 2018-05-29
-url: emociones-positivas-y-negativas
+title: Emociones positivas y negativas
+description: Hay emociones con las que hemos reaccionado ante una situación y que cambiaríamos por otra sin lugar a dudas. ¿Esto quiere decir que una fue negativa y la otra positiva?
+type: blog
+date: 2018-05-29
+lastmod: 2018-05-29
+published: true
+author: adolforismos
+url: /emociones-positivas-y-negativas
 ---
 
 ## Tipos de emociones
