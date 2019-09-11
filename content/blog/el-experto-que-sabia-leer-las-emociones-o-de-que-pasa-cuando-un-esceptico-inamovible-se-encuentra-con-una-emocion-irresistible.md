@@ -25,6 +25,7 @@ highlights:
 
 ---
 ![Dalai Lama y Dr. Paul Ekman](/img/dr-paul-ekman-and-dalai-lama.jpg "Dalai Lama y Dr. Paul Ekman")
+*Dalai Lama y Dr. Paul Ekman*
 
 Creo que a todos nos ha dado tentación en algún momento de nuestra vida el poder combinar dos universos, dos mundos aparentemente separados el uno del otro, juntarlos. Por ejemplo, a mi siempre me gustaban esos episodios especiales de caricaturas donde podíamos ver al oso Yogi junto con Don Gato y su pandilla. O por supuesto, Los Súper Amigos o Salón de la justicia, con Supermán al lado de Batman. Y estas combinaciones pueden ser de muy diferentes tipos, ese es el fundamento de la creatividad. A George Lucas le gustaban los westerns con pistolas y los mosqueteros con espadas, y siempre quiso poder tener lo mejor de los dos en una misma película. No a pocos les pareció descabellada tal idea, y bueno, ya saben en que terminó eso, ¿no?
 A veces, dan ganas de poner algún personaje de ficción con uno real, por ejemplo. ¿Qué tal poner a platicar a Rambo con Gandhi y ver qué pasa?
