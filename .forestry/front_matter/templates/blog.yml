@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-acechador-de-suenos.md
 - content/blog/el-hacedor-de-lluvia.md
 - content/blog/reescribir-la-historia-del-mundo.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
@@ -180,7 +181,6 @@ pages:
 - content/blog/las-audiencias-del-ltimo-debate.md
 - content/blog/el-dilema-de-los-ciclos-en-las.md
 - content/blog/espera-y-expectativa.md
-- content/blog/el-acechador-de-suenos.md
 - content/blog/el-mito-de-welles-el-ataque-de-los.md
 - content/blog/y-cuanto-tuvimos-de-share.md
 - content/blog/bill-clinton-ya-tiene-un-monje-que-le-ensena-a-meditar.md

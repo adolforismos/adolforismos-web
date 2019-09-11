@@ -1,9 +1,8 @@
 ---
-type: blog
 categories:
 - Meditaciones
 - Podcast
-date: 2013-02-24 20:07:03 -0600
+date: 2013-02-25T02:07:03.000+00:00
 excerpt: "¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te
   parece que el poder controlar lo que pasa dentro de un sueño es sólo posible en
   películas de ciencia ficción como Inception?"
@@ -15,7 +14,7 @@ tags:
 - psicoterapia
 title: El acechador de sueños
 url: "/el-acechador-de-suenos/"
-lastmod: 2013-02-24 20:07:00 -0600
+lastmod: 2019-09-11T20:07:00-05:00
 keywords:
 - psicoterapia
 - meditación
@@ -32,9 +31,13 @@ highlights:
   quote3: ''
 
 ---
-<img class=" wp-image-401 alignleft" src="/img/Inception_ver3-202x300.jpg" alt="Inception Poster" width="162" height="240" />¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te parece que el poder controlar lo que pasa dentro de un sueño es sólo posible en películas de ciencia ficción como Inception?
+
+
+¿Alguna vez te has percatado en medio de un sueño que estás soñando? ¿Te parece que el poder controlar lo que pasa dentro de un sueño es sólo posible en películas de ciencia ficción como Inception?
 
 Los sueños siempre han causado fascinación a los seres humanos en todas las culturas y todos los tiempos. Tanto a nivel personal como a nivel social. Los sueños nos presentan una realidad que parece tan real como la realidad misma, al menos para nuestros sentidos, y por lo que se ha ido revelando en múltiples estudios al respecto, tan real también para nuestro cerebro. Algo o alguien con una gran capacidad para elaborar un mundo completo lleno de escenas y personajes nos presenta esta realidad aparte. Para algunas culturas o personas, este algo o alguien tiene que provenir de algo ajeno a nosotros. Para la ciencia, el cerebro es capaz de hacerlo sin ningún problema, por lo que si es algo, está en el cerebro, y si es alguien, somos nosotros mismos. De hecho, la neurociencia actual considera que toda realidad, tanto la que vivimos dormidos como la que vivimos despiertos, está elaborada o construida por nuestro propio cerebro. De cualquier modo, esta capacidad es sorprendente.
+
+![](https://source.unsplash.com/iiRQxPCDQ_Y)
 
 Una diferencia aparente entre la realidad dormida y soñada es el que en la primera estamos conscientes de estar despiertos, al menos en lo general o por momentos, y por lo tanto es posible tener cierta voluntad de hacer lo que queremos y no lo que la inercia del sueño nos va llevando a hacer. Sin embargo, ¿qué pasa cuando alguien dice darse cuenta de estar soñando? Es decir, ¿qué pasa cuando alguien dice haber tenido un sueño lúcido?
 
