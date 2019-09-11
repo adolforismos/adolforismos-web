@@ -1,9 +1,8 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-10-08T07:28:00Z
+date: 2012-10-08T07:28:00.000+00:00
 excerpt: La filosofía, el arte, la literatura, tienen esa capacidad de poder cambiar
   nuestra manera de ver el mundo, nuestra perspectiva de la vida, con una idea, un
   gesto, a veces una frase o verso. «Las pa­labras más silenciosas son las que traen
@@ -15,11 +14,21 @@ tags:
 - neurociencia
 - psicoterapia
 title: El lenguaje de las palomas
-type: blog
-url: /el-lenguaje-de-las-palomas/
----
+url: "/el-lenguaje-de-las-palomas/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 <img class="alignright size-full wp-image-1797" src="/img/383px-Nietzsche-munch.jpg" alt="Nietzsche por Munch" width="255" height="320" />
+
+
 La filosofía, el arte, la literatura, tienen esa capacidad de poder cambiar nuestra manera de ver el mundo, nuestra perspectiva de la vida, con una idea, un gesto, a veces una frase o verso.
 
 A nuestro cerebro le gusta ahorrar esfuerzos y procura estructurar un modelo, una realidad, un mapa, de aquella persona que conocimos por la mañana, de la ciudad que visitamos hace un año, o de la canción o película de moda, para luego no mover mucho las cosas y dejarlo todo así en nuestra memoria.
@@ -33,10 +42,12 @@ Dicho en palabras de Nietzsche: «Si, en todo lo que quieres hacer, empiezas por
 Después de leerle esto a mis alumnos de Ética, hace ya muchos años, les decía que cuando alguien tira un pedazo de basura en la calle pensando “qué tanto es una basurita más”, ese acto aparentemente insignificante, toma un sentido totalmente diferente si sabemos que va a repetirse infinitamente por la eternidad.
 
 <img class="alignleft wp-image-1806 size-full" src="/img/sumcoverspainespasacalpe.jpg" alt="" width="208" height="304" />
+
+
 Un ejemplo similar lo tenemos en el libro “Sum: Cuarenta Historias desde la Otra Vida”, conjunto de pequeñas piezas literarias escritas por un neurocientífico contemporáneo, David Eagleman, sobre mundos, universos posibles, de la vida después de la vida. El primer cuento, que da nombre al libro, se llama Suma y plantea que «En la otra vida tu revives todas tus experiencias, pero esta vez con los eventos mezclados en un nuevo orden: todos los momentos que comparten una cualidad están agrupados juntos. Pasas dos meses manejando en la calle frente a tu casa, siete meses teniendo sexo. Duermes por treinta años sin abrir tus ojos. Por cinco meses seguidos tu ojeas una revista mientras estás sentado en el toilet.»
 El escenario es muy sencillo. Aquí no hay eterno retorno, sin embargo, el visualizar el acumulado de tiempo que dedicamos a ciertos actos, provoca que esos actos de nuestra vida también los veamos diferentes. Algunas sumas provocan risa, casi llanto. Es difícil saber si la otra vida expuesta en esta historia es el cielo o el infierno.
 
-«Pasas seis días cortándote las uñas. Quince meses buscando cosas perdidas. Dieciocho meses esperando en la cola. Dos años de aburrimiento: mirando a través de la ventana del autobús, sentado en la terminal del aeropuerto […] Setenta y siete horas de confusión. Una hora dándote cuenta que olvidaste el nombre de alguien. Tres semanas dándote cuenta que estás equivocado […]  Seis semanas esperando el semáforo en verde. Siete horas vomitando […] Nueve días pretendiendo que sabes de que se está hablando. Dieciocho días mirando dentro del refrigerador. Seis meses viendo comerciales en televisión. Cuatro semanas sentado pensando, divagando si habría algo mejor que hacer con tu tiempo.»
+«Pasas seis días cortándote las uñas. Quince meses buscando cosas perdidas. Dieciocho meses esperando en la cola. Dos años de aburrimiento: mirando a través de la ventana del autobús, sentado en la terminal del aeropuerto \[…\] Setenta y siete horas de confusión. Una hora dándote cuenta que olvidaste el nombre de alguien. Tres semanas dándote cuenta que estás equivocado \[…\]  Seis semanas esperando el semáforo en verde. Siete horas vomitando \[…\] Nueve días pretendiendo que sabes de que se está hablando. Dieciocho días mirando dentro del refrigerador. Seis meses viendo comerciales en televisión. Cuatro semanas sentado pensando, divagando si habría algo mejor que hacer con tu tiempo.»
 No sé ustedes, pero para mí, después del eterno retorno nietzscheano o la suma de nuestra vida de Eagleman, cambia mi manera de ver la vida, cambia mi perspectiva de las cosas. Por lo pronto me recuerda que quiero vivir en una ciudad en la que no tenga que pasar tanto tiempo para que el semáforo se ponga en verde. O si tengo que hacerlo, aprovecharlo, disfrutarlo, darle algún sentido.
 
 Y no se trata simplemente de información. Estamos hablando de filosofía, literatura y arte, que conllevan un lenguaje lleno de desplazamientos, de retórica, de formas de presentar un mensaje. Si alguien me dice “vive la vida”, “no desperdicies ni un minuto”, “se feliz” o “vive cada día plenamente”, mi cerebro y mente se van a reir. Nadie cambia por instrucciones.

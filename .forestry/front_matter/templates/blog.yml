@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-lenguaje-de-las-palomas.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/el-buda-necesitaba-psicoterapia-divagaciones-despues-de-un-retiro.md
 - content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
@@ -248,7 +249,6 @@ pages:
 - content/blog/el-dia-en-que-nacio-la-lectura.md
 - content/blog/el-escriba-de-los-mil-rostros.md
 - content/blog/el-hombre-que-confundio-un-documento-impreso-con-su-metafora-digital.md
-- content/blog/el-lenguaje-de-las-palomas.md
 - content/blog/el-tigre-y-la-hormiga.md
 - content/blog/la-escritura-del-geometra.md
 - content/blog/la-ultima-palabra.md
