@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/un-experimento-contra-el-tiempo.md
 - content/blog/el-cerebro-de-los-taxistas-de-londres.md
 - content/blog/el-rostro-de-los-otros-marcianos-que-no-lo-parecen-y-americanos-que-no-lo-son.md
 - content/blog/adios-a-la-familia-kodak-bienvenida-la-familia-photoshop.md
@@ -277,7 +278,6 @@ pages:
 - content/blog/archivo.md
 - content/blog/pasos-de-paloma-una-vieja-manera-de-hacer-viajar-al-pensamiento.md
 - content/blog/tiro-con-arco-armonizar-lo-consciente-con-lo-inconsciente.md
-- content/blog/un-experimento-contra-el-tiempo.md
 - content/blog/el-amok-segun-stefan-zweig.md
 - content/blog/camille-claudel-o-las-formas-del-deseo.md
 - content/blog/en-la-mesa-de-junto.md

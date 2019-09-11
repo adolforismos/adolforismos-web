@@ -1,10 +1,9 @@
 ---
-
 categories:
 - Artículos
 - Favoritos
 - Meditaciones
-date: 2012-08-04T12:09:00Z
+date: 2012-08-04T12:09:00.000+00:00
 published: true
 status: publish
 tags:
@@ -12,13 +11,24 @@ tags:
 - neurociencia
 - psicoterapia
 title: Un experimento contra el tiempo
-type: blog
-url: /un-experimento-contra-el-tiempo/
----
+url: "/un-experimento-contra-el-tiempo/"
+keywords: []
+description: ''
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Hoy vamos a hablar de un experimento que se hizo para viajar en el tiempo, para ir al pasado y ser joven otra vez. Dicen que ser joven es cuestión de actitud y para muestra el japonés Hiroshi Hoketsu, que según me entero, a sus 71 años practica la doma clásica y está compitiendo en estas olimpiadas en Londres.
 
 Pues bien, el experimento psicológico del que les voy a hablar es tan interesante que ya la BBC hizo un reality basado en él y alguna productora ya tiene los derechos para la película.
+
+![](https://source.unsplash.com/w7lIbEtmE9c "w7lIbEtmE9c")
 
 Todo parece indicar que se va a convertir en uno de los tres más famosos experimentos en psicología de los últimos tiempos. Y afortunadamente, este experimento tuvo resultados más alentadores y esperanzadores que los otros dos. Me explico.
 
