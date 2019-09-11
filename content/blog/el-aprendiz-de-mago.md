@@ -1,14 +1,11 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-10-15T09:52:00Z
+date: 2012-10-15T09:52:00.000+00:00
 excerpt: Para un grupo muy selecto, de culto diría yo, existe una fecha de estos futuros
   de la ficción que sí podrá ser recordada como verdaderamente mágica y misteriosa
   porque en ella se cumplió todo al pie de la letra.
-
-
 description: El acto de ilusionismo que esperó tres décadas
 published: true
 status: publish
@@ -16,11 +13,24 @@ tags:
 - microensayos
 - psicoterapia
 title: El aprendiz de mago
-type: blog
-url: /el-aprendiz-de-mago/
+url: "/el-aprendiz-de-mago/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
+
 ---
 
-<img class="alignright" title="Teller" src="/img/567px-Teller_Rio.jpg" alt="Teller" width="302" height="320" border="0" />
+<figure>
+  <img class="alignright" title="Teller" src="/img/567px-Teller_Rio.jpg" alt="Teller" width="302" height="320" border="0" />
+  <figcaption>Teller</figcaption>
+</figure>
+
 La ficción, especialmente la ciencia ficción, tiene esta extraña virtud, colateral a su propósito, de profetizar aniversarios incumplidos. Que mejor ejemplo que “1984”, la novela de George Orwell, que si bien nos ha heredado conceptos como el de <em>big brother </em>o crimen de pensamiento, tremendamente vigentes en nuestra época, la fecha planteada para este futuro distópico quedó muy lejos de hacerse realidad. Aunque claro, se podrá argumentar que más que el futuro, el género plantea un futuro posible de tantos.
 
 Esto habría que decírselo a los fanáticos del universo “Terminator”, que el 19 de abril del 2011 llevaron a cabo diferentes actividades, principalmente en la red, para conmemorar el día en que Skynet, el gran sistema o red de cómputo, toma conciencia y se revela contra los seres humanos. Ese día por ejemplo, alguien abrió una cuenta en Twitter a nombre de Skynet, esperemos que no haya sido el mismo Skynet sino algún fan.
@@ -39,8 +49,7 @@ Cómo me hubiera gustado estar ahí, en ese momento misterioso. Ver la escena pe
 
 A veces pienso que como escritor, como psicoterapeuta, es a lo menos a lo que se puede aspirar, a inspirar.
 
-
-Uno de los que asistieron discretamente al Salón de Lectura, por ejemplo, estaba ahí porque su maestro de bachillerato le había leído el cuento de Max Beerbohm treinta y cuatro años antes y había quedado fascinado, como seguramente le pasó a los otros asistentes. Esa fecha y hora de 1997 quedó grabada en su memoria como un destino por cumplir. Su nombre es Teller y su profesión es mago. Uno de los mejores magos de nuestro tiempo, según dicen. Forma parte del dúo de magos Penn &amp; Teller, el más bajito y silencioso de los dos, para ser exacto. Vive en Las Vegas, donde la gente puede disfrutar de sus presentaciones, y tiene, junto con su pareja escénica, un estilo que apuesta por una representación artística más inspiradora, íntima y de autor, a diferencia del espectáculo vistoso, escandaloso y lleno de efectos al estilo Hollywood, al que David Copperfield nos ha acostumbrado.
+Uno de los que asistieron discretamente al Salón de Lectura, por ejemplo, estaba ahí porque su maestro de bachillerato le había leído el cuento de Max Beerbohm treinta y cuatro años antes y había quedado fascinado, como seguramente le pasó a los otros asistentes. Esa fecha y hora de 1997 quedó grabada en su memoria como un destino por cumplir. Su nombre es Teller y su profesión es mago. Uno de los mejores magos de nuestro tiempo, según dicen. Forma parte del dúo de magos Penn & Teller, el más bajito y silencioso de los dos, para ser exacto. Vive en Las Vegas, donde la gente puede disfrutar de sus presentaciones, y tiene, junto con su pareja escénica, un estilo que apuesta por una representación artística más inspiradora, íntima y de autor, a diferencia del espectáculo vistoso, escandaloso y lleno de efectos al estilo Hollywood, al que David Copperfield nos ha acostumbrado.
 
 Teller es uno de esos magos a quienes les interesa más el qué que el cómo. Uno de sus conocidos actos llamado “Sombras” es una pieza ante la cual más de un mago ha confesado haber dejado caer una lágrima en el momento final. Y no por no poder discernir el truco, sino por el dramatismo de la escena. La magia elevada a arte hace irrelevante el truco. El mismo Teller dice que el método con el que hace su acto “Sombras” ha cambiado a lo largo de los años. Pero eso es algo que pasa desapercibido para quien lo ha visto desde entonces porque lo importante está en otro lado.
 

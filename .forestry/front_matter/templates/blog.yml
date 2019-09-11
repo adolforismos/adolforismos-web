@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-aprendiz-de-mago.md
 - content/blog/el-superestres-de-superman.md
 - content/blog/el-lenguaje-de-las-palomas.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
@@ -223,7 +224,6 @@ pages:
 - content/blog/la-neurociencia-y-el-regreso-de-la-hipnosis.md
 - content/blog/especial-meditacion-guiada-para-el-estres.md
 - content/blog/como-se-empieza-a-escribir-en-un-bello-cuaderno-en-blanco.md
-- content/blog/el-aprendiz-de-mago.md
 - content/blog/los-conspiradores.md
 - content/blog/mis-lecturas-sobre-la-tragedia-de-aurora-co.md
 - content/blog/noche-cero-fragmento-de-una-novela-que-no-fue.md
