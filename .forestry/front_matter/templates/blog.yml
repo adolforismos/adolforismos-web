@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-hacedor-de-lluvia.md
 - content/blog/reescribir-la-historia-del-mundo.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/el-aprendiz-de-mago.md
@@ -219,7 +220,6 @@ pages:
 - content/blog/el-maestro.md
 - content/blog/las-gotas-de-agua-pegadas-al-cristal.md
 - content/blog/el-recien-nacido.md
-- content/blog/el-hacedor-de-lluvia.md
 - content/blog/esta-es-una-pelicula-de-zombies.md
 - content/blog/creo-en-una-escritura-que-se-desdobla.md
 - content/blog/la-neurociencia-y-el-regreso-de-la-hipnosis.md
