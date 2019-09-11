@@ -8,8 +8,8 @@ lastmod: 2019-09-11T00:00:00-05:00
 published: true
 author: adolforismos
 url: emociones-positivas-y-negativas
-
 ---
+
 ## Tipos de emociones
 No estoy seguro de hasta donde poder etiquetar, clasificar, diferenciar emociones o grupos de emociones sin que cualquier distinción pueda sonar moralista. Las emociones no son ni buenas ni malas, solo emociones. Pero lo cierto es que hay distinciones. Hay ciertas emociones que en ciertas circustancias nos hacer actuar de un modo u otro. Hay combinaciones de emociones. Hay circunstancias en donde es mejor reaccionar de una manera que otra.
 
