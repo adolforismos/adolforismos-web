@@ -27,6 +27,8 @@ Recordemos, muchas veces esos momentos nos sucedían esperando en la cola del ba
 
 [BXOXnQ26B7o](https://source.unsplash.com/BXOXnQ26B7o "BXOXnQ26B7o")
 
+[BXOXnQ26B7o](https://unsplash.com/photos/BXOXnQ26B7o "BXOXnQ26B7o")
+
 Esos momentos son difíciles de explicar porque ahora son casi nulos. Y si no lo creen, fíjense bien. Cada que tenemos un momento así, ¿qué es lo que hacemos en automático? Sacamos el celular (si no es que ya lo teníamos afuera) y revisamos algo. Llamadas perdidas, mensajes de texto sin contestar, facebook, twitter, un juego pendiente, o hasta una página de internet o artículo que estamos leyendo ahí.
 
 O sacamos el reproductor de mp3 para escuchar música, un podcast, o como tal vez estén haciendo muchos radioescuchas en este momento, a escuchar el radio.
