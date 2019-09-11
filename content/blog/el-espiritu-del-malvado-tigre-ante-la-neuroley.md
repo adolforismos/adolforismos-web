@@ -1,9 +1,8 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-09-10T16:22:00Z
+date: 2012-09-10T16:22:00.000+00:00
 description: O el asesino masivo a los ojos del Lejano Oriente
 published: true
 status: publish
@@ -11,14 +10,23 @@ tags:
 - neurociencia
 - psicoterapia
 title: El espíritu del malvado tigre ante la neuroley
-type: blog
-url: /el-espiritu-del-malvado-tigre-ante-la-neuroley/
----
+url: "/el-espiritu-del-malvado-tigre-ante-la-neuroley/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
-<img class="alignright" style="border: 0px;" src="/img/Kishi+Chikudo-Sitting+Tiger.JPG" alt="" width="185" height="360" border="0" />
+---
 Un hombre o mujer, después de días de pesadumbre y dolor, se enoja, entra en un estado de ira incontrolable. Está contra todo y contra todos. Rompe cosas. Golpea personas. Tal vez incluso las hiere, las daña, y puede llegar a matarlas.
 
 En occidente, en esta cultura nuestra griego-romano-judeo-cristiana, la persona enojada al grado de la ira es responsable de su enojo, de su ira, y de todas las consecuencias que traiga consigo. La única manera de evitar tal responsabilidad es la de alegar locura, un daño cerebral, algún padecimiento físico que demuestre la inconciencia del acto. A veces incluso, en el afán de buscar culpables, se investiga al psicoterapeuta, al psiquiatra, a los maestros de escuela, o a la sociedad por permitir que esto pase.
+
+![](https://source.unsplash.com/paL4zSmXTWc)
 
 La historia reciente de los Estados Unidos, al menos la construida por los medios masivos, está llena de estos casos, principalmente de adolescentes que cargados de armas de fuego y municiones disparan a multitudes inocentes.
 

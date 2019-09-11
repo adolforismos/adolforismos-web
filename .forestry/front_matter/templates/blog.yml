@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
 - content/blog/el-poder-de-los-placebos-y-las-palabras-que-los-acompanan.md
 - content/blog/estres-post-vacaciones-no-te-lo-tomes-personal.md
 - content/blog/ulises-y-el-arte-de-resistir-tentaciones.md
@@ -240,7 +241,6 @@ pages:
 - content/blog/la-escritura-invisible.md
 - content/blog/ontogenia-del-texto.md
 - content/blog/podcast-en-meditacionpsicoterapeutica-com.md
-- content/blog/el-espiritu-del-malvado-tigre-ante-la-neuroley.md
 - content/blog/de-lexias-mecanografias-y-palimpsestos.md
 - content/blog/divagacion-y-error.md
 - content/blog/el-aleteo-de-la-mariposa.md
