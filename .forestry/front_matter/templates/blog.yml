@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/reescribir-la-historia-del-mundo.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/el-aprendiz-de-mago.md
 - content/blog/el-superestres-de-superman.md
@@ -236,7 +237,6 @@ pages:
 - content/blog/panegirico-del-instructivo-o-para-que-servira-este-botoncito.md
 - content/blog/personalidades-geometricas-2.md
 - content/blog/poder-y-palabra.md
-- content/blog/reescribir-la-historia-del-mundo.md
 - content/blog/meditacion-todo-lo-que-has-deseado.md
 - content/blog/el-bibliomante.md
 - content/blog/el-traje-nuevo-del-emperador-cuento-o-falacia.md

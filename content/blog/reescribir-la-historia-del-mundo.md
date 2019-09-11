@@ -1,10 +1,11 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-10-22T06:04:00Z
-excerpt: Imagina por un momento que esta concepción hinduista del renacimiento es una realidad y que así como viviremos una siguiente vida de acuerdo a como hayamos vivido esta, también vivimos una vida anterior que nos hizo nacer en esta.
+date: 2012-10-22T06:04:00.000+00:00
+excerpt: Imagina por un momento que esta concepción hinduista del renacimiento es
+  una realidad y que así como viviremos una siguiente vida de acuerdo a como hayamos
+  vivido esta, también vivimos una vida anterior que nos hizo nacer en esta.
 description: Imagina que es tu primer renacimiento como humano
 published: true
 status: publish
@@ -12,13 +13,21 @@ tags:
 - neurociencia
 - psicoterapia
 title: Reescribir la historia del mundo
-type: blog
-url: /reescribir-la-historia-del-mundo/
+url: "/reescribir-la-historia-del-mundo/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
 ---
-
-<img class="alignright wp-image-656 size-medium" src="/img/ProhibidoEstacionarse-300x225.jpg" alt="ProhibidoEstacionarse" width="300" height="225" />
 Imagina por un momento que esta concepción hinduista del renacimiento es una realidad y que así como viviremos una siguiente vida de acuerdo a como hayamos vivido esta, también vivimos una vida anterior que nos hizo nacer en esta.
+
+![](https://source.unsplash.com/n0CTq0rroso)
 
 Tal vez en tu vida anterior no eras todavía humano. Al morir, como todos, te presentaste en algún tipo de oficina para ver en qué ibas a renacer en la siguiente vida. No eras el único esperando renacer por lo que tuviste que esperar en la línea. Adelante de tí estaba alguien que acababa de ser serpiente y se quejaba de que ya llevaba tres vidas como serpiente sin cambio alguno. Cuando llegó su turno le comunicaron que iba a ser serpiente una cuarta vez a lo que ésta se enfureció, empezó a gritar y a enojarse con todo mundo. Alguien le dijo que precisamente por eso seguía renaciendo una y otra vez en serpiente.
 
