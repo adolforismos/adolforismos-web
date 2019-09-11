@@ -1,23 +1,31 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2014-10-03T00:21:52Z
+date: 2014-10-03T00:21:52.000+00:00
 excerpt: Imagina un ser sin capacidad para moverse, ya no digas caminar sino sin poder
   desplazarse ni un metro. Logró sobrevivir y está entre nosotros.
-
-
 description: Logró sobrevivir y está entre nosotros
 published: true
 status: publish
 tags: []
 title: El extraterrestre
-type: blog
-url: /el-extraterrestre/
+url: "/el-extraterrestre/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
+
 ---
 
-<img class=" size-medium wp-image-1413 alignright" src="/img/sleeping-380918_1280-300x168.jpg" alt="sleeping-380918_1280" width="300" height="168" />A veces los problemas parecen insolucionables y están en el límite de lo tolerable. Los problemas vienen en muy diferentes presentaciones y tamaños, algunos son muy inmediatos para ser resueltos, otros requieren tiempo. Los hay en diferentes ámbitos, familiar, laboral, personal, escolar, social… Los hay tan abstractos como definir matemáticamente el infinito o tan concretos como quitarse un dolor de cabeza.
+![](https://source.unsplash.com/6yi0oPZSNy4)
+
+A veces los problemas parecen insolucionables y están en el límite de lo tolerable. Los problemas vienen en muy diferentes presentaciones y tamaños, algunos son muy inmediatos para ser resueltos, otros requieren tiempo. Los hay en diferentes ámbitos, familiar, laboral, personal, escolar, social… Los hay tan abstractos como definir matemáticamente el infinito o tan concretos como quitarse un dolor de cabeza.
 
 Uno de los problemas más graves por los que puede pasar cualquier persona es el hambre, el hambre inmediata, la que exige ser resuelta en el instante a riesgo de perder la vida.
 

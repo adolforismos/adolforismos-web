@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-extraterrestre.md
 - content/blog/el-acechador-de-suenos.md
 - content/blog/el-hacedor-de-lluvia.md
 - content/blog/reescribir-la-historia-del-mundo.md
@@ -271,7 +272,6 @@ pages:
 - content/blog/un-angel-en-el-cafe-de-la-calle-doce.md
 - content/blog/un-pequeno-comic-sobre-el-efecto-placebo.md
 - content/blog/creo-en-la-mujer.md
-- content/blog/el-extraterrestre.md
 - content/blog/la-imagen-mordio-mi-brazo.md
 - content/blog/las-ballenas-no-escriben-ni-necesitan-de-internet.md
 - content/blog/lectura-vertical-remedio-contra-el-exceso-de-informacion.md
