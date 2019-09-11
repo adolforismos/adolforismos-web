@@ -1,20 +1,30 @@
 ---
-
 categories:
 - Artículos
 - Meditaciones
-date: 2012-08-18T12:01:00Z
+date: 2012-08-18T12:01:00.000+00:00
 published: true
 status: publish
 tags:
 - medios
 - psicoterapia
-title: ¿Estrés post-vacaciones? No te lo tomes personal
-type: blog
-url: /estres-post-vacaciones-no-te-lo-tomes-personal/
----
+title: "¿Estrés post-vacaciones? No te lo tomes personal"
+url: "/estres-post-vacaciones-no-te-lo-tomes-personal/"
+keywords: []
+description: ''
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
 
+---
 Se terminan las vacaciones de verano y ya estamos en el regreso a clases. Esta es una de las temporadas del año con más cambios en nuestras vidas. Cambios que pueden ir desde lo cotidiano para algunos, como tener que levantarse más temprano, hasta mudanzas o viajes para otros. Todo cambio, por muy positivo que sea en el largo o mediano plazo, implica que las cosas a veces se salgan un poco de control. A veces, mucho. Y esto puede traer consigo estrés o ansiedad. Quien esté en ese caso, quien esté viviendo algo así, lo primero que hay que darse cuenta es que esto no es personal. En todos esos momentos en que nos decimos a nosotros mismos —por qué a mí, por qué yo— respiremos y pensémoslo dos veces, porque las consecuencias emocionales de estos cambios nos pasan a todos en mayor o menor medida. Y para muestra, un botón.
+
+![](https://source.unsplash.com/1K9T5YiZ2WU)
 
 Miren, todos sabemos que en los primeros días del año los gimnasios se llenan al grado de no darse a basto. Esto se puede comprobar, más allá de nuestra percepción de lo amontonados que estamos en la clase de yoga en enero, si revisamos las tendencias de palabras buscadas en la web. En México, la primer semana de enero, la palabra “yoga” se busca el doble de veces que en la última semana de diciembre. Lo mismo pasa con la palabra “gimnasio”, o la expresión “bajar de peso”. Sobra decir que las mismas palabras dejan de ser buscadas con vehemencia durante diciembre. Este fenómeno, que todos conocemos y hemos vivido, se repite con otros comportamientos, consumos y necesidades en otros momentos del año. Veamos que sucede con la temporada escolar. Los datos son de Google Trends para la región de México.
 

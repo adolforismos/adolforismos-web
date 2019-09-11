@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/estres-post-vacaciones-no-te-lo-tomes-personal.md
 - content/blog/ulises-y-el-arte-de-resistir-tentaciones.md
 - content/blog/un-experimento-contra-el-tiempo.md
 - content/blog/el-cerebro-de-los-taxistas-de-londres.md
@@ -283,7 +284,6 @@ pages:
 - content/blog/en-la-mesa-de-junto.md
 - content/blog/distancia-irreductible.md
 - content/blog/la-escritura-perdida.md
-- content/blog/estres-post-vacaciones-no-te-lo-tomes-personal.md
 - content/blog/la-web-existia-antes-de-internet.md
 - content/blog/noche-cero-fragmento-de-una-novela-que-no-fue-ii.md
 - content/blog/el-paraguas-olvidado-de-nietzsche.md
