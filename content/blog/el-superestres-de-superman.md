@@ -1,12 +1,9 @@
 ---
-
 categories:
 - Meditaciones
 - Podcast
-date: 2012-10-01T04:18:00Z
+date: 2012-10-01T04:18:00.000+00:00
 excerpt: Ningún superhéroe nace superhéroe o superespecial.
-
-
 description: Los superhéroes no nacen
 published: true
 status: publish
@@ -14,12 +11,19 @@ tags:
 - neurociencia
 - psicoterapia
 title: El superestrés de Supermán
-type: blog
-url: /el-superestres-de-superman/
+url: "/el-superestres-de-superman/"
+keywords: []
+lastmod: 2019-09-11T00:00:00-05:00
+author: ''
+form: ''
+evergreen: false
+highlights:
+  quote1: ''
+  quote2: ''
+  quote3: ''
+
 ---
-
 <img class="alignright wp-image-951 size-medium" src="/img/6855727524_3e8d46bead_k-300x199.jpg" alt="Photo: Ben Gray" width="300" height="199" />
-
 
 "Eso que me cuentas es como lo que le pasa a Supermán, ¿no?" Le digo a mis pacientes adolescentes, y algunos no tan adolescentes, después de escuchar sus angustias, quejas o malestares por tantos cambios en sus vidas.
 
@@ -39,7 +43,6 @@ Tengo un particular gusto por esos momentos en que los superhéroes están apren
 
 Y claro cualquier adolescente me compra esta idea… por unos segundos, porque luego algunos reclaman que no necesariamente tienen más capacidad para hacer algo, como Supermán o <i>Spiderman</i>, sino que tienen menos capacidad para hacer algo.
 
-
 Y entonces les cuento la historia de Emma, que leí en el maravilloso libro "The brain that changes itself" del médico Norman Doidge.
 
 Emma fue diagnosticada con retinitis pigmentosa cuando tenía veintitrés años, lo que provocó la muerte de las células retinales en sus ojos. Fue perdiendo la vista hasta que a los treinta y cinco años perdió totalmente la capacidad de ver.
@@ -53,8 +56,6 @@ La superlectora utiliza un aparato especial pero que se está haciendo muy comú
 Emma, ahora con ceguera, lee muchas más novelas que las que leía cuando tenía su vista. Ha leído todo Dostoyevsky, todo Tolstoi, todo Stendhal, en fin, todo lo que nos gustaría leer a quienes amamos la literatura.
 
 Lo que pasó en el cerebro de Emma es que su corteza visual, todo ese conjunto de neuronas dedicadas a procesar lo que vemos, se quedó sin hacer nada. Y en lugar de desperdiciar esos recursos, la mente se reacomodó y usó ese espacio para procesar más información proveniente del oído. Es decir, ella escucha lo mismo que nosotros, pero es capaz de entenderlo mucho más rápido.
-
-<a href="http://www.dulcepinzon.com/superheroes15.htm"><img class="alignright wp-image-1794 size-full" src="/img/superman.jpg" alt="NOE REYES por Dulce Pinzón http://www.dulcepinzon.com/superheroes15.htm" width="320" height="287" /></a>
 
 Siempre que hay una pérdida de capacidad en el cerebro o el cuerpo viene un periodo de adaptación que tan solo antecede el surgimiento de nuevas capacidades. El cambio de capacidades puede ser cualitativo, es decir, una función por otra, o cuantitativo, una función que se mejora, no importa. Y todo cambio trae desventajas y ventajas, como ya sabemos. Y por supuesto, hay personas con discapacidades o capacidades diferentes, muy adversas, especialmente para el modo de vida actual, urbano, altamente exigente de productividad, con poco tiempo y paciencia.
 

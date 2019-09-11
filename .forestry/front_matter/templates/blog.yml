@@ -81,6 +81,7 @@ fields:
     name: quote3
     label: quote3
 pages:
+- content/blog/el-superestres-de-superman.md
 - content/blog/el-lenguaje-de-las-palomas.md
 - content/blog/el-experto-que-sabia-leer-las-emociones-o-de-que-pasa-cuando-un-esceptico-inamovible-se-encuentra-con-una-emocion-irresistible.md
 - content/blog/el-buda-necesitaba-psicoterapia-divagaciones-despues-de-un-retiro.md
@@ -208,7 +209,6 @@ pages:
 - content/blog/appendix-philosophicus.md
 - content/blog/la-diva-y-la-audiencia.md
 - content/blog/joseph-conrad-la-paradoja-del-marino-sedentario.md
-- content/blog/el-superestres-de-superman.md
 - content/blog/hubo-una-vez-un-retiro-de-meditacion.md
 - content/blog/variaciones-sobre-dhammapada-i1-5.md
 - content/blog/no-hay-filosofia-sino-filosofos.md
