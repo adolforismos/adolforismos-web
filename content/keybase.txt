@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adolforismos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adolforismos.com
+  * I am adolforismos (https://keybase.io/adolforismos) on keybase.
+  * I have a public key ASDKBPzdkLQi6MLbsSdvr1w0XeZ37liVFqyAlVPu1YDOXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca04fcdd90b422e8c2dbb1276faf5c345de677ee589516ac809553eed580ce5d0a",
+      "host": "keybase.io",
+      "kid": "0120ca04fcdd90b422e8c2dbb1276faf5c345de677ee589516ac809553eed580ce5d0a",
+      "uid": "8633809f14aeb2ed0a041a4564f8fd19",
+      "username": "adolforismos"
+    },
+    "merkle_root": {
+      "ctime": 1568486344,
+      "hash": "801e1c1f82a58e7713d0e563d0dc5dc8fa7b1ab34583bbcc0f20b019addd1654e296fbad521c32f3f7d124455a608acbc34ce5965ef8f4119d9de6ab56b3e7f5",
+      "hash_meta": "40ab039a3e71c625cc88e8bdce332b902dde4e3e852fe99b7d5bb974a08e90a0",
+      "seqno": 7342510
+    },
+    "service": {
+      "entropy": "gud+wzzadjs/kraBkpBPIBqq",
+      "hostname": "adolforismos.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568486355,
+  "expire_in": 504576000,
+  "prev": "de256211dd64695e2e973552a1557a241fb1cf7a5b621f86123f6fc1c1a9895f",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgygT83ZC0IujC27Enb69cNF3md+5YlRasgJVT7tWAzl0Kp3BheWxvYWTESpcCEsQg3iViEd1kaV4ulzVSoVV6JB+xz3pbYh+GEj9vwcGpiV/EIARmbxE/3rzMN/kTbEHMKhrEK/Uv2uDQI/MoDhKnEEhcAgHCo3NpZ8RAoTWQLVfqgQ3iE4jvCkefN9f0aO93ajCeBRwZ9oqyEN/6CBHIa+Rk+DAyYy/Tjq1sOzGvtNWTon11ZmoLDVVKDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF0NavZ4VvE89xDPXKBVY9PtnJTDSxWuM2g5n5b43+y/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adolforismos
+
+==================================================================
