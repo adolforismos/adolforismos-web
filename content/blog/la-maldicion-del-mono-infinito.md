@@ -45,3 +45,6 @@ De ahí que en el acto de publicar, al menos para algunos como el que escribe, s
 Por eso escribir y publicar en la web se ha vuelto un poco serio: hemos dejado a los jugadores de ocasión en las redes sociales. Tal vez como bloguero o bitacorero (¿cómo les llamábamos?) nunca llegue a escribir un Shakespeare, pero por lo menos siento que tengo que cuidar un poco más lo que publico.
 
 En fin, que casi respondo la pregunta en el planteamiento. Estoy escribiendo un texto suficientemente largo como para publicarlo y compartirlo. Y claro, seguir el camino del mono infinito. Así las cosas.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc5NjUzMzc5OV19
+-->
