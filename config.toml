@@ -17,6 +17,10 @@ DefaultContentLanguage  =  "es"
     [languages.es.params]
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
+     [[languages.es.menu.main]]
+      name = "english"
+      url = "/en/"
+      weight = 15
   [languages.en]
     [languages.en.params]
       description = "Polymath, author, thinker, psychotherapist; human behavior, media and audiences specialist; but above all, father, husband, meditator, lover of the present"
@@ -34,6 +38,10 @@ DefaultContentLanguage  =  "es"
       name = "about"
       url = "/acerca-de/"
       weight = 10
+    [[languages.en.menu.main]]
+      name = "español"
+      url = "/"
+      weight = 15
 
 
 # Enable syntax highlighting.
