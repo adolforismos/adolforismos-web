@@ -18,6 +18,22 @@ DefaultContentLanguage  =  "es"
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
      [[languages.es.menu.main]]
+      name = "inicio"
+      url = "/"
+      weight = 1
+     [[languages.es.menu.main]]
+      name = "blog"
+      url = "/blog/"
+      weight = 5
+     [[languages.es.menu.main]]
+      name = "proyectos"
+      url = "/proyectos/"
+      weight = 5
+     [[languages.es.menu.main]]
+      name = "info"
+      url = "/acerca-de/"
+      weight = 10
+     [[languages.es.menu.main]]
       name = "english"
       url = "/en/"
       weight = 15
@@ -95,22 +111,7 @@ footerEnableFollowme = true
 footerEnableTextWidget = true
 footerEnableFormWidget = true
 
-[[menu.main]]
-    name = "inicio"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/blog/"
-    weight = 5
-[[menu.main]]
-    name = "proyectos"
-    url = "/proyectos/"
-    weight = 5
-[[menu.main]]
-    name = "info"
-    url = "/acerca-de/"
-    weight = 10
+
 [[params.social]]
 	name = "twitter"
 	url = "https://twitter.com/adolforismos"
