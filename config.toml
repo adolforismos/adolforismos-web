@@ -10,7 +10,7 @@ pluralizelisttitles = false
 paginate = 600
 googleAnalytics = "UA-6029436-1"
 
-DefaultContentLanguage  =  "es"  
+DefaultContentLanguage  =  "es-mx"  
 # copyright  =  "Everything is mine"  
 [languages]
   [languages.en.params]
