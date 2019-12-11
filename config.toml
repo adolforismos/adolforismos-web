@@ -14,10 +14,9 @@ DefaultContentLanguage  =  "es"
 # copyright  =  "Everything is mine"  
 [languages]
   [languages.es]
-    [languages.es.params]
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
+      subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
   [languages.en]
-    [languages.en.params]
       description = "Polymath, author, thinker, psychotherapist; human behavior, media and audiences specialist; but above all, father, husband, meditator, lover of the present"
       address = "Mexico City, Mexico"
       subtitle = "Psychotherapist, writer, buddhist, teacher, audience and media specialist"
@@ -56,7 +55,7 @@ tag = "tags"
 [params]
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
+# description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
 faviconfile = "img/adolforamirezcorona.png"
 highlightjs = true
 name = "Adolfo Ramírez Corona"
@@ -65,7 +64,7 @@ address = "Ciudad de México, México"
 year = "2019"
 background = "img/adolforamirezcorona.png"
 favicon = "img/adolforamirezcorona.png"
-subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
+# subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 recentPostsCount = 5
 # Content types which are excluded from recent posts and archive page (Optional). Defaults to ["page"]
