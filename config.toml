@@ -117,7 +117,4 @@ footerEnableFormWidget = true
 	title = "rss"
 	url = "https://adolforismos.com/index.xml"
     icon = "rss" 
-[[params.social]]
-	name = "medium"
-	url = "https://medium.com/@adolforismos"
-    icon = "medium"
+
