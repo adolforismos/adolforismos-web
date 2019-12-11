@@ -10,6 +10,15 @@ pluralizelisttitles = false
 paginate = 600
 googleAnalytics = "UA-6029436-1"
 
+DefaultContentLanguage  =  "es"  
+# copyright  =  "Everything is mine"  
+[languages]
+  [languages.en.params]
+    description = "Polymath, author, thinker, psychotherapist; human behavior, media and audiences specialist; but above all, father, husband, meditator, lover of the present"
+    address = "Mexico City, Mexico"
+    subtitle = "Psychotherapist, writer, buddhist, teacher, audience and media specialist"
+
+
 # Enable syntax highlighting.
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -37,7 +46,7 @@ highlightjs = true
 name = "Adolfo Ramírez Corona"
 author = "adolforismos"
 address = "Ciudad de México, México"
-year = "2018"
+year = "2019"
 background = "img/adolforamirezcorona.png"
 favicon = "img/adolforamirezcorona.png"
 subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios"
@@ -77,31 +86,14 @@ footerEnableFormWidget = true
     name = "info"
     url = "/acerca-de/"
     weight = 10
-
-# Your Disqus sortname.
-# disqusShortname = "localhost"
-
-#[params.disqus]
-#    site = "hugo-initio-site.disqus.com"
-
-#[params.sharethis]
-#    property = "123456789012345678901234"
-#    custom = true
-
-#[params.google.analytics]
-#   trackerID = "UA-6029436-1"
-
-#[[params.social]]
-#	title = "facebook"
-#	url = "https://www.facebook.com/nickname"
-#    icon = "fa-facebook-square"
-#    footer = true
-#    sharethis = true
-#    network = "facebook"
 [[params.social]]
 	name = "twitter"
 	url = "https://twitter.com/adolforismos"
     icon = "twitter"
+    [[params.social]]
+	name = "medium"
+	url = "https://medium.com/@adolforismos"
+    icon = "medium"
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/adolforamirez"
