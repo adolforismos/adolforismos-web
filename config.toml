@@ -14,15 +14,17 @@ DefaultContentLanguage  =  "es"
 # copyright  =  "Everything is mine"  
 [languages]
   [languages.es]
+    [languages.es.params]
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
   [languages.en]
+    [languages.en.params]
       description = "Polymath, author, thinker, psychotherapist; human behavior, media and audiences specialist; but above all, father, husband, meditator, lover of the present"
       address = "Mexico City, Mexico"
       subtitle = "Psychotherapist, writer, buddhist, teacher, audience and media specialist"
     [[languages.en.menu.main]]
       name = "home"
-      url = "/"
+      url = "/en/"
       weight = 1
     [[languages.en.menu.main]]
       name = "projects"
