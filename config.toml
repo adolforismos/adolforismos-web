@@ -19,6 +19,18 @@ DefaultContentLanguage  =  "es"
     description = "Polymath, author, thinker, psychotherapist; human behavior, media and audiences specialist; but above all, father, husband, meditator, lover of the present"
     address = "Mexico City, Mexico"
     subtitle = "Psychotherapist, writer, buddhist, teacher, audience and media specialist"
+    [[languages.en.menu.main]]
+      name = "home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "projects"
+      url = "/proyectos/"
+      weight = 5
+    [[languages.en.menu.main]]
+      name = "about"
+      url = "/acerca-de/"
+      weight = 10
 
 
 # Enable syntax highlighting.
@@ -92,10 +104,6 @@ footerEnableFormWidget = true
 	name = "twitter"
 	url = "https://twitter.com/adolforismos"
     icon = "twitter"
-    [[params.social]]
-	name = "medium"
-	url = "https://medium.com/@adolforismos"
-    icon = "medium"
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/adolforamirez"
@@ -107,4 +115,8 @@ footerEnableFormWidget = true
 [[params.social]]
 	title = "rss"
 	url = "https://adolforismos.com/index.xml"
-    icon = "rss"
+    icon = "rss" 
+[[params.social]]
+	name = "medium"
+	url = "https://medium.com/@adolforismos"
+    icon = "medium"
