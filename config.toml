@@ -19,6 +19,7 @@ DefaultContentLanguage  =  "es"
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
       mainSections = ["blog"]
+      mainSections = "blog"
      [[languages.es.menu.main]]
       name = "inicio"
       url = "/"
@@ -81,6 +82,8 @@ category = "categories"
 tag = "tags"
 
 [params]
+mainSections = ["blog"]
+mainSections = "blog"
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 # description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
