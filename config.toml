@@ -61,6 +61,10 @@ tag = "tags"
       name = "info"
       url = "/acerca-de/"
       weight = 10
+[[menu.main]]
+      name = "english"
+      url = "https://medium.com/@adolforismos"
+      weight = 15
 
 [[params.social]]
 	name = "twitter"
