@@ -81,6 +81,25 @@ category = "categories"
 tag = "tags"
 
 [params]
+      description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
+      subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
+      mainSections = ["blog"]
+     [[menu.main]]
+      name = "inicio"
+      url = "/"
+      weight = 1
+     [[menu.main]]
+      name = "blog"
+      url = "/blog/"
+      weight = 5
+     [[menu.main]]
+      name = "proyectos"
+      url = "/proyectos/"
+      weight = 6
+     [[menu.main]]
+      name = "info"
+      url = "/acerca-de/"
+      weight = 10
 mainSections = ["blog"]
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
