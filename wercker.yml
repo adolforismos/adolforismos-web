@@ -2,7 +2,7 @@ box: devillex/docker-firebase
 build:
   steps:
     - arjen/hugo-build@2.5.0:
-        version: "0.48"
+        version: "0.62.2"
         theme: ezhil
 deploy:
   steps:
