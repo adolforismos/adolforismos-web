@@ -52,7 +52,6 @@ tag = "tags"
       name = "info"
       url = "/acerca-de/"
       weight = 10
-mainSections = ["blog"]
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 # description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
