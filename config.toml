@@ -18,7 +18,7 @@ DefaultContentLanguage  =  "es"
     [languages.es.params]
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
-      mainSections = ["posts"]
+      mainSections = ["blog"]
      [[languages.es.menu.main]]
       name = "inicio"
       url = "/"
