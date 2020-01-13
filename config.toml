@@ -28,7 +28,7 @@ DefaultContentLanguage  =  "es"
      [[languages.es.menu.main]]
       name = "proyectos"
       url = "/proyectos/"
-      weight = 5
+      weight = 6
      [[languages.es.menu.main]]
       name = "info"
       url = "/acerca-de/"
