@@ -9,6 +9,7 @@ publishdir = "public"
 pluralizelisttitles = false
 paginate = 600
 googleAnalytics = "UA-6029436-1"
+copyright = "© Adolfo Ramírez Corona"
 
 DefaultContentLanguage  =  "es"  
 # copyright  =  "Everything is mine"  
@@ -17,6 +18,7 @@ DefaultContentLanguage  =  "es"
     [languages.es.params]
       description = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios."
       subtitle = "Psicoterapeuta, escritor, budista, educador, especialista en audiencias y medios.."
+      mainSections = ["posts"]
      [[languages.es.menu.main]]
       name = "inicio"
       url = "/"
