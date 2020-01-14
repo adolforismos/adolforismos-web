@@ -1,27 +1,27 @@
 +++
 author = "adolforismos"
-date = "2019-08-07T00:00:00-05:00"
+date = 2019-08-07T05:00:00Z
 description = ""
 lastmod = ""
-title = "Projects"
+title = "Proyectos"
 type = "page"
 url = "proyectos"
 weight = 0
 
 +++
-
 ### Contenidos
+
+[UX Collective](https://uxdesign.cc/@adolforismos). — Escribiendo y publicando en inglés sobre diseño, experiencia de usuario, y marketing.
 
 [Micromeditaciones (lista de correo o newsletter)](https://micromeditaciones.substack.com/) — Reflexiones, historias e ideas breves y ligeras para cambiar tu realidad. A veces las escrituras, meditaciones, o aquello llamado contenidos, no alcanzan a llegar a sus destinatarios, eso llamado audiencia. Después de un blog, dos sitios web, dos podcast, y las inevitables redes sociales, aún tengo cosas que compartir. Tal vez una carta.
 
 [Meditación Psicoterapéutica (podcast)](https://anchor.fm/meditacionpsicoterapeutica) — Reflexiones, historias, meditaciones guiadas, alrededor de temas psicoterapéuticos y meditativos, pero sobre todo humanos. Lo mejor de dos mundos para vivir mejor en este.
 
-[Blog](https://adolforismos.com/blog/) — La primer entrada de este blog es del 23 de enero de 2002. Los temas, géneros y formatos son muy variados y diversos. Tecnología, sistemas, filosofía, audiencias, medios, neurociencias, psicoterapia, pero también aforismos, haikus, ficciones. Pásele a curiosear. 
+[Blog](https://adolforismos.com/blog/) — La primer entrada de este blog es del 23 de enero de 2002. Los temas, géneros y formatos son muy variados y diversos. Tecnología, sistemas, filosofía, audiencias, medios, neurociencias, psicoterapia, pero también aforismos, haikus, ficciones. Pásele a curiosear.
 
 [Cómo cambiar la realidad (libro)](https://adolforismos.com/nuevo-libro-como-cambiar-tu-realidad/) — ¿Quieres cambiar tu realidad? El secreto para cambiar tu realidad puede estar más cerca de ti de lo que crees. Este libro reúne diferentes textos escritos por el autor durante el estudio de la mente, pero sobre todo, materiales usados durante los cursos y talleres que el autor imparte y que han ayudado a muchas personas a lograr un cambio en sus vidas.
 
 [Cómo encontrar tu propia meditación (webinar)](https://enlinea.innova.edu.mx/programas/webinar/como-encontrar-tu-propia-meditacion/#page-content) — Un sistema para aprender a meditar y descubrir qué métodos y técnicas son los mejores para ti. Este es un curso para meditar más que para aprender meditación. ¿Por qué?Porque lo importante de la meditación es meditar. Porque no hay meditación sino meditadores.
-
 
 [La carta dialéctica (libro)](https://adolforismos.com/libro-la-carta-dialectica) — Primera selección de cuentos breves, relatos, fragmentos, reflexiones y divagaciones que el autor ha publicado en su blog personal desde el año dos mil dos a la fecha. Ficciones, reflexiones, apuntes de diario, aforismos… a la variedad de las formas le acompañan la variedad en los temas: la escritura, la información, el mar, los cafés, los inventarios, las polillas, los pájaros, el todo…
 
@@ -43,7 +43,6 @@ Cómo sobrevivir al Titanic (conferencia) — Cuando nuestra vida es un desastre
 
 [Innova En Línea (diseño y desarrollo web)](http://enlinea.innova.edu.mx/) — Sitio web y sistema de gestión de aprendizaje (LMS, _learning management system_) para el área de educación continua y a distancia de Universidad Innova.
 
-
 ### Servicios
 
 [Psicoterapia](https://adolforismos.com/service/psicoterapia/) — Como psicoterapeuta atiendo muy diferentes temas, pero siempre encaminados a la práctica y desarrollo de prácticas meditativas, hipnoterapia, y afines.
@@ -61,4 +60,3 @@ Coaching — Personal o profesional, acompañamiento y guía en desarrollo de ha
 [¿Qué es meditar? (video)](https://www.youtube.com/watch?v=11JF_g2M7Ao&t=2s) — ¿Qué es meditar? Si alguna vez te has preguntado de que va esto de la meditación, o tal vez la haz practicado y te ha sido difícil de explicar la experiencia, este video responde a esta pregunta con una animación y un texto lúdico y sencillo con el fin de motivarnos a empezar a meditar.
 
 [Creo en la mujer (video)](https://www.youtube.com/watch?v=RFiyCKU7894&t=47s) — _«Creo en la mujer porque es ella la que es el ser humano a secas. Los mitos desconocen lo que la biología y ciencia cuentan: primero mujer, luego costilla, finalmente un hombre.»_
-
