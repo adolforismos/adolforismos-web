@@ -1,9 +1,9 @@
 +++
 author = ""
-date = "2019-12-11T00:00:00-06:00"
+date = 2019-12-11T06:00:00Z
 description = ""
 lastmod = ""
-title = "About"
+title = "Acerca de..."
 type = "page"
 url = "acerca-de"
 weight = 10
