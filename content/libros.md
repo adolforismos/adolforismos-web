@@ -4,17 +4,11 @@ title: Libros
 url: "/libros/"
 lastmod: 
 type: page
-weight: 0
+weight: 
 description: ''
 author: ''
 
 ---
-# Libros
-
-
-----
-
-
 ## Cómo cambiar tu realidad
 
 ¿Quieres cambiar tu realidad? El secreto para cambiar tu realidad puede estar más cerca de ti de lo que crees. Este libro reúne diferentes textos escritos por el autor durante el estudio de la mente, pero sobre todo, materiales usados durante los cursos y talleres que el autor imparte y que han ayudado a muchas personas a lograr un cambio en sus vidas.
@@ -24,7 +18,7 @@ author: ''
 Disponible en:
 [Amazon.com](https://www.amazon.com/dp/B079F2KBNT), [Amazon.com.mx](https://www.amazon.com.mx/dp/B079F2KBNT), [Amazon.es](https://www.amazon.es/dp/B079F2KBNT), [Kobo](https://www.kobo.com/mx/es/ebook/como-cambiar-tu-realidad), [Gandhi](http://www.gandhi.com.mx/como-cambiar-tu-realidad), [Apple iBooks](https://itunes.apple.com/pa/book/c%C3%B3mo-cambiar-tu-realidad/id1340623823), [Smashwords](https://www.smashwords.com/books/view/778246)
 
-----
+***
 
 ## La carta dialéctica
 
