@@ -6,7 +6,7 @@ lastmod = ""
 title = "CV"
 type = "page"
 url = "cv"
-weight = nil
+weight = 9
 
 +++
 _[English version](https://adolforismos.github.io/markdown-cv/)_
