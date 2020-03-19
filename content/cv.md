@@ -1,15 +1,15 @@
 +++
 author = "adolforismos"
-date = "2017-02-01"
+date = 2017-02-01T00:00:00Z
 description = ""
 lastmod = ""
 title = "CV"
 type = "page"
 url = "cv"
-weight = 0
+weight = nil
 
 +++
-_[English version in pdf](https://adolforismos.com/img/ResumeAdolfoRamirezCorona2017.pdf)_
+_[English version](https://adolforismos.github.io/markdown-cv/)_
 
 # Resumen profesional
 
