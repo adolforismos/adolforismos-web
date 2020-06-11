@@ -16,37 +16,33 @@ title = "Adolfo Ramírez Corona"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "inicio"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "blog"
-url = "/blog/"
-weight = 5
-[[menu.main]]
-name = "proyectos"
-url = "/proyectos/"
+name = "libros"
+url = "/libros/"
 weight = 6
-[[menu.main]]
-name = "info"
-url = "/acerca-de/"
-weight = 10
-[[menu.main]]
-name = "english"
-url = "https://medium.com/@adolforismos"
-weight = 15
-[[menu.main]]
-name = "micromeditaciones"
-url = "https://micromeditaciones.substack.com"
-weight = 2
 [[menu.main]]
 name = "podcast"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
 weight = 3
 [[menu.main]]
-name = "libros"
-url = "/libros/"
-weight = 7
+name = "micromeditaciones"
+url = "https://micromeditaciones.substack.com"
+weight = 2
+[[menu.main]]
+name = "english"
+url = "https://medium.com/@adolforismos"
+weight = 8
+[[menu.main]]
+name = "proyectos"
+url = "/proyectos/"
+weight = 5
+[[menu.main]]
+name = "blog"
+url = "/blog/"
+weight = 4
+[[menu.main]]
+name = "inicio"
+url = "/"
+weight = 1
 [params]
 address = "Ciudad de México, México"
 author = "adolforismos"

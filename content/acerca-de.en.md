@@ -7,6 +7,9 @@ title = "Acerca de..."
 type = "page"
 url = "acerca-de-en"
 weight = 10
+[menu.main]
+name = "info"
+weight = 7
 
 +++
 ## Hola…
