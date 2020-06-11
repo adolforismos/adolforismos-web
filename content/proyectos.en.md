@@ -7,6 +7,9 @@ title = "Proyectos"
 type = "page"
 url = "proyectos"
 weight = 0
+[menu.main]
+name = "proyectos"
+weight = 5
 
 +++
 ### Contenidos

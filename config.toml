@@ -16,10 +16,6 @@ title = "Adolfo Ramírez Corona"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "libros"
-url = "/libros/"
-weight = 6
-[[menu.main]]
 name = "podcast"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
 weight = 3
@@ -31,10 +27,6 @@ weight = 2
 name = "english"
 url = "https://medium.com/@adolforismos"
 weight = 8
-[[menu.main]]
-name = "proyectos"
-url = "/proyectos/"
-weight = 5
 [[menu.main]]
 name = "blog"
 url = "/blog/"
