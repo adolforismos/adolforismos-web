@@ -1,12 +1,15 @@
 +++
 author = ""
-date = "2017-01-21T00:00:00-06:00"
+date = 2017-01-21T06:00:00Z
 description = ""
 lastmod = ""
 title = "Acerca de..."
 type = "page"
 url = "acerca-de"
 weight = 10
+[menu.main]
+name = "info"
+weight = 7
 
 +++
 ## Hola…
