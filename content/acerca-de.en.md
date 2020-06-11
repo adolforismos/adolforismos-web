@@ -5,7 +5,7 @@ description = ""
 lastmod = ""
 title = "Acerca de..."
 type = "page"
-url = "acerca-de"
+url = "acerca-de-en"
 weight = 10
 
 +++
