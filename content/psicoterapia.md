@@ -24,9 +24,9 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 * Tan sencillo como la **meditación**, tan eficaz como la **psicoterapia, tan práctico como el coaching**
 * **Tu eres tu propio experto**, en ti está la capacidad de cambio
 * **Breve**: 4 sesiones recomendadas, rara vez se llega a las diez para un tema o problema
-* Sesiones a distancia a través de **Skype o FaceTime** desde la comodidad de tu hogar y flexibilidad de horario
+* Sesiones a distancia a través de **Zoom**, **Meet**, **Skype o FaceTime** desde la comodidad de tu hogar y flexibilidad de horario
 * Costo de **$600 pesos/mx por sesión** o $1,600 pesos/mx ($99 USD) por 4 sesiones (sesiones de una hora c/u)
-* Prueba una sesión **GRATIS** sin compromiso a través de Skype, FaceTime o Hangouts desde la comodidad de tu hogar
+* Prueba una sesión **GRATIS** sin compromiso a través de Zoom, Skype, FaceTime o Meet desde la comodidad de tu hogar
 * Toda información proporcionada está protegida por el privilegio de <a href="http://www.conamed.gob.mx/publicaciones/cartas/pdf/POSTER_PACIENTES_2014.pdf" target="_blank">**confidencialidad** paciente-psicoterapeuta</a>
 
 ***
@@ -38,4 +38,6 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 ***
 
 ##### Solicita cita directamente en mi agenda de [mi cuenta en Freebusy.io ](https://freebusy.io/adolforamirez@gmail.com/60min)
+
 ***
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGsBVm3Si8ZM_WJTCxRc4mhi8zWCQoWmWneUdPyUE4XjEn1g/viewform?embedded=true" width="640" height="822" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
