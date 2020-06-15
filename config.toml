@@ -20,7 +20,7 @@ name = "podcast"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
 weight = 3
 [[menu.main]]
-name = "micromeditaciones"
+name = "newsletter"
 url = "https://micromeditaciones.substack.com"
 weight = 2
 [[menu.main]]
