@@ -8,7 +8,7 @@ type = "page"
 url = "acerca-de"
 weight = 10
 [menu.main]
-weight = 2
+weight = 1
 
 +++
 ## Hola…

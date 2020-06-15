@@ -18,15 +18,15 @@ hrefTargetBlank = true
 [[menu.main]]
 name = "newsletter"
 url = "https://micromeditaciones.substack.com"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "podcast"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "english"
 url = "https://medium.com/@adolforismos"
-weight = 1
+weight = 6
 [params]
 address = "Ciudad de México, México"
 author = "adolforismos"
