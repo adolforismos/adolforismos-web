@@ -20,17 +20,17 @@ name = "podcast"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
 weight = 3
 [[menu.main]]
-name = "newsletter"
+name = "micromeditaciones"
 url = "https://micromeditaciones.substack.com"
 weight = 2
-[[menu.main]]
-name = "english"
-url = "https://medium.com/@adolforismos"
-weight = 8
 [[menu.main]]
 name = "blog"
 url = "/blog/"
 weight = 4
+[[menu.main]]
+name = "inicio"
+url = "/"
+weight = 1
 [params]
 address = "Ciudad de México, México"
 author = "adolforismos"
