@@ -1,12 +1,15 @@
 +++
 author = "adolforismos"
-date = "2015-08-19T22:29:37-05:00"
+date = 2015-08-20T03:29:37Z
 description = ""
-lastmod = "2015-08-19T22:29:00-05:00"
+lastmod = 2015-08-20T03:29:00Z
 title = "Psicoterapia, meditación y coaching"
 type = "page"
 url = "psicoterapia"
 weight = 0
+[menu.main]
+name = "Psicoterapia y coaching"
+weight = 7
 
 +++
 > Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias

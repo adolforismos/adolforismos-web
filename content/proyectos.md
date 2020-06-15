@@ -9,7 +9,7 @@ url = "proyectos"
 weight = 0
 [menu.main]
 name = "proyectos"
-weight = 5
+weight = 3
 
 +++
 ### Contenidos
