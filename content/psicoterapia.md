@@ -6,7 +6,7 @@ lastmod = 2015-08-20T03:29:00Z
 title = "Psicoterapia, meditación y coaching"
 type = "page"
 url = "psicoterapia"
-weight = 0
+weight = nil
 [menu.main]
 name = "Psicoterapia/coaching"
 weight = 5
@@ -29,27 +29,17 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 * Prueba una sesión **GRATIS** sin compromiso a través de Skype, FaceTime o Hangouts desde la comodidad de tu hogar
 * Toda información proporcionada está protegida por el privilegio de <a href="http://www.conamed.gob.mx/publicaciones/cartas/pdf/POSTER_PACIENTES_2014.pdf" target="_blank">**confidencialidad** paciente-psicoterapeuta</a>
 
----
+***
 
 ## Citas y Contacto
 
 ##### Escríbeme a adolforamirez (en) gmail.com
 
----
+***
 
-##### Agenda en [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
+##### Solicita cita directamente en mi agenda de [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
 
----
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-
-##### <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/adolforismos/consultas');return false;">Agenda una consulta en mi cuenta de Calendly</a>
-
-<!-- Calendly link widget end -->
-
----
+***
 
 ##### O envíame tu correo en este formulario:<br>
 
