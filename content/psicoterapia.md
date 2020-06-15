@@ -40,4 +40,4 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 ##### Solicita cita directamente en mi agenda de [mi cuenta en Freebusy.io ](https://freebusy.io/adolforamirez@gmail.com/60min)
 
 ***
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGsBVm3Si8ZM_WJTCxRc4mhi8zWCQoWmWneUdPyUE4XjEn1g/viewform?embedded=true" width="640" height="822" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+{{< contact >}}
