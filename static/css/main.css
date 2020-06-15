@@ -211,6 +211,7 @@ ul {
     margin-right: 10px;
     margin-top: 10px;
     text-transform: capitalize;
+    background-color: paleturquoise;
 }
 
 .header .site-description {
