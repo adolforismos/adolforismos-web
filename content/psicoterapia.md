@@ -43,10 +43,8 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ##### O envíame tu correo en este formulario:<br>
 
-<form method="POST" action="//formspree.io/adolforismos@icloud.com">
-<input type="email" name="_replyto" placeholder="Tu correo" size="51"><br>
-<textarea name="message" placeholder="Tu mensaje" rows="5" cols="50"></textarea>
-<input type="hidden" name="_subject" value="Consulta!" />
-<input type="hidden" name="_next" value="https://adolforismos.com/gracias" />
-<br><button type="submit">Enviar</button>
+<form action="[https://formspree.io/xoqkwzjk](https://formspree.io/xoqkwzjk "https://formspree.io/xoqkwzjk")" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
 </form>
