@@ -9,7 +9,7 @@ url = "psicoterapia"
 weight = 0
 [menu.main]
 name = "Psicoterapia y coaching"
-weight = 7
+weight = 6
 
 +++
 > Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias

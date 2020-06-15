@@ -16,13 +16,13 @@ title = "Adolfo Ramírez Corona"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "podcast"
-url = "https://anchor.fm/meditacionpsicoterapeutica"
-weight = 6
-[[menu.main]]
 name = "newsletter"
 url = "https://micromeditaciones.substack.com"
-weight = 4
+weight = 3
+[[menu.main]]
+name = "podcast"
+url = "https://anchor.fm/meditacionpsicoterapeutica"
+weight = 5
 [[menu.main]]
 name = "english"
 url = "https://medium.com/@adolforismos"
