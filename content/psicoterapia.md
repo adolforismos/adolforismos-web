@@ -33,18 +33,10 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ## Citas y Contacto
 
-##### Escríbeme a adolforamirez (en) gmail.com
+##### Escríbeme a adolforamirez (en) gmail.com o un mensaje por twitter @adolforismos para hacer DM.
 
 ***
 
 ##### Solicita cita directamente en mi agenda de [mi cuenta en Freebusy.io ](https://freebusy.io/efd1d961ade5d81bf897e79ac85ee291/60min)
 
 ***
-
-##### O envíame tu correo en este formulario:<br>
-
-<form action="[https://formspree.io/xoqkwzjk](https://formspree.io/xoqkwzjk "https://formspree.io/xoqkwzjk")" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
