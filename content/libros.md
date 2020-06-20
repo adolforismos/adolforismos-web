@@ -13,6 +13,22 @@ menu:
     weight: 3
 
 ---
+## We Are not Shakespeare in Quarantine
+
+This is not King Lear or Macbeth. You will not find the development of a new calculus.
+
+Instead, you will go through ideas and stories about our emotions, lessons from a little prince, challenging decisions, anxiety, remote work, working with children at home, videoconferences, challenges in the new normal, the post-pandemic crisis, the future, post-traumatic growth, and how to escape lockdown.
+
+These ideas and stories will help you with the anxiety and stress we are living in now. There are useful resources to work through this challenging time. This is what a psychotherapist, father and remote worker has written until now about living and working with his family during the COVID-19 pandemic.
+
+We are not Shakespeare in quarantine. But we are not alone either.
+
+![](/img/41i-afzqltl.jpg)
+
+Available at:
+
+[Amazon.com](https://www.amazon.com/dp/B08B1MFQMY), [Apple iBooks](https://books.apple.com/mx/book/we-are-not-shakespeare-in-quarantine/id1519280743?l=en), [Smashwords](https://www.smashwords.com/books/view/1028333)
+
 ## Cómo cambiar tu realidad
 
 ¿Quieres cambiar tu realidad? El secreto para cambiar tu realidad puede estar más cerca de ti de lo que crees. Este libro reúne diferentes textos escritos por el autor durante el estudio de la mente, pero sobre todo, materiales usados durante los cursos y talleres que el autor imparte y que han ayudado a muchas personas a lograr un cambio en sus vidas.
