@@ -23,11 +23,11 @@ These ideas and stories will help you with the anxiety and stress we are living 
 
 We are not Shakespeare in quarantine. But we are not alone either.
 
-![](/img/41i-afzqltl.jpg)
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.com.mx/kp/card?asin=B08B1MFQMY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_tW87EbK65WDXH" ></iframe>
 
 Available at:
 
-[Amazon.com](https://www.amazon.com/dp/B08B1MFQMY), [Apple iBooks](https://books.apple.com/mx/book/we-are-not-shakespeare-in-quarantine/id1519280743?l=en), [Smashwords](https://www.smashwords.com/books/view/1028333)
+[Amazon.com](https://www.amazon.com/dp/B08B1MFQMY), [Apple iBooks](https://books.apple.com/mx/book/we-are-not-shakespeare-in-quarantine/id1519280743?l=en), [Smashwords](https://www.smashwords.com/books/view/1028333), [Barnes & Noble](https://www.barnesandnoble.com/w/we-are-not-shakespeare-in-quarantine-adolfo-ram-rez-corona/1137194800?ean=2940164116644), [Kobo](https://www.kobo.com/mx/en/ebook/we-are-not-shakespeare-in-quarantine)
 
 ## Cómo cambiar tu realidad
 
