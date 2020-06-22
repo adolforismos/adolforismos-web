@@ -23,7 +23,7 @@ These ideas and stories will help you with the anxiety and stress we are living 
 
 We are not Shakespeare in quarantine. But we are not alone either.
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://leer.amazon.com.mx/kp/card?asin=B08B1MFQMY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_tW87EbK65WDXH" ></iframe>
+![](/img/41i-afzqltl.jpg)
 
 Available at:
 
