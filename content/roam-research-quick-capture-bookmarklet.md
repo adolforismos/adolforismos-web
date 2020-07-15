@@ -13,7 +13,7 @@ A simple bookmarklet to capture text from a webpage to Roam Research.
 
 You can use or adapt the code below or simple drag and drop this link to your bookmarks/favorites bar on you browser.
 
-<a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://roamresearch.com?text=**'+encodeURIComponent(d)+'** — via \['+encodeURIComponent(p)+'\]('+encodeURIComponent(q)+')#quick-capture','Roam','toolbar=no,width=700,height=350'));)">Capture to Roam</a>
+<a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://roamresearch.com?text='+encodeURIComponent(d)+' — via ['+encodeURIComponent(p)+']('+encodeURIComponent(q)+')#quick-capture','Roam','toolbar=no,width=700,height=350'));)">Capture to Roam</a>
 
     javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://roamresearch.com?text=__'+encodeURIComponent(d)+'__ — via ['+encodeURIComponent(p)+']('+encodeURIComponent(q)+')#quick-capture','Roam','toolbar=no,width=700,height=350'));
 
