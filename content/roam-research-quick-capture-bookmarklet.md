@@ -2,7 +2,6 @@
 author = "adolforismos"
 date = 2020-07-15T05:00:00Z
 description = ""
-draft = true
 lastmod = ""
 title = "Roam Research quick capture bookmarklet"
 type = "page"
