@@ -9,7 +9,8 @@ url = "cv"
 weight = 9
 
 +++
-_[English version](https://adolforismos.github.io/markdown-cv/)_
+_[Versión corta para imprimir](https://adolforismos.github.io/markdown-cv/cv_es).
+[English version](https://adolforismos.github.io/markdown-cv/)_.
 
 # Resumen profesional
 
@@ -29,10 +30,10 @@ Ejecutiva y Operativa • Especialista en Medios y Audiencias • Comunicación 
 - *2015-16* • **Nyx, Software y Tecnología** • Project Manager
 - *2014* • **Sistema Público de Radiodifusión del Estado Mexicano** • Consultor de Audiencias de Televisión
 - *2013 a la fecha* • **HN Consultores Educativos** • Consultor, asesor e investigador en TICs para planes de estudio en educación superior
-- *2004-2012* • **TV Azteca - Proyecto 40** • Director de Programación y Audiencia
-- *2003* • **TV Azteca - Proyecto 40** • Gerente de Audiencias
-- *2002-04* • **Audience Research and Measurement** • Gerente de Capacitación y Procesos
-- *2001* • **Audience Research and Measurement** • Jefe de Capacitación
+- *2006-12* • **TV Azteca - Proyecto 40** • Director de Programación y Audiencia
+- *2006* • **TV Azteca - Proyecto 40** • Gerente de Audiencias
+- *2003-06* • **Audience Research and Measurement** • Gerente de Capacitación y Procesos
+- *2003* • **Audience Research and Measurement** • Jefe de Capacitación
 - *1999-2002* • **Math & Tech** • Gerente General y Consultor
 - *1997-99* • **Consultora Milenio Tres, S.A. de C.V.** • Gerente de Proyectos en Sistemas y Auditorias Informáticas
 - *1993-1996* • *Freelance* en servicios de Comunicación Audiovisual • Clientes: **Profesional Desk**, **Fundación Mexicana para la Salud**, **Amway de México**, **Creare**
