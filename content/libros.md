@@ -1,6 +1,6 @@
 ---
 date: 2018-02-02T20:04:00.000+00:00
-title: Libros
+title: Books/Libros
 url: "/libros/"
 lastmod: 
 type: page
@@ -9,8 +9,8 @@ description: ''
 author: ''
 menu:
   main:
-    name: libros
-    weight: 3
+    name: books/libros
+    weight: 5
 
 ---
 ## We Are not Shakespeare in Quarantine

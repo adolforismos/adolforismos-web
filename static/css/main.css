@@ -201,32 +201,40 @@ ul {
 }
 
 .header nav ul.flat {
-	padding: 0;
+	padding: 0
 }
 
 .header nav ul.flat li {
-    display: inline-block;
+    display: block;
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
     list-style: none;
-    margin-left: 0;
-    margin-right: 10px;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
     margin-top: 10px;
+    padding: 20px;
     text-transform: capitalize;
-    background-color: paleturquoise;
+    background-color: transparent;
+    border-radius: 20px;
 }
 
 .header .site-description {
-	display: flex;
+	display: block;
 	justify-content: space-between;
 }
 
 .header .site-description nav {
-	margin: 0;
+	margin-top: 10px;
+    text-align: center;
 	padding: 0;
 	border: none;
 }
 
 .header .site-description nav ul svg {
-	max-height: 15px;
+	max-height: 25px;
+    padding: 10px;
 }
 
 .section .section-header {

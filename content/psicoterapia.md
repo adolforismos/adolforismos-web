@@ -7,9 +7,7 @@ title = "Psicoterapia, meditación y coaching"
 type = "page"
 url = "psicoterapia"
 weight = 6
-[menu.main]
-name = "Psicoterapia/coaching"
-weight = 5
+
 
 +++
 > Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias

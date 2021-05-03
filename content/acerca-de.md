@@ -3,7 +3,7 @@ author = ""
 date = 2017-01-21T06:00:00Z
 description = ""
 lastmod = ""
-title = "Acerca de..."
+title = "About/Acerca de..."
 type = "page"
 url = "acerca-de"
 weight = 10
@@ -11,9 +11,22 @@ weight = 10
 weight = 1
 
 +++
-## Hola…
 
-…soy Adolfo, escritor, pensador, psicoterapeuta, especialista en medios y audiencias, pero sobre todo, padre, esposo, meditador, yogui, amante del presente, del aquí y ahora.
+### About...
+
+Hi! I'm Adolfo, writer, thinker, psychotherapist, media and audience specialist, but overall, father, husband, meditator, yogi, lover of the present, of here and now.
+
+Throughout my life I have done very different kinds of works and business, from teaching Philosophy and Photography, being a consultant in diverse areas like systems and informatics, education or audience and media, to have been at operative, executive, and directive jobs in various companies.
+
+But what I like and love most is thinking, writing, and teaching. 
+
+Welcome.
+
+---
+
+### Acerca de...
+
+Hola soy Adolfo, escritor, pensador, psicoterapeuta, especialista en medios y audiencias, pero sobre todo, padre, esposo, meditador, yogui, amante del presente, del aquí y ahora.
 
 A lo largo de mi vida me he dedicado a muy diferentes actividades y trabajos, que van desde dar clases de filosofía y fotografía, ser consultor en diferentes ámbitos como sistemas e informática, educación o audiencias y medios, hasta haber ocupado puestos operativos, ejecutivos y directivos en diferentes empresas.
 

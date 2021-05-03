@@ -3,7 +3,7 @@ contentdir = "content"
 copyright = "© Adolfo Ramírez Corona"
 enableEmoji = true
 googleAnalytics = "UA-6029436-1"
-languageCode = "es-mx"
+languageCode = "en-us"
 layoutdir = "layouts"
 paginate = 10
 pluralizelisttitles = false
@@ -12,23 +12,53 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "vs"
 theme = "ezhil"
-title = "Adolfo Ramírez Corona"
+title = "Adolfo Ramírez Corona (adolforismos)"
 [blackfriday]
 hrefTargetBlank = true
+
+
 [[menu.main]]
-name = "newsletter"
-url = "https://micromeditaciones.substack.com"
-weight = 2
-[[menu.main]]
-name = "podcast"
-url = "https://anchor.fm/meditacionpsicoterapeutica"
+name = "newsletter (english)"
+url = "https://newsletter.adolforismos.com"
 weight = 4
+
 [[menu.main]]
-name = "english"
-url = "https://medium.com/@adolforismos"
+name = "newsletter (español)"
+url = "https://micromeditaciones.substack.com/"
 weight = 6
+
+[[menu.main]]
+name = "blog (español)"
+url = "/blog/"
+weight = 7
+
+[[menu.main]]
+name = "meditación psicoterapéutica (podcast en español)"
+url = "https://anchor.fm/meditacionpsicoterapeutica"
+weight = 5
+
+[[menu.main]]
+name = "Articles (at Medium)"
+url = "https://adolforismos.medium.com/"
+weight = 2
+
+[[menu.main]]
+name = "Courses (hyperlink.academy)"
+url = "https://hyperlink.academy/people/adolforismos"
+weight = 3
+
+[[menu.main]]
+name = "Curriculum Vitae (Español)"
+url = "/cv/"
+weight = 9
+
+[[menu.main]]
+name = "Resume (English)"
+url = "https://adolforismos.github.io/markdown-cv/"
+weight = 8
+
 [params]
-address = "Ciudad de México, México"
+address = "CDMX, México"
 author = "adolforismos"
 background = "img/adolforamirezcorona.png"
 dateform = "2006.01.02"
@@ -42,8 +72,9 @@ highlightjs = true
 mainSections = ["blog"]
 mode = "auto"
 name = "Adolfo Ramírez Corona"
-subtitle = "Escritor, psicoterapeuta, coach, educador, especialista en audiencias y medios."
-year = "2019"
+subtitle = "Author, psychotherapist, coach; human behavior, UX, media and audiences; father, husband, meditator"
+year = "2021"
+
 [[params.social]]
 icon = "twitter"
 name = "twitter"
