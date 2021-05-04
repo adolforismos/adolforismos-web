@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Adolfo Ramírez Corona (adolforismos)</title>
+    <link>https://adolforismos.com/categories/</link>
+    <description>Recent content in Categories on Adolfo Ramírez Corona (adolforismos)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Adolfo Ramírez Corona</copyright>
+    <lastBuildDate>Thu, 07 May 2015 20:11:31 +0000</lastBuildDate><atom:link href="https://adolforismos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meditaciones</title>
+      <link>https://adolforismos.com/categories/meditaciones/</link>
+      <pubDate>Thu, 07 May 2015 20:11:31 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/meditaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://adolforismos.com/categories/podcast/</link>
+      <pubDate>Thu, 07 May 2015 20:11:31 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artículos</title>
+      <link>https://adolforismos.com/categories/art%C3%ADculos/</link>
+      <pubDate>Sun, 12 Oct 2014 14:35:28 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/art%C3%ADculos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://adolforismos.com/categories/videos/</link>
+      <pubDate>Tue, 07 Oct 2014 12:21:30 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Favoritos</title>
+      <link>https://adolforismos.com/categories/favoritos/</link>
+      <pubDate>Sun, 05 Oct 2014 20:19:10 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/favoritos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adolforismos</title>
+      <link>https://adolforismos.com/categories/adolforismos/</link>
+      <pubDate>Sat, 12 Jan 2013 03:54:00 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/adolforismos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://adolforismos.com/categories/blog/</link>
+      <pubDate>Thu, 27 Sep 2012 14:12:23 +0000</pubDate>
+      
+      <guid>https://adolforismos.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
