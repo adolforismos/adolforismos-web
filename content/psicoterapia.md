@@ -6,7 +6,9 @@ lastmod = 2015-08-20T03:29:00Z
 title = "Psicoterapia, meditación y coaching"
 type = "page"
 url = "psicoterapia"
-weight = 6
+[menu.main]
+name = "Psicoterapia y Coaching (Español)"
+weight = 22
 
 
 +++
