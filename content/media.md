@@ -14,7 +14,7 @@ Este podcast originalmente estaba hospedado en este sitio, pero se han integrado
 
 ### Podcast de _Meditación Psicoterapéutica_
 
-El espacio donde la sabiduría ancestral de la Meditación se une con los más recientes descubrimientos de la neurociencia y la Psicoterapia para beneficio de todos aquellos que buscan soluciones sencillas y respuestas simples a problemas complejos y preguntas difíciles..
+El espacio donde la sabiduría ancestral de la Meditación se une con los más recientes descubrimientos de la neurociencia y la Psicoterapia para beneficio de todos aquellos que buscan soluciones sencillas y respuestas simples a problemas complejos y preguntas difíciles.
 
 - Escúchalo en [ meditacionpsicoterapeutica.com](http://meditacionpsicoterapeutica.com)
 - Escúchalo o sucríbete a través de [iTunes](https://itunes.apple.com/mx/podcast/meditacion-psicoterapeutica/id565283940)
