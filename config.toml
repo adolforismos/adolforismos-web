@@ -28,6 +28,11 @@ url = "https://micromeditaciones.substack.com/"
 weight = 6
 
 [[menu.main]]
+name = "youtube (english)"
+url = "https://www.youtube.com/channel/UCyOLEBbcub1_SIf7d6iF-uA"
+weight = 4
+
+[[menu.main]]
 name = "blog (español)"
 url = "/blog/"
 weight = 7
