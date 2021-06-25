@@ -16,6 +16,10 @@ title = "Adolfo Ramírez Corona (adolforismos)"
 [blackfriday]
 hrefTargetBlank = true
 
+[[menu.main]]
+name = "flattr"
+url = "https://flattr.com/@adolforismos"
+weight = 20
 
 [[menu.main]]
 name = "newsletter (english)"
