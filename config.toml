@@ -17,34 +17,39 @@ title = "Adolfo Ramírez Corona (adolforismos)"
 hrefTargetBlank = true
 
 [[menu.main]]
-name = "flattr"
+name = "Buy me a coffee $ (flattr)"
 url = "https://flattr.com/@adolforismos"
 weight = 20
 
 [[menu.main]]
-name = "newsletter (english)"
+name = "Antifragile Writing and Tools for Thought (PKMs) Articles"
+url = "https://adolforismos.medium.com/list/antifragile-writing-and-tools-for-thought-pkms-058b8a08c794"
+weight =5
+
+[[menu.main]]
+name = "[[Roaming Writing]] (newsletter in English)"
 url = "https://newsletter.adolforismos.com"
 weight = 4
 
 [[menu.main]]
-name = "newsletter (español)"
+name = "Micromeditationes (newsletter en español)"
 url = "https://micromeditaciones.substack.com/"
-weight = 6
+weight = 8
 
 [[menu.main]]
-name = "youtube (english)"
+name = "Antifragile Writing Youtube Channel (english)"
 url = "https://www.youtube.com/channel/UCyOLEBbcub1_SIf7d6iF-uA"
 weight = 4
 
 [[menu.main]]
 name = "blog (español)"
 url = "/blog/"
-weight = 7
+weight = 10
 
 [[menu.main]]
 name = "meditación psicoterapéutica (podcast en español)"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Articles (at Medium)"
@@ -52,19 +57,19 @@ url = "https://adolforismos.medium.com/"
 weight = 2
 
 [[menu.main]]
-name = "Writing & thinking courses"
+name = "Antifragile Writing & Thinking course"
 url = "https://antifragilewriting.com"
 weight = 3
 
 [[menu.main]]
 name = "Curriculum Vitae (Español)"
 url = "/cv/"
-weight = 9
+weight = 15
 
 [[menu.main]]
 name = "Resume (English)"
 url = "https://adolforismos.github.io/markdown-cv/"
-weight = 8
+weight = 12
 
 [params]
 address = "CDMX, México"
