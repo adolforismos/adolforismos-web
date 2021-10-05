@@ -15,69 +15,57 @@ theme = "ezhil"
 title = "Adolfo Ramírez Corona (adolforismos)"
 [blackfriday]
 hrefTargetBlank = true
-
 [[menu.main]]
 name = "Buy me a coffee $ (flattr)"
 url = "https://flattr.com/@adolforismos"
 weight = 20
-
 [[menu.main]]
 name = "Antifragile Writing and Tools for Thought (PKMs) Articles"
 url = "https://adolforismos.medium.com/list/antifragile-writing-and-tools-for-thought-pkms-058b8a08c794"
-weight =5
-
+weight = 5
 [[menu.main]]
 name = "[[Roaming Writing]] (newsletter in English)"
 url = "https://newsletter.adolforismos.com"
 weight = 4
-
 [[menu.main]]
 name = "Micromeditationes (newsletter en español)"
 url = "https://micromeditaciones.substack.com/"
 weight = 8
-
 [[menu.main]]
 name = "Antifragile Writing Youtube Channel (english)"
 url = "https://www.youtube.com/channel/UCyOLEBbcub1_SIf7d6iF-uA"
 weight = 4
-
 [[menu.main]]
 name = "blog (español)"
 url = "/blog/"
 weight = 10
-
 [[menu.main]]
 name = "meditación psicoterapéutica (podcast en español)"
 url = "https://anchor.fm/meditacionpsicoterapeutica"
 weight = 6
-
 [[menu.main]]
 name = "Articles (at Medium)"
 url = "https://adolforismos.medium.com/"
 weight = 2
-
 [[menu.main]]
 name = "Antifragile Writing & Thinking course"
 url = "https://antifragilewriting.com"
 weight = 3
-
 [[menu.main]]
 name = "Curriculum Vitae (Español)"
 url = "/cv/"
 weight = 15
-
 [[menu.main]]
 name = "Resume (English)"
 url = "https://adolforismos.github.io/markdown-cv/"
 weight = 12
-
 [params]
 address = "CDMX, México"
 author = "adolforismos"
 background = "img/adolforamirezcorona.png"
 dateform = "2006.01.02"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Escritor, psicoterapeuta, coach, educador, especialista en audiencias y medios"
+description = "Escritor, psicoterapeuta, coach, educador, especialista en audiencias y medios."
 disableDisqusTypes = ["page,blog,minipost,service,cursos"]
 favicon = "img/adolforamirezcorona.png"
 faviconfile = "img/adolforamirezcorona.png"
@@ -88,7 +76,6 @@ mode = "auto"
 name = "Adolfo Ramírez Corona"
 subtitle = "I'm a writer, thinker, psychotherapist, media and audience specialist, but overall, I'm a father, husband, meditator, and lover of the present. Instructor at Maven and hyperlink.academy"
 year = "2021"
-
 [[params.social]]
 icon = "twitter"
 name = "twitter"
