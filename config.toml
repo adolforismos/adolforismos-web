@@ -86,7 +86,7 @@ highlightjs = true
 mainSections = ["blog"]
 mode = "auto"
 name = "Adolfo Ramírez Corona"
-subtitle = "Author, psychotherapist, coach; human behavior, UX, media and audiences; father, husband, meditator"
+subtitle = "I'm a writer, thinker, psychotherapist, media and audience specialist, but overall, I'm a father, husband, meditator, and lover of the present. Instructor at Maven and hyperlink.academy"
 year = "2021"
 
 [[params.social]]
