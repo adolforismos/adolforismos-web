@@ -6,10 +6,10 @@ lastmod = 2015-08-20T03:29:00Z
 title = "Psicoterapia, meditación y coaching"
 type = "page"
 url = "psicoterapia"
+weight = nil
 [menu.main]
 name = "Psicoterapia y Coaching (Español)"
 weight = 22
-
 
 +++
 > Es nuestra mente la que define nuestras experiencias: por eso la solución está siempre en la mente y no en las experiencias
@@ -35,9 +35,6 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ##### Escríbeme a adolforamirez (en) gmail.com o un mensaje por twitter @adolforismos para hacer DM.
 
-***
-
-##### Solicita cita directamente en mi agenda de [mi cuenta en Freebusy.io ](https://freebusy.io/adolforamirez@gmail.com/60min)
 
 ***
 {{< contact >}}
