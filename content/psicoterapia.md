@@ -33,7 +33,7 @@ Soy orientador, educador y psicoterapeuta certificado además de haber dedicado 
 
 ## Citas y Contacto
 
-##### Escríbeme a adolforamirez (en) gmail.com o un DM por twitter @adolforismos.
+##### Escríbeme a adolforamirez (en) gmail.com o un DM por Twitter @adolforismos.
 
 
 ***
